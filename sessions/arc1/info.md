@@ -15,6 +15,6 @@ The party is reimprisoned and they meet all of their future partners.
 They discuss as a group how to escape while doing menial tasks and
 awaiting their fate.
 
-### [Session 3: Seizing an Opportunity](session3-06-28.md)
+### [Session 3: Seizing an Opportunity](session3-2020-06-28.md)
 The part once again starts a fight with the guards and find luck
 when several demons attack the prison, allowing them to escape.
