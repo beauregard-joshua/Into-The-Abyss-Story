@@ -9,7 +9,7 @@ navigate.
 * [Session 2: Now the Guards Hate Us](arc1/session2-2020-06-14.md)
 * [Session 3: Seizing the Opportunity](arc1/session3-2020-06-28.md)
 
-## [Arc 2: Travel to Sloobludop]
+## [Arc 2: Travel to Sloobludop](arc2/info.md)
 * [Session 4: Into the Underdark](arc2/session4-2020-07-12.md)
 * [Session 5: An Accidental Genocide](arc2/session5-2020-07-26.md)
 * [Session 6: A Murderer Amongst Us](arc3/session6-2020-08-16.md)
