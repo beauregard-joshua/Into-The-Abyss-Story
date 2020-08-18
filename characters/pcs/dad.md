@@ -23,7 +23,7 @@ Dad is a bit arrogant, and his lack of intelligence lets this get to him at time
 Little is known about Dad and his background. He is surprisingly wise for an orc and makes a lot of "dad" jokes, leading to the possibility that he is actually a father and has a family somewhere.
 
 ## Story
-### The Prison at Velkenvelve
+### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
 Dad arrived at Velkenvelve in the second wave of prisoners, together with Ebadius and Buppido and after the group of Ebadius, Groggle Sixpetal, and Sarith Kzekarit. He immedietely was uncomfortable, not knowing who the others were and also not knowing what races everyone appeared to be. His suggestions for escape all tended to involve fighting, although not many other prisoners were up for these ideas.
 
 Dad, Ebadius, and Buppido were simultaneously assigned to cleaning duty in the mess hall when Dad tried to steal a knife. He was caught by the drow and a fight broke out. Dad backflipped several times and struck the drow, injuring them, but was eventually injured so much by Ilvara that he was unable to continue fighting. While be escorted by the drow back to the jail cell Dad threw himself and his captor over the ledge into the lower spiderwebs. There her tried to escape to safety, fighting alongside Groggle and Alias, before he was eventually overcome and taken back to the cell.
@@ -34,7 +34,7 @@ Dad, Sarith, and another prisoner Eldeth were given a rock stacking chore when S
 
 When it came to leaving Velkevelve, Dad was vocal about traveling with Stool and Sarith to Neverlight Grove, but was outvoted as the partty voted for Sloobludop
 
-### Travel to Sloobludop
+### [Travel to Sloobludop](../../sessions/arc2/info.md)
 Dad acted as one of the frontline warriors in the traveling party, due to his strength and constitution. His sanity began to waver as the party approach the lost city of Alversin. The whispers and scampering sounds eventually caused Dad to lose his mind briefly, but Alias calmed him down and he was able to proceed.
 
 In Alversin, Dad searched a few streets together with Ront, Stool, and Shuushar. After Shuushar ran away screaming, Dad and Ront invstigated to find an octopus (dubbed the *rocktopus*) within the city, and Dad used his newfound axe to kill the octopus with Ront. Together they cut the meat of the octopus for travel.
