@@ -2,7 +2,7 @@
 
 ![Ebadius](ebadius.png)
 
-Ebadius is a tiefling sorcerer played by Nick.
+Ebadius is a male tiefling sorcerer played by Nick.
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Little is known about Ebadius and his background. He is quite capable and strong
 ### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
 Ebadius was one of the first to arrive at Velkenvelve, together with Groggle and Sarith. He didn't do too much question of his companions, instead focusing on escape from prison. Ebadius tried casting magic in the cell and discovered that he was unable to. He performed menial chores together with Groggle and Sarith, including rock stacking.
 
-After the arrival of new prisoners, Ebadius, [Dad](dad.md), and Buppido were tasked with cleaning in the mess hall. Ebadius pointed out a knife for Dad to take, which started a fight in the mess hall with the drow there. He and dad fought a few drow until Ilvara arrived and the two surrendered themselves. While being taken back through the commotion caused by Alias, Groggle, and Sarith, Ebadius tried to throw himself from the ledge down to the spiderwebs, but was unable to do so an claimed "sorry, I slipped," while Dad was successful. Ebadius and Buppido were returned to their cell.
+After the arrival of new prisoners, Ebadius, [Dad](dad.md), and Buppido were tasked with cleaning in the mess hall. Ebadius pointed out a knife for Dad to take, which started a fight in the mess hall with the drow there. He and dad fought a few drow until Ilvara arrived and the two surrendered themselves. While being taken back through the commotion caused by [Alias](alias.md), Groggle, and Sarith, Ebadius tried to throw himself from the ledge down to the spiderwebs, but was unable to do so an claimed "sorry, I slipped," while Dad was successful. Ebadius and Buppido were returned to their cell.
 
 At the cell Ebadius met Eldeth and Jimjar. Immedietly Ebadius convinced Jimjar to run into the cell door twice, causing him to dislocate his shoulder. Eventually Alias, Dad, Groggle, and Sarith were returned to the cell and they negan making their plan to escape. He primarily spoke with Sarith and Groggle regarding escape and did little to befriend other prisoners.
 
@@ -51,5 +51,5 @@ Ebadius has mixed relationships with most members of his party, with few people 
 Ebadius himself is not trusting of Buppido, mainly due to the fact that he has caused many bad situations to get worse and has done little to aid the party. He also does not seem fond of Stool, who also acts as a burden to the party, but does listen to his knowledge of the underdark.
 
 ## Trivia
-* No one has commented on Ebadius' appearence, except for Dad and Edleth, which appears a bit strange considering the fact that he is a tiefling and is likely not lawful or good. Edleth commented on his race since she does not like "those kinds of people," and Dad commented only to say he didn't know what he was.
+* No one has commented on Ebadius' appearence, except for Dad and Eldeth, which appears a bit strange considering the fact that he is a tiefling and is likely not lawful or good. Eldeth commented on his race since she does not like "those kinds of people," and Dad commented only to say he didn't know what he was.
 * Ebadius' surname "Cantos" pays homage to the character "Stelio Kontos" from *American Dad*. If Ebadius has seen this show, then he must be from another plane of existence and has not yet stated this.
