@@ -24,7 +24,7 @@ Little is known about Ebadius and his background. He is quite capable and strong
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
-Ebadius was one of the first to arrive at Velkenvelve, together with Groggle and Sarith. He didn't do too much question of his companions, instead focusing on escape from prison. Ebadius tried casting magic in the cell and discovered that he was unable to. He performed menial chores together with Groggle and Sarith, including rock stacking.
+Ebadius was one of the first to arrive at Velkenvelve, together with [Groggle](groggle.md) and Sarith. He didn't do too much question of his companions, instead focusing on escape from prison. Ebadius tried casting magic in the cell and discovered that he was unable to. He performed menial chores together with Groggle and Sarith, including rock stacking.
 
 After the arrival of new prisoners, Ebadius, [Dad](dad.md), and Buppido were tasked with cleaning in the mess hall. Ebadius pointed out a knife for Dad to take, which started a fight in the mess hall with the drow there. He and dad fought a few drow until Ilvara arrived and the two surrendered themselves. While being taken back through the commotion caused by [Alias](alias.md), Groggle, and Sarith, Ebadius tried to throw himself from the ledge down to the spiderwebs, but was unable to do so an claimed "sorry, I slipped," while Dad was successful. Ebadius and Buppido were returned to their cell.
 

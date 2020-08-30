@@ -24,7 +24,7 @@ Little is known about Dad and his background. He is surprisingly wise for an orc
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
-Dad arrived at Velkenvelve in the second wave of prisoners, together with [Alias](alias.md) and Buppido and after the group of [Ebadius](ebadius.md), Groggle Sixpetal, and Sarith Kzekarit. He immedietely was uncomfortable, not knowing who the others were and also not knowing what races everyone appeared to be. His suggestions for escape all tended to involve fighting, although not many other prisoners were up for these ideas.
+Dad arrived at Velkenvelve in the second wave of prisoners, together with [Alias](alias.md) and Buppido and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. He immedietely was uncomfortable, not knowing who the others were and also not knowing what races everyone appeared to be. His suggestions for escape all tended to involve fighting, although not many other prisoners were up for these ideas.
 
 Dad, Ebadius, and Buppido were simultaneously assigned to cleaning duty in the mess hall when Dad tried to steal a knife. He was caught by the drow and a fight broke out. Dad backflipped several times and struck the drow, injuring them, but was eventually injured so much by Ilvara that he was unable to continue fighting. While be escorted by the drow back to the jail cell Dad threw himself and his captor over the ledge into the lower spiderwebs. There her tried to escape to safety, fighting alongside Groggle and Alias, before he was eventually overcome and taken back to the cell.
 

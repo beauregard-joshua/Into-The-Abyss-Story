@@ -18,9 +18,12 @@ Alias is a secretive and calculating person that is always looking for a new gam
 
 Alias is well organized and calculating, having no difficulties coming up with a plan or strategy. These strategies may be short term and simply be quick ploys, or may involve larger schemes, such as tricking her companions or searching for something lost to her.
 
+## Background
+Little is known about Alias' and her background. She has used the name of someone in discussions with others, implying that there is someone she may know in the underdark, but she has not confided the truth in anyone.
+
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
-Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and Buppido and after the group of [Ebadius](ebadius.md), Groggle, and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. He connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
+Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and Buppido and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. He connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
 
 The prisoners were separated into two groups to perform menial chores to keep them busy. Alias was grouped with Groggle and Sarith and tasked with cleaning laundry at the waterfall. Alias found some rope tucked into a crevice when she heared yelling from the mess hall. Alias moved closer to the mess hall to see the cause and was thrown into a wall by Ilvara, who made her first appearance. Alias infiltrated the room she came from to find the statue of Lolth and tried to topple it, but was surprised to find another priestess and a giant spider. She and Groggle left and followed Sarith's advice to jump down to the webs.
 
