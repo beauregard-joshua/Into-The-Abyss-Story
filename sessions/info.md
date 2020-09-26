@@ -12,4 +12,5 @@ navigate.
 ## [Arc 2: Travel to Sloobludop](arc2/info.md)
 * [Session 4: Into the Underdark](arc2/session4-2020-07-12.md)
 * [Session 5: An Accidental Genocide](arc2/session5-2020-07-26.md)
-* [Session 6: A Murderer Amongst Us](arc3/session6-2020-08-16.md)
+* [Session 6: A Murderer Amongst Us](arc2/session6-2020-08-16.md)
+* [Session 7: Just Keep Walking](arc2/session7-2020-09-13.md)

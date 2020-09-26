@@ -23,3 +23,8 @@ The drow catch up to the party, but with quick thinking the party is
 able to evade detection and find another route. One of them is murdered
 in the night and everyone points fingers. They keep moving along and
 find a cavern full of aggressive fungi.
+
+### [Session 7: Just Keep Walking](session7-2020-09-13.md)
+The party has a mostly uneventful time as they travel the underdark.
+They begin running out of food as they near Slooblidop. Suddenly Sarith
+has a outburst of agression that leaves the party worried.

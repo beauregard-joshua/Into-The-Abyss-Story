@@ -43,7 +43,9 @@ Ebadius helped kill the formerly enslaved goblins in the tunnel, while others qu
 
 After Jimjar was found dead, Ebadius kept mostly to himself and said little about his suspiscions, although he began to wonder about Alias and Buppido, as well as Dad after he intimidated Sarith. He also investigated the body and the weapons everyone had, which then drew a rift between him and Sarith.
 
-Ebadius struck down several aggressive fungi in the fungus caverns.
+Ebadius helped strike down several aggressive fungi in the fungus caverns. He refilled part of his waterskin in the nearby water when he learned from Ront that it was likely poisoned. After everyone left the tunnel, Ebadius destroyed the cavern wall where the water was trickling out and let out a gust of warm wind that blew himself and others down the tunnel before escaping.
+
+After a day's travel, Ebadius stayed on watch with Groggle and Shuushar. He asked Shuushar what Sloobludop was like and learned a bit about their culture in the process. In addition, Ebadius attempted to convince Shuushar that he was "from everywhere," but Shuushar was not convinced, although he did convince Shuushar that tieflings were good people. Afer another day's travel he, together with Groggle, Alias, and Buppido, went to investigate voices that they heard in a nearvy cavern but were unable to find an entrance. On his next watch me sat with Groggle and Buppido, and Ebadius succeeded in convincing Buppido that he was "from everywhere," but was unable to convince him that tieflings are good people. When Sarith woke up screaming, Ebadius tied his hands to keep him from hurting anyone.
 
 ## Relationships
 Ebadius has mixed relationships with most members of his party, with few people that dislike him and few that trust him. His best relationship is with Sarith Kzekarit, with whom he was first imprisoned in Velkenvelve. While he and Sarith shared few words with each other, Ebadius has often trusted Sarith's judgement and has listened to his counsel. Sarith once confided in Ebadius that he did not trust Buppido, a fact that he did not convey with any of the other PCs.

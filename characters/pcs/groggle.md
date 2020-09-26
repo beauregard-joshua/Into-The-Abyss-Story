@@ -20,7 +20,9 @@ While a bit quiet, Groggle is indeed adventurous. For example, when exploring th
 This courage could come from Groggle's resourcefulness. Groggle has made use of improvised weapons as well as maneuvering his way through tricky situations. For example, Groggle was able to calm an aggressive giant spider and ride it for a time. In addition, in a spectacular feat, Groggle was able to convince an enemy drow to turn away while looking for his party.
 
 ## Background
-Little is known about Groggle's background. His music and skills imply that he may have attended a bard's college somewhere.
+Groggle came from a small village somewhere on the surface in which had some form of a revolution. He admitted to participating in the revolution as well when questioned by others about whether or not killing was an acceptable act, where he further added that he learned methods of healing. It was during these difficult times that he learned his craft for medicine.
+
+His musical skills imply that Groggle may have attended a bard's college somewhere, although it is unlikely that he would have attended it in his small village.
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
@@ -41,7 +43,9 @@ Later that night as the drow caught up with them, Groggle cast *suggestion* and 
 
 When Eldeth found Jimjar stabbed to death, Groggle mostly kept quiet and watched the reactions of others as people began pointing fingers. He never made his suspicions known if he had any, but he did ask a few questions of the group to indicate that he was trying to piece it all together. While he was unable to deterine anything, he did stay close to a few people, such as Sarith and Stool, who he supposedly still trusts.
 
-Groggle mostly stayed back during the fight in the fungus cavern.
+Groggle mostly stayed back during the fight in the fungus cavern, steering clear of the spore clouds. After the clouds settled he went to the aid of Ront, who had inhaled a lot of the spores. After he drank the water anc claimed it tasted weird, Groggle used *lesser restoration* to pick him back up before exiting the cavern with everyone, led by Alias.
+
+After traveling for a day Groggle was on watch with Ebadius and Shuushar. Shuushar revealed some dangerous facts about kuo-toan culture that made Groggle rethink (and possibly regret) his vote for Sloobludop. The next day of travel ended with Alias, Ebadius, Groggle, and Buppdio investigating some voices that they had heard from a nearvy cavern, unable to find anything. He also tried to heal the infection on Sarith's face, but it only seemed to burn him in the process. During his watch with Ebadius and Buppido the party was awoken by a screaming Sarith, to which Groggle said little.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.

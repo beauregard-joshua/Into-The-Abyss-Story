@@ -44,7 +44,9 @@ While on watch in the tunnels with Eldeth, Alias heard people moving through the
 
 Later with Alias and Eldeth on watch, Eldeth found Jimjar murdered. Alias filled a vial with water and convinced the party that it was a truth serum and told the party to drink it. When no one confessed, Alias said that it must have been a weak dose and wasnt't enough to get everyone to speak the truth. She then told everyone to relax and get some sleep, waking up when Dad threatened Sarith, then again convinced everyone to sleep.
 
-Alias discovered the mushrooms in the fungus cavern.
+Alias discovered the agressive mushrooms in the fungus cavern and alerted everyone to their advanceent on the party. She led the party out of the cave while Ebadius destroyed the walls to release the water, releasing pressurized air as well.
+
+In her travels to Sloobludop, Alias became increasingly suspicious of Sarith, who spoke to her and admitted that he had no interest in making friends any longer. She also became more suspicous of Buppido, who spoke very bluntly and didn't try to evade speaking of tough subjects. He also mentioned that he was suspicious of Ebadius, who was "too strong to be a sorcerer" and that he "has the means." On the next day of travel she bonded more with Shuushar and learned a bit more about kuo-toa culture in the process. After Sarith woke up in a fit of rage, Alias quickly handed off her rope to Ebadius who tied his hands up.
 
 ## Relationships
 Alias has an affectionate relationship with Eldeth Feldrun and has been courting her for most of their journey. Eldeth appears to listen to Alias in most situations as Alias seems to take the most charge of the party. Alias is also one of the few party members to bond with Stool, and this connection appears to be one of the few that show compassion from Alias. She also has a strangely positive connection with Dad, which is mostly manipulative. Alias often boosts Dad's ego in order to convince him to do what Alias wishes.
@@ -53,3 +55,5 @@ Alias doe snot have many negative relationships with people, although this is po
 
 ## Trivia
 * Alias is quite skilled in several primary skills, but is notorious amongst her party members for being unlucky, and she often struggles to do things she has been trained to do, such as throwing objects for a distraction or climbing rock faces.
+* While Eldeth is aware that Alias is trying so court her, Alias has yet to become aware of this.
+* Alias had not seen Groggle perform any type of bardic ability for the first several days that they were together, and actually thought that Groggle was one of the more useless memebers of the party until she heard that Groggle had helped heal Ront earlier.

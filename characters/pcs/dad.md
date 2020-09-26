@@ -43,6 +43,8 @@ When the party was awoken by the drow search party, Dad quickly stopped Ront fro
 
 After Edleth found Jimjar dead, Dad suspected both Sarith and Buppido. During his watch with Sarith, Dad intimidated Sarith, causing him to get defensive, and after Dad threatened him and woke everyone up, the party began to suspect that Dad had something to do with Jimjar's death. He continued to suspect Sarith and Buppido but said nothing else of it.
 
+Dad stayed mostly behind when fighting the fungus in the fungus caverns, mostly following along with the others. While he mostly kept quiet during their travels, when Dad did speak it was often in great agression toward Sarith, who he still believed was acting suspicously. When a small group left to investigate for a safe place to stay, Dad continued to rile Sarith up and then told the others that Sarith confessed to killing Jimjar, which was a lie.
+
 ## Relationships
 Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.
 
