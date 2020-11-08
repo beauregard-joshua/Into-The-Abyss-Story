@@ -13,4 +13,4 @@ encounter location for clarity.
 | [Groggle](pcs/groggle.md) | Peter | [Session 1](../sessions/arc01/session01-2020-05-24.md) - Present | May 24, 2020 - Present |
 
 ### NPCs
-** TODO **
+**TODO**

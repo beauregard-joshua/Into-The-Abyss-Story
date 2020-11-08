@@ -49,7 +49,7 @@ After traveling for a day Groggle was on watch with Ebadius and Shuushar. Shuush
 
 For much of the remaining travel to Sloobludop Groggle stayed quiet and deferred to Ebadius and Alias for decision making. He stayed somewhat back when encountering the rogue kuo-toa and joined up with Plooplooppeen when he arrived, citing that they needed a safe place to stay.
 
-When in town, Groggle and Ebadius sold much of Alias' spoils together. They sold much to the curiosity shop and had other objects appraised, but his biggest achievement was the purchasing of a drum that sounded like a horn playing C# when struck. He used this instrument to do some street performances, but it did not work out, but he was successful in rallying the patrons of the inn using his drum and som "ham-bonin'".
+When in town, Groggle and Ebadius sold much of Alias' spoils together. They sold much to the curiosity shop and had other objects appraised, but his biggest achievement was the purchasing of a drum that sounded like a horn playing C# when struck. He used this instrument to do some street performances, but it did not work out, but he was successful in rallying the patrons of the inn using his drum and some "ham-bonin'".
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
