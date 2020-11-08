@@ -54,6 +54,8 @@ While on watch, Alias spoke with Sarith for the first time in a while positively
 
 Alias found an advancing kuo-toa party while scouting, which began yelling. Ebadius listened to the party and told them to run, and Alias pulled Shuushar back as they escaped to a nearby cave. Alias and Sarith then follow close behind Shuushar with Ebadius behind them as Shuushar attempts to parlay with the kuo-toa, but he finds himself captured. Sarith convinces Alias to wait and follow the kuo-toa to Sloobludop, but plans change when she sees a new band of kuo-toa intercept them. She killed a kuo-toa guard with Sarith and rescues Shuushar, then ushered Shuushar to again parlay with the kuo-toa.
 
+In Sloobludop, Alias took the opportunity to investigate his party members. She and Eldeth investigated the rooms of their party members to look for clues as to who might be the murderer amongst them, but were unable to find anything. She had also passed off much of her inventory to Ebadius and Groggle to sell to local stores and gave much of her money to Eldeth to buy supplies. Alias also, cleverly using thieves' cant, purchased thieves tools from a local merchant.
+
 ## Relationships
 Alias has an affectionate relationship with Eldeth Feldrun and has been courting her for most of their journey. Eldeth appears to listen to Alias in most situations as Alias seems to take the most charge of the party. Alias is also one of the few party members to bond with Stool, and this connection appears to be one of the few that show compassion from Alias. She also has a strangely positive connection with Dad, which is mostly manipulative. Alias often boosts Dad's ego in order to convince him to do what Alias wishes.
 

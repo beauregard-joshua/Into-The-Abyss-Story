@@ -47,6 +47,12 @@ Ebadius helped strike down several aggressive fungi in the fungus caverns. He re
 
 After a day's travel, Ebadius stayed on watch with Groggle and Shuushar. He asked Shuushar what Sloobludop was like and learned a bit about their culture in the process. In addition, Ebadius attempted to convince Shuushar that he was "from everywhere," but Shuushar was not convinced, although he did convince Shuushar that tieflings were good people. Afer another day's travel he, together with Groggle, Alias, and Buppido, went to investigate voices that they heard in a nearvy cavern but were unable to find an entrance. On his next watch me sat with Groggle and Buppido, and Ebadius succeeded in convincing Buppido that he was "from everywhere," but was unable to convince him that tieflings are good people. When Sarith woke up screaming, Ebadius tied his hands to keep him from hurting anyone.
 
+Ebadius kept a close eye on Sarith after his outburst and was one of the people making decisions about his danger to the party. In the end, he and Alias deemed him calm and released him from his bindings, in which Sarith has proved himself since.
+
+Ebadius stayed behind while Alias, Eldeth, Sarith, and Shuushar investigated the rogue kuo-toa party. When meeting Plooplooppeen, Ebadius attempted to follow custom to the best of his ability and treated the archpriest with much respect, which may be a consequence of his manipulative character.
+
+In Sloobludop, Ebadius spent most of his time selling Alias' inventory with Groggle. He did most of the haggling and didn't buy anything of note for himself, although he took the liberty of skimming money off the top to give to himself and Groggle. He was also on the verge of stealing from the general store until he found the owner inside of a barrel.
+
 ## Relationships
 Ebadius has mixed relationships with most members of his party, with few people that dislike him and few that trust him. His best relationship is with Sarith Kzekarit, with whom he was first imprisoned in Velkenvelve. While he and Sarith shared few words with each other, Ebadius has often trusted Sarith's judgement and has listened to his counsel. Sarith once confided in Ebadius that he did not trust Buppido, a fact that he did not convey with any of the other PCs.
 

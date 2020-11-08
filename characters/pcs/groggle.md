@@ -47,6 +47,10 @@ Groggle mostly stayed back during the fight in the fungus cavern, steering clear
 
 After traveling for a day Groggle was on watch with Ebadius and Shuushar. Shuushar revealed some dangerous facts about kuo-toan culture that made Groggle rethink (and possibly regret) his vote for Sloobludop. The next day of travel ended with Alias, Ebadius, Groggle, and Buppdio investigating some voices that they had heard from a nearvy cavern, unable to find anything. He also tried to heal the infection on Sarith's face, but it only seemed to burn him in the process. During his watch with Ebadius and Buppido the party was awoken by a screaming Sarith, to which Groggle said little.
 
+For much of the remaining travel to Sloobludop Groggle stayed quiet and deferred to Ebadius and Alias for decision making. He stayed somewhat back when encountering the rogue kuo-toa and joined up with Plooplooppeen when he arrived, citing that they needed a safe place to stay.
+
+When in town, Groggle and Ebadius sold much of Alias' spoils together. They sold much to the curiosity shop and had other objects appraised, but his biggest achievement was the purchasing of a drum that sounded like a horn playing C# when struck. He used this instrument to do some street performances, but it did not work out, but he was successful in rallying the patrons of the inn using his drum and som "ham-bonin'".
+
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
 
@@ -54,4 +58,5 @@ On the contrary, Groggle does not have many negative relationships with his part
 
 ## Trivia
 * Groggle is a very good improvisationist, although he has shown confusion when completing tasks he did not expect would work. For example, after taming a giant spider, he audibly stated "now I don't know what to do."
-* Groggle refers to all his musical ventures as "ham-boning", regardless of what instrument is being used.
+* Groggle refers to all his musical ventures as "ham-bonin'", regardless of what instrument is being used.
+* The purchasing for the drum in Sloobludop marked the first musical instrument Groggle had obtained the whole adventure. Unfortunately this instrument cost 50gp and has caused others to boo him for his efforts.
