@@ -51,7 +51,9 @@ When the party enocuntered a rogue group of kuo-tao, Dad was interested in fight
 
 During his time in Sloobludop, Dad did street performances with feats of acrobatics for money. He also performed his acrobatics when the party settled for the evening and helped keep people entertained for some time, along with Groggle's "ham-bonin'". He was actually the inspiration for Eldeth to join in the festivities and try a backflip herself, although it did not work out.
 
+While infiltrating the cult of the Deep Father, Dad attacked the kuo-tao meant to sacrifice everyone after he had attacked Eldeth, but Dr. Lobotomy shattered on impact with the kuo-toa's spear. Dad continued to use the shaft of is weapon as a greatclub.
 
+When Demogorgon emerged from the waters, Dad began to suffer from madness, causing him to start screaming uncontrolably. Eldeth was able to get Dad moving and eventually got him out of the altar. Since neither of them had anything to grab back at the inn, they ran their way into the tunnels of the Underdark, eventually running in to Sarith and Hemeth. Dad heavily encouraged the others to go to Neverlight Grove, but this required that they pass through Gracklstugh along the way, much to his discontent.
 
 ## Relationships
 Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.
@@ -60,4 +62,4 @@ Other the other side, Dad has had a mixed relationship with Sarith Kzekarit, mos
 
 ## Trivia
 * Dad is particularly skilled at doing backflips, even with his hulking size. In his entire time in the Underdark he had injured several enemies with them and has never failed to do a backflip when trying. He did, however, perform a backlip into a waterfall, hoping that there would be a hidden cave behind it, but there was just a rock face.
-* The first weapon Dad found in the Underdark he named "Dr. Lobotomy". Based on his level of intelligence, it is possible that he has had a lobotomy himself or knows someone who has had one.
+* The first weapon Dad found in the Underdark he named "Dr. Lobotomy". Based on his level of intelligence, it is possible that he has had a lobotomy himself or knows someone who has had one.* After escaping Sloobludop, the party reaslized that they had lost Buppido and Stool. Dad expressed his thoughts that, while he was sad that Stool was gone because we was a fine companion, he kindly said that it was for the best that Buppido did not return, seeing as he always acted as a loner. This was his polite way of saying good riddance to Buppido, who Dad did not like.
