@@ -44,6 +44,13 @@ cult of the Deep Father while gathering supplies. They are given a
 nice place to stay, buy supplies, and sell off things they found in
 their travels.
 
+### [Session 10: ???](session10-2020-11-08.md)
+The party infiltrates the Cult of the Deep Father in an attempt to
+quell the schism in Sloobludop. Somehow the ritual ends up summoning
+Demogorgon, the Prince of Demons, and the party escapes into the
+tunnels of the Underdark. They pick up another prisoner and lose
+two of their party members in the process.
+
 ## Arc Links
 * Previous: [Arc 1: The Prison at Velkenvelve](../arc01/info.md)
 * Current: Arc 2: Travel to Sloobludop
