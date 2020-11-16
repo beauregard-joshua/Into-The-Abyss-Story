@@ -53,7 +53,7 @@ When in town, Groggle and Ebadius sold much of Alias' spoils together. They sold
 
 Unsure of who was an enemy and who was a friend, Groggle did little to aid the fight in the Altar of the Deep Father. Once Demogorgon revealed himself from the waters, Groggle was one of the few people who kept themselves together and commanded people to escape. He was the one calmed Eldeth down and convinced her to get Dad out of the altar.
 
-When escaping Sloobludop, Groggle teamed up with Ebadius as they retrieved their belongings from the inn. He was able to signal to their party members that they were coming down the tunnels by using using magic drum and the two of them met up with Sarith, Hemeth, Dad, Eldeth, Shuushar, and Ront.
+When escaping Sloobludop, Groggle teamed up with Ebadius as they retrieved their belongings from the inn. He was able to signal to their party members that they were coming down the tunnels by using using magic drum and the two of them met up with Sarith, [Hemeth](../party/hemeth.md), Dad, Eldeth, Shuushar, and Ront.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.

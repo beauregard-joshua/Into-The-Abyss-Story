@@ -53,7 +53,7 @@ During his time in Sloobludop, Dad did street performances with feats of acrobat
 
 While infiltrating the cult of the Deep Father, Dad attacked the kuo-tao meant to sacrifice everyone after he had attacked Eldeth, but Dr. Lobotomy shattered on impact with the kuo-toa's spear. Dad continued to use the shaft of is weapon as a greatclub.
 
-When Demogorgon emerged from the waters, Dad began to suffer from madness, causing him to start screaming uncontrolably. Eldeth was able to get Dad moving and eventually got him out of the altar. Since neither of them had anything to grab back at the inn, they ran their way into the tunnels of the Underdark, eventually running in to Sarith and Hemeth. Dad heavily encouraged the others to go to Neverlight Grove, but this required that they pass through Gracklstugh along the way, much to his discontent.
+When Demogorgon emerged from the waters, Dad began to suffer from madness, causing him to start screaming uncontrolably. Eldeth was able to get Dad moving and eventually got him out of the altar. Since neither of them had anything to grab back at the inn, they ran their way into the tunnels of the Underdark, eventually running in to Sarith and [Hemeth](../party/hemeth.md). Dad heavily encouraged the others to go to Neverlight Grove, but this required that they pass through Gracklstugh along the way, much to his discontent.
 
 ## Relationships
 Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.
