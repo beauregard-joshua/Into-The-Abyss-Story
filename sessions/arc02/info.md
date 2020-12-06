@@ -44,7 +44,13 @@ cult of the Deep Father while gathering supplies. They are given a
 nice place to stay, buy supplies, and sell off things they found in
 their travels.
 
+### [Session 10: ???](session10-2020-11-08.md)
+The party gathers together to inflitrate the Cult of the Deep Fether.
+Alias stays back as the rest of the party fights the kuo-toa, and
+Demogorgon rises from the Darklake. The party escapes back into the
+tunnels of the Underdark.
+
 ## Arc Links
 * Previous: [Arc 1: The Prison at Velkenvelve](../arc01/info.md)
 * Current: Arc 2: Travel to Sloobludop
-* Next: ???
+* Next: [Arc 3: ???](../arc03/info.md)
