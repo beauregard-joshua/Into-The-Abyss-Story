@@ -1,6 +1,6 @@
 # Groggle Sixpetal
 
-![Groggle](groggle.png)
+![Groggle Sixpetal](Groggle.png)
 
 Groggle is a gnome bard played by Peter.
 

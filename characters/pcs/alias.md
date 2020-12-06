@@ -1,6 +1,6 @@
 # Alias Fakename
 
-![Alias](alias.png)
+![Alias Fakename](Alias.png)
 
 Alias is an female elf rogue played by Mark.
 

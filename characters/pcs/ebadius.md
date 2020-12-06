@@ -1,6 +1,6 @@
 # Ebadius Cantos
 
-![Ebadius](ebadius.png)
+![Ebadius Cantos](Ebadius.png)
 
 Ebadius is a male tiefling sorcerer played by Nick.
 

@@ -1,6 +1,6 @@
 # Dad Father
 
-![Dad Father](dad.png)
+![Dad Father](Dad.png)
 
 Dad is a male half-orc barbarian played by Allie. 
 
