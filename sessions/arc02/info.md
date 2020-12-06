@@ -54,4 +54,4 @@ two of their party members in the process.
 ## Arc Links
 * Previous: [Arc 1: The Prison at Velkenvelve](../arc01/info.md)
 * Current: Arc 2: Travel to Sloobludop
-* Next: ???
+* Next: [Arc 3: ???](../arc03/info.md)
