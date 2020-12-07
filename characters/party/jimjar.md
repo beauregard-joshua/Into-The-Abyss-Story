@@ -1,6 +1,6 @@
 # Jimjar
 
-![Jimjar](jimjar.png)
+![Jimjar](Jimjar.png)
 
 Jimjar was a male deep gnome that joined the party in Velkenvelve. He was with the party from its time in Velkenvelve until his death in the tunnels of the Underdark.
 
