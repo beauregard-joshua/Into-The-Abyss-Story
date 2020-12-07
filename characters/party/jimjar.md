@@ -38,5 +38,5 @@ After his death, Jimjar was mostly forgotten. Some of the paty members such as E
 Jimjar had not been particularly close with any single member of the party. He mostly kept to himself and only spoke when he thought he had something clever to say. He had a bad relationship with Eldeth, who was prejudice against him, as well as Buppido, who he simply did not trust. After his rocky start with Ebadius, their relationship never really rekindled. By the end, his best relationship was either with Shuushar, who had always been friendly to him, or with Alias, who was somewhat using Jimjar just to have another party member act in defense.
 
 ## Trivia
-* Jimjar had a voice akin to *Jarjar Binx* from the move franchsie *Star Wars*. This made it so the party found listening to him quite annoying.
+* Jimjar had a voice akin to *Jarjar Binx* from the movie franchsie *Star Wars*. This made it so the party found listening to him quite annoying.
 * [Dad](../pcs/dad.md) once made a bet with Jimjar that he could hit a stalagtite with a rock and succeeded, meaning that Jimjar owed Dad 5 gold pieces. This debt was never paid.
