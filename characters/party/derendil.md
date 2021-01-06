@@ -5,20 +5,22 @@
 Derendil was a male quaggoth encountered as a prisoner of Velkenvelve.
 
 ## Personality
-Derendil was very polite, much to the surprise of the other party members, due to the nature of quaggoths.
+Derendil was very polite, much to the surprise of the other party members, due to the nature of quaggoths. He spoke regally, has his background would imply, and made a good impression on those he communicated with. He first spoke with [Alias](../pcs/alias.md), who spoke a bit about his past and how he arrived at Velkenvelve. 
 
 ## Background
-Little is known about Hemeth's background. He mentioned to the party that he was a merchant who tried selling to both sides of the Sloobludop schism, but was eventually caught, which was likely how he ended up as a sacrifice.
+Of the history that he gave, Derendil is a prince of TODO
 
 ## Story
-### [Travel to Sloobludop](../../sessions/arc02/info.md)
-Hemeth was first met in Sloobludop as a potential sacrifice to Leemooggoogoon at the cult of the Deep Father. He was chained to the altar and was beaten and nearly unconscious, but was just barely able to speak with the party when they spoke to him. He did not know where he was or what was going on. After Demogorgon rose from the Darklake, [Ebadius](../pcs/ebadius.md) attempted to pull Hemeth free from his chains, but [Alias](../pcs/alias.md) stepped in and picked the lock and they escaped. [Sarith](sarith.md) took Hemeth into the tunnels to escape and they eventually me up with the rest of the party.
+### [Welcome to Velkenvelve](../../sessions/arc01/info.md)
+Derendil arrived at Velkenvelve together with [Ront](ront.md). He spoke with Alias about his history as a prince and offered a great reward to those who helped him escape. He mentioned that he was an elven prince that had been polymorphed into a quaggoth, much to his dismay. He enforced that he would also use his massive size and strength to help the party in an escape.
 
-### [???](../../sessions/arc03/info.md)
-As the party went looking for food, Hemeth stayed behind at base camp with [Groggle](../pcs/groggle.md) and [Shuushar](shuushar.md) while others looked for food. Eventually he was left alone with Eldeth as others went to explore Sloobludop. When [Dad](../pcs/dad.md) and Sarith arrived and alerted them to the drow, they rushed off to Sloobludop to warn the others. Hemeth helped build their boat and was declared captain of the vessel, since he would know how to get to Gracklstugh.
+Derendil was eventually placed on a cleaning shift with [Buppido](buppido.md) and Ront. After [Sarith](sarith.md) threw a rock and started the riot for the escape, Derendil emerged from the mess hall to see what was happening. When he saw [Dad](../pcs/dad.md) and [Eldeth](eldeth.md) beginning to fight the guards, Derendil swiftly joined in and began attacking the guards near him. While the party made their escape, Derendil stayed in the central area of Velkenvelve and continued fighting both drow and quaggoths alike.
+
+## Death and Legacy
+Derendil died fighting the drow guards during the escape from Velkenvelve. He was seen by some of the party members (such as Dad) fighting the drow until he inevitably fell to their numbers. It was unclear how many of the guards he had successfully killed or fended off, as he was mostly left alone to defend the escape. The party's escape would not have been possible if it hadn't been for Derendil's defense of their escape route.
 
 ## Relationships
-Hemeth has not established a particularly strong relationship with anyone thus far, but he has gained a little respect, likely because of his usefulness.
+Derendil did not have enough time to establish strong relationships with the rest of the party, due to his short time in Velkenvelve. He had a good relationship with Alias, since she was the only other person in the prison that spoke his language. In general, he was able to be friends with the others simply due to the fact that he wanted to escape and had the means (his strength) to do so.
 
 ## Trivia
-* 
+* Derendil is the primary reason that many of the party members did not need to confront the drow during their escape of Velkenvelve, since he held off most of the guards. Since he died during the fight, he was a sacrifice that allowed them to escape, but many of the party members usually forget his sacrifice.
