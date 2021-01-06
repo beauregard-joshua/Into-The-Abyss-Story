@@ -20,3 +20,4 @@ navigate.
 
 ## [Arc 3 ???](arc03/info.md)
 * [Session 11: A Boat Of...](arc03/session11-2020-11-29.md)
+* [Session 12: Ships and Giggles](arc03/session12-01-03.md)
