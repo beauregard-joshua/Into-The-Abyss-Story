@@ -55,6 +55,11 @@ While infiltrating the cult of the Deep Father, Dad attacked the kuo-tao meant t
 
 When Demogorgon emerged from the waters, Dad began to suffer from madness, causing him to start screaming uncontrolably. Eldeth was able to get Dad moving and eventually got him out of the altar. Since neither of them had anything to grab back at the inn, they ran their way into the tunnels of the Underdark, eventually running in to Sarith and [Hemeth](../party/hemeth.md). Dad heavily encouraged the others to go to Neverlight Grove, but this required that they pass through Gracklstugh along the way, much to his discontent.
 
+### [???](../../sessions/arc03/info.md)
+While looking for food outside Sloobludop, Dad, Sarith, and Ront encountered a drow scouting party and began to run. He split up with Ront then Sarith attempting to evade the party and encountered a strange creature roaming the tunnels. The creature encountered a drow scout and they disappeared together into the tunnels. Dad eventually reunited with Sarith and the rest of the party left behind where they ventured into Sloobludop for the others, ecountering Ront along the way.
+
+During combat on the boat, Dad did a considerable amount of damage to the aquatic troll and the darkmantles. While fighting the darkmantles, he stood at the front of the boat and yelled what he could see to the others.
+
 ## Relationships
 Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.
 

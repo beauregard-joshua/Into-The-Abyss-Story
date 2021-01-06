@@ -55,6 +55,9 @@ Unsure of who was an enemy and who was a friend, Groggle did little to aid the f
 
 When escaping Sloobludop, Groggle teamed up with Ebadius as they retrieved their belongings from the inn. He was able to signal to their party members that they were coming down the tunnels by using using magic drum and the two of them met up with Sarith, [Hemeth](../party/hemeth.md), Dad, Eldeth, Shuushar, and Ront.
 
+### [???](../../sessions/arc03/info.md)
+Groggle joined up with Alias, Ebadius, and Shuushar to investigate the ruins of Sloobludop after Demogorgon's attack. He successfully found several parts of boat wreckage that could be salvaged to make a new boat for traversing the darklake. He helped assemble the boat before departing. While rowing, Groggle spent most of his efforts healing others fighting monsters and rowing the boat, but was unable to avoid damage.
+
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
 
@@ -64,3 +67,4 @@ On the contrary, Groggle does not have many negative relationships with his part
 * Groggle is a very good improvisationist, although he has shown confusion when completing tasks he did not expect would work. For example, after taming a giant spider, he audibly stated "now I don't know what to do."
 * Groggle refers to all his musical ventures as "ham-bonin'", regardless of what instrument is being used.
 * The purchasing for the drum in Sloobludop marked the first musical instrument Groggle had obtained the whole adventure. Unfortunately this instrument cost 50gp and has caused others to boo him for his efforts.
+* Groggle singlehandedly found the parts necessary to construct a boat for traversing the darklake, despite his lack of knowledge of boats.

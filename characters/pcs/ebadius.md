@@ -57,6 +57,9 @@ When the party infiltrated the cult of the Deep Father, Ebadius was one of the f
 
 In the escape of Sloobludop, Ebadius teamed up with Groggle and returned to the inn to grab their belongings. They eventually met up with the group of Sarith, Hemeth, Dad, Eldeth, Shuushar, and Ront, after hearing Sarith's bell ringing in the tunnels.
 
+## [???](../../sesssions/arc03/info.md)
+Ebadius returned with Groggle, Alias, and Shuushar to Sloobdludop to look for supplies after the destruction by Demogorgon. He suggested to others that they should build a boat and traverse the darklake. During the combat while on the boat, Ebadius was extremely inaccurate and almost shot the boat with a *scorching ray*.
+
 ## Relationships
 Ebadius has mixed relationships with most members of his party, with few people that dislike him and few that trust him. His best relationship is with Sarith Kzekarit, with whom he was first imprisoned in Velkenvelve. While he and Sarith shared few words with each other, Ebadius has often trusted Sarith's judgement and has listened to his counsel. Sarith once confided in Ebadius that he did not trust Buppido, a fact that he did not convey with any of the other PCs.
 
@@ -65,3 +68,4 @@ Ebadius himself is not trusting of Buppido, mainly due to the fact that he has c
 ## Trivia
 * No one has commented on Ebadius' appearence, except for Dad and Eldeth, which appears a bit strange considering the fact that he is a tiefling and is likely not lawful or good. Eldeth commented on his race since she does not like "those kinds of people," and Dad commented only to say he didn't know what he was.
 * Ebadius' surname "Cantos" pays homage to the character "Stelio Kontos" from *American Dad*. If Ebadius has seen this show, then he must be from another plane of existence and has not yet stated this.
+* Ebdaius was notoriously bad at the combat on the boat on the darklake. On several occasions he was worried that he would miss his *scorching rays* and hit the boat, but missed the boat as well.
