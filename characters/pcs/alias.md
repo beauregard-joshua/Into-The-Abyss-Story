@@ -19,7 +19,7 @@ Alias is a secretive and calculating person that is always looking for a new gam
 Alias is well organized and calculating, having no difficulties coming up with a plan or strategy. These strategies may be short term and simply be quick ploys, or may involve larger schemes, such as tricking her companions or searching for something lost to her.
 
 ## Background
-Little is known about Alias' and her background. She has used the name of someone in discussions with others, implying that there is someone she may know in the underdark, but she has not confided the truth in anyone.
+Little is known about Alias and her background. She has used the name of someone in discussions with others, implying that there is someone she may know in the underdark, but she has not confided the truth in anyone.
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
@@ -27,7 +27,9 @@ Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad 
 
 The prisoners were separated into two groups to perform menial chores to keep them busy. Alias was grouped with Groggle and Sarith and tasked with cleaning laundry at the waterfall. Alias found some rope tucked into a crevice when she heared yelling from the mess hall. Alias moved closer to the mess hall to see the cause and was thrown into a wall by Ilvara, who made her first appearance. Alias infiltrated the room she came from to find the statue of Lolth and tried to topple it, but was surprised to find another priestess and a giant spider. She and Groggle left and followed Sarith's advice to jump down to the webs.
 
-In the webs, Alias, Groggle and Sarith eventually met up with Dad who had fallen from the ledge above. Worried about the slime beneath, Alias tried climbing the rock wall out until the guards came to retrieve them. They were escorted back to their cell, where they met with Eldeth and Jimjar and eventually of the prisoners. Alias quickly got Eldeth on her side and began courting her. 
+In the webs, Alias, Groggle and Sarith eventually met up with Dad who had fallen from the ledge above. Worried about the slime beneath, Alias tried climbing the rock wall out until the guards came to retrieve them. They were escorted back to their cell, where they met with Eldeth and [Jimjar](../party/jimjar.md) and eventually of the prisoners. Alias quickly got Eldeth on her side and began courting her. 
+
+Alias was also the only character who could speak with prince [Derendil](../party/derendil.md), who was an elf polymorphed into a quaggoth. While Derendil spoke of his heritage, Alias had no knowledge of his family or kingdom. She spoke with him and assured him that they would escape together.
 
 When Sarith, Eldeth, and Dad started a commotion during their chores, Alias and Ebadius led the charge from the prison cell to escape. They entered the armory and while Ebadius held off the guards Alias climbed the ladder and began throwing weapons and armor down for the party. After the guards were incapacitated a swooping demon snapped the bridge, leaving a single thread of spider silk that Alias climbed across to reach the opposing ledge. Ilvara cast *hold person* on her, but lost concentration from the demons and Alias jumped down to the spider webs. She met up with Ebadius and Buppido and escaped with Dad on the elevator.
 

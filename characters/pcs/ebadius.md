@@ -13,7 +13,7 @@ Ebadius is a male tiefling sorcerer played by Nick.
 | Tiefling | Sorcerer |
 
 ## Personality
-Ebadius is a charismatic man that tends to keep others at a distance while appearing friendly toward them. He is somewhat manipulative in the sense that he enjoys making those he does not like do silly or difficult things, such when he convinced Jimjar to run into the jail cell door.
+Ebadius is a charismatic man that tends to keep others at a distance while appearing friendly toward them. He is somewhat manipulative in the sense that he enjoys making those he does not like do silly or difficult things, such when he convinced [Jimjar](../party/jimjar.md) to run into the jail cell door.
 
 Ebadius does not seem to have a sense of justice or virtue and often behaves only for himself and for his own ends. WHile he does work with others, he appears to have solely the agenda of getting himself out alive. This does not mean that he wishes ill of others, but it does appear that he sometimes views them as a means to an end and does not exactly bond with the other members of his party.
 
