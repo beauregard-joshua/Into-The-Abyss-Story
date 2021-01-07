@@ -8,7 +8,7 @@ Derendil was a male quaggoth encountered as a prisoner of Velkenvelve.
 Derendil was very polite, much to the surprise of the other party members, due to the nature of quaggoths. He spoke regally, has his background would imply, and made a good impression on those he communicated with. He first spoke with [Alias](../pcs/alias.md), who spoke a bit about his past and how he arrived at Velkenvelve. 
 
 ## Background
-Of the history that he gave, Derendil is a prince of TODO
+Of the history that he gave, Derendil is a prince of Nelrindenvane. Although unclear how it happened, Derendil was polymorphed into a quaggoth by a wizard in his kingdom and thrown into the underdark to survive before he was captured by drow and brought to Velkenvelve. The rest of his background remains a mystery.
 
 ## Story
 ### [Welcome to Velkenvelve](../../sessions/arc01/info.md)
