@@ -17,4 +17,4 @@ Topsy arrived with her brother in Velkenvelve as the final batch of prisoners. S
 When the prison escape began, Topsy stayed in the back of the pack with Turvy, letting the others lead the way. She helped bar the door behind her to prevent drow and invading demons from attacking. She stood in the armory while the party prepared for combat when Ilvara cast a spell that knocked her into the webs. From there, Topsy was never seen again.
 
 ## Relationships
-Topsy had her best relationship with her brother Turvy. She did a slight bit of conversing with Alias and Ebadius, but not enough to establish a real relationship with either of them. She did give [Jimjar](jimjar.md) an uneasy feeling, which he expressed to Ebadius and left him feeling uneasy with her.
+Topsy has her best relationship with her brother Turvy. She did a slight bit of conversing with Alias and Ebadius, but not enough to establish a real relationship with either of them. She did give [Jimjar](jimjar.md) an uneasy feeling, which he expressed to Ebadius and left him feeling uneasy with her.
