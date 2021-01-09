@@ -15,7 +15,7 @@ It appeared that Jimjar liked gambling, for he often made bets with party member
 Little is known about Jimjar's background. He mentioned that he was from Blingdenstone, and was the only member of the party to vote to travel to Blingdenstone after escaping Velkenvelve. He made slight allusions to having a shady history, but not much else is known.
 
 ## Story
-### [The Prison of Velkenvelve](../../sessions/arc01/info.md)
+### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
 Jimjar arrived in Velkenvelve with [Eldeth](eldeth.md) during the combat that had occured within the first few days of prisoners arriving. [Ebadius](../pcs/ebadius.md) was returned to the cell, where he convinced Jimjar to run into the prison gate in order to open it. After two attempts, he dislocated his shoulder, and when others arrived, [Sarith](sarith.md) and [Alias](alias.md) helped relocate his shoulder.
 
 During their plans to escape from Velkenvelve, Jimjar had little to offer in the way of assistance and little to say about his history, appearing somewhat evasive on the subject. He was placed on chore duty several times with some of the other prisoners.

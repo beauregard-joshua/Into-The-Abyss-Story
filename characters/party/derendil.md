@@ -11,7 +11,7 @@ Derendil was very polite, much to the surprise of the other party members, due t
 Of the history that he gave, Derendil is a prince of Nelrindenvane. Although unclear how it happened, Derendil was polymorphed into a quaggoth by a wizard in his kingdom and thrown into the underdark to survive before he was captured by drow and brought to Velkenvelve. The rest of his background remains a mystery.
 
 ## Story
-### [Welcome to Velkenvelve](../../sessions/arc01/info.md)
+### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
 Derendil arrived at Velkenvelve together with [Ront](ront.md). He spoke with Alias about his history as a prince and offered a great reward to those who helped him escape. He mentioned that he was an elven prince that had been polymorphed into a quaggoth, much to his dismay. He enforced that he would also use his massive size and strength to help the party in an escape.
 
 Derendil was eventually placed on a cleaning shift with [Buppido](buppido.md) and Ront. After [Sarith](sarith.md) threw a rock and started the riot for the escape, Derendil emerged from the mess hall to see what was happening. When he saw [Dad](../pcs/dad.md) and [Eldeth](eldeth.md) beginning to fight the guards, Derendil swiftly joined in and began attacking the guards near him. While the party made their escape, Derendil stayed in the central area of Velkenvelve and continued fighting both drow and quaggoths alike.
