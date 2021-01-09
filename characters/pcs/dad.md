@@ -30,7 +30,7 @@ Dad, Ebadius, and Buppido were simultaneously assigned to cleaning duty in the m
 
 Dad quickly befriended a new prisoner Ront, an orc from the surface. Together they tried to form a means of escape, but the drow gave them minimal tools and split them up, making it difficult to amount an escape.
 
-Dad, Sarith, and another prisoner Eldeth were given a rock stacking chore when Sarith suddenly attacked a guardsman. Dad rallied Eldeth to fight and together they made it to the elevator after throwing two quaggoth over the edge. Dad also encouraged Ront and prisoner Derendil to fight the guard when several demons swooped in and caused more of a commotion. He brought his companions to safety and returned to grab the others. In the end Dad saved himself, Eldeth, Ront, Ebadius, Alias, Buppido, and Stool and met up with the others that had escaped.
+Dad, Sarith, and another prisoner Eldeth were given a rock stacking chore when Sarith suddenly attacked a guardsman. Dad rallied Eldeth to fight and together they made it to the elevator after throwing two quaggoth over the edge. Dad also encouraged Ront and [Derendil](../party/derendil.md) to fight the guard when several demons swooped in and caused more of a commotion. He brought his companions to safety and returned to grab the others. In the end Dad saved himself, Eldeth, Ront, Ebadius, Alias, Buppido, and Stool and met up with the others that had escaped.
 
 When it came to leaving Velkevelve, Dad was vocal about traveling with Stool and Sarith to Neverlight Grove, but was outvoted as the partty voted for Sloobludop
 
@@ -41,7 +41,7 @@ In Alversin, Dad searched a few streets together with Ront, Stool, and Shuushar.
 
 When the party was awoken by the drow search party, Dad quickly stopped Ront from maing any noise, as he was prone to doing.
 
-After Edleth found Jimjar dead, Dad suspected both Sarith and Buppido. During his watch with Sarith, Dad intimidated Sarith, causing him to get defensive, and after Dad threatened him and woke everyone up, the party began to suspect that Dad had something to do with Jimjar's death. He continued to suspect Sarith and Buppido but said nothing else of it.
+After Edleth found [Jimjar](../party/jimjar.md) dead, Dad suspected both Sarith and Buppido. During his watch with Sarith, Dad intimidated Sarith, causing him to get defensive, and after Dad threatened him and woke everyone up, the party began to suspect that Dad had something to do with Jimjar's death. He continued to suspect Sarith and Buppido but said nothing else of it.
 
 Dad stayed mostly behind when fighting the fungus in the fungus caverns, mostly following along with the others. While he mostly kept quiet during their travels, when Dad did speak it was often in great agression toward Sarith, who he still believed was acting suspicously. When a small group left to investigate for a safe place to stay, Dad continued to rile Sarith up and then told the others that Sarith confessed to killing Jimjar, which was a lie.
 
