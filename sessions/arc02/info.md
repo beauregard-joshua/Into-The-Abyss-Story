@@ -44,7 +44,7 @@ cult of the Deep Father while gathering supplies. They are given a
 nice place to stay, buy supplies, and sell off things they found in
 their travels.
 
-### [Session 10: ???](session10-2020-11-08.md)
+### [Session 10: Demogorgon? I Hardly Knew Her](session10-2020-11-08.md)
 The party infiltrates the Cult of the Deep Father in an attempt to
 quell the schism in Sloobludop. Somehow the ritual ends up summoning
 Demogorgon, the Prince of Demons, and the party escapes into the

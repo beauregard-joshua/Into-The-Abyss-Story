@@ -16,7 +16,7 @@ navigate.
 * [Session 7: Just Keep Walking](arc02/session07-2020-09-13.md)
 * [Session 8: Ploopploopeenblibdoolpoolpbloppblippoddleemooggoogoon](arc02/session08-2020-09-27.md)
 * [Session 9: Sloobluboppin'](arc02/session09-2020-11-01.md)
-* [Session 10: ???](arc02/session10-2020-11-08.md)
+* [Session 10: Demogorgon? I Hardly Knew Her](arc02/session10-2020-11-08.md)
 
 ## [Arc 3: ???](arc03/info.md)
 * [Session 11: A Boat Of...](arc03/session11-2020-11-29.md)
