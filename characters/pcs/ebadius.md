@@ -17,7 +17,7 @@ Ebadius is a charismatic man that tends to keep others at a distance while appea
 
 Ebadius does not seem to have a sense of justice or virtue and often behaves only for himself and for his own ends. WHile he does work with others, he appears to have solely the agenda of getting himself out alive. This does not mean that he wishes ill of others, but it does appear that he sometimes views them as a means to an end and does not exactly bond with the other members of his party.
 
-It is also possible that Ebadius is a bit fickle. He once referred to Buppido as "my buddy Buppido" soon after they met, but at some point became distrustful of him when he didn't offer much in the way of aid.
+It is also possible that Ebadius is a bit fickle. He once referred to [Buppido](../party/buppido.md) as "my buddy Buppido" soon after they met, but at some point became distrustful of him when he didn't offer much in the way of aid.
 
 ## Background
 Little is known about Ebadius and his background. He is quite capable and strong for being a sorcerer, and this may be a consequence of his demonic heritage. His loner mentality may also be a consequence of this.
@@ -30,7 +30,7 @@ After the arrival of new prisoners, Ebadius, [Dad](dad.md), and Buppido were tas
 
 At the cell Ebadius met Eldeth and Jimjar. Immedietly Ebadius convinced Jimjar to run into the cell door twice, causing him to dislocate his shoulder. Eventually Alias, Dad, Groggle, and Sarith were returned to the cell and they negan making their plan to escape. He primarily spoke with Sarith and Groggle regarding escape and did little to befriend other prisoners.
 
-During a moment in which several prisoners were doing chores, Ebadius heard Sarith screaming from elsewhere in Velkenvelve. Seizing the opportunity, Ebadius was able to break down the door to the cell, and together with Alias helped lead Groggle, Shuushar, Jimjar, Stool, [Topsy](../party/topsy.md), and [Turvy](../party/turvy.md) out of the cell and into the armory. Ebadius fought off a few drow before getting hit with a *locust swarm* cast by Ilvara. Ebadius tried to destroy the bridge she stood on, but it was ultimately destroyed by passing demons in their attack. After Alias escaped on a spiderweb and Groggle failed to do so, Ebadius snuck past a perched demon and jumped to the lower webs. Together with Alias and Buppido they ran to the elevator where Dad brought them to safety.
+During a moment in which several prisoners were doing chores, Ebadius heard Sarith screaming from elsewhere in Velkenvelve. Seizing the opportunity, Ebadius was able to break down the door to the cell, and together with Alias helped lead Groggle, Shuushar, Jimjar, [Stool](../party/stool.md), [Topsy](../party/topsy.md), and [Turvy](../party/turvy.md) out of the cell and into the armory. Ebadius fought off a few drow before getting hit with a *locust swarm* cast by Ilvara. Ebadius tried to destroy the bridge she stood on, but it was ultimately destroyed by passing demons in their attack. After Alias escaped on a spiderweb and Groggle failed to do so, Ebadius snuck past a perched demon and jumped to the lower webs. Together with Alias and Buppido they ran to the elevator where Dad brought them to safety.
 
 At the end of the escape process, Ebadius voted to travel to Sloobludop, fearing that they needed to find shelter as quickly as possible.
 

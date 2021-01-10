@@ -24,13 +24,13 @@ Little is known about Dad and his background. He is surprisingly wise for an orc
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
-Dad arrived at Velkenvelve in the second wave of prisoners, together with [Alias](alias.md) and Buppido and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. He immedietely was uncomfortable, not knowing who the others were and also not knowing what races everyone appeared to be. His suggestions for escape all tended to involve fighting, although not many other prisoners were up for these ideas.
+Dad arrived at Velkenvelve in the second wave of prisoners, together with [Alias](alias.md) and [Buppido](../party/buppido.md) and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. He immedietely was uncomfortable, not knowing who the others were and also not knowing what races everyone appeared to be. His suggestions for escape all tended to involve fighting, although not many other prisoners were up for these ideas.
 
 Dad, Ebadius, and Buppido were simultaneously assigned to cleaning duty in the mess hall when Dad tried to steal a knife. He was caught by the drow and a fight broke out. Dad backflipped several times and struck the drow, injuring them, but was eventually injured so much by Ilvara that he was unable to continue fighting. While be escorted by the drow back to the jail cell Dad threw himself and his captor over the ledge into the lower spiderwebs. There her tried to escape to safety, fighting alongside Groggle and Alias, before he was eventually overcome and taken back to the cell.
 
 Dad quickly befriended a new prisoner Ront, an orc from the surface. Together they tried to form a means of escape, but the drow gave them minimal tools and split them up, making it difficult to amount an escape.
 
-Dad, Sarith, and another prisoner Eldeth were given a rock stacking chore when Sarith suddenly attacked a guardsman. Dad rallied Eldeth to fight and together they made it to the elevator after throwing two quaggoth over the edge. Dad also encouraged Ront and [Derendil](../party/derendil.md) to fight the guard when several demons swooped in and caused more of a commotion. He brought his companions to safety and returned to grab the others. In the end Dad saved himself, Eldeth, Ront, Ebadius, Alias, Buppido, and Stool and met up with the others that had escaped.
+Dad, Sarith, and another prisoner Eldeth were given a rock stacking chore when Sarith suddenly attacked a guardsman. Dad rallied Eldeth to fight and together they made it to the elevator after throwing two quaggoth over the edge. Dad also encouraged Ront and [Derendil](../party/derendil.md) to fight the guard when several demons swooped in and caused more of a commotion. He brought his companions to safety and returned to grab the others. In the end Dad saved himself, Eldeth, Ront, Ebadius, Alias, Buppido, and [Stool](../party/stool.md) and met up with the others that had escaped.
 
 When it came to leaving Velkevelve, Dad was vocal about traveling with Stool and Sarith to Neverlight Grove, but was outvoted as the partty voted for Sloobludop
 
