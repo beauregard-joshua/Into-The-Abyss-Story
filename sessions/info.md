@@ -18,6 +18,7 @@ navigate.
 * [Session 9: Sloobluboppin'](arc02/session09-2020-11-01.md)
 * [Session 10: ???](arc02/session10-2020-11-08.md)
 
-## [Arc 3 ???](arc03/info.md)
+## [Arc 3 To Gracklstugh, then Neverlight Grove](arc03/info.md)
 * [Session 11: A Boat Of...](arc03/session11-2020-11-29.md)
 * [Session 12: Ships and Giggles](arc03/session12-2021-01-03.md)
+* [Session 13: Sinking Prospects](arc03/session13-2021-01-16.md)

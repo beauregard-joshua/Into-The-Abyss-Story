@@ -57,8 +57,12 @@ When the party infiltrated the cult of the Deep Father, Ebadius was one of the f
 
 In the escape of Sloobludop, Ebadius teamed up with Groggle and returned to the inn to grab their belongings. They eventually met up with the group of Sarith, Hemeth, Dad, Eldeth, Shuushar, and Ront, after hearing Sarith's bell ringing in the tunnels.
 
-## [???](../../sesssions/arc03/info.md)
+## [To Gracklstugh, then Neverlight Grove](../../sesssions/arc03/info.md)
 Ebadius returned with Groggle, Alias, and Shuushar to Sloobdludop to look for supplies after the destruction by Demogorgon. He suggested to others that they should build a boat and traverse the darklake. During the combat while on the boat, Ebadius was extremely inaccurate and almost shot the boat with a *scorching ray*.
+
+Ebadius chose to rest on the shore after docking. When Hemeth arrived without Alias, Ebadius was suspicious and organized the search party to look for Alias when she didn't return for a time. When they found her, they quickly left in fear.
+
+Ebadius was the main antagonist that started the combat with the duergar traders. He attempted to negotiate a price for travel to Gracklstugh, but after a failed intimidation to lower the price the duergar threatened him. Ebadius countered with a *thunderwave* and they attempted to place him under arrest. When the battle started and Ebadius escaped back to the boat, he fired several *scorching rays* and *fire bolts* extremely inaccurately, but was able to light the boat on fire with a few attempts as well as by striking his oil that he had left behind.
 
 ## Relationships
 Ebadius has mixed relationships with most members of his party, with few people that dislike him and few that trust him. His best relationship is with Sarith Kzekarit, with whom he was first imprisoned in Velkenvelve. While he and Sarith shared few words with each other, Ebadius has often trusted Sarith's judgement and has listened to his counsel. Sarith once confided in Ebadius that he did not trust Buppido, a fact that he did not convey with any of the other PCs.
