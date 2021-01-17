@@ -62,8 +62,12 @@ In the night, Alias followed Buppido as he went for a walk around town, but most
 
 While the rest of the party acted to infiltrate the cult of the Deep Father, Alias stayed behind and wanted from afar. When her party entered the altar, she moved behind the statue of Leemooggoogoon to attack. As the attack started, she tried to distract the kuo-tao by mimicking the Deep Father, but once Demogorgon arose from the water she swam through the water, broke [Hemeth](../party/hemeth.md) free, then escaped. Alias quickly looted the general store before escaping back into the tunnels. She was one of the last perty members to meet up in the Underdark, aside from Stool and Buppido, who were not found.
 
-### [???](../../sessions/arc03/info.md)
+### [To Gracklstugh, then Neverlight Grove](../../sessions/arc03/info.md)
 Alias was one of the party members, along with Ebadius, Groggle, and Shuushar, to return to Sloobludop after Demogorgon's release. She helped loot ruined buildings while the others searched for salvage for building a boat. When the others arrived and reported that the drow had found them, Alias kept watch while the others built the boat before departing. During the combat on the boat, Alias was severely injured by an aquatic troll, but was healed by Groggle so she could keep fighting. After the first boat docking, she scouted ahead and heard some noises in the cave. When she reported this to the party, they decided to keep traveling down the darklake.
+
+Alias and Hemeth investigated the tunnels until they found a group of quaggoths that appeared to have mushrooms growing on their heads. Alias ventured further while Hemeth turned back to warn the others. Alias encountered several strange things, most notably a voice that said "You're going to wish you hadn't done that", that spoke after she took an axe from a skeleton, as well as a collection of whispering voices. She returned to the party and urgently moved everyone out.
+
+During the battle with the duergar traders, Alias most notably attempted to jump to their boat but was unsuccessful, crashing into the water below and being rescued by Eldeth.
 
 ## Relationships
 Alias has an affectionate relationship with Eldeth Feldrun and has been courting her for most of their journey. Eldeth appears to listen to Alias in most situations as Alias seems to take the most charge of the party. Alias is also one of the few party members to bond with Stool, and this connection appears to be one of the few that show compassion from Alias. She also has a strangely positive connection with Dad, which is mostly manipulative. Alias often boosts Dad's ego in order to convince him to do what Alias wishes.
