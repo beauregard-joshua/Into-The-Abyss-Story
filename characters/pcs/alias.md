@@ -67,6 +67,8 @@ Alias was one of the party members, along with Ebadius, Groggle, and Shuushar, t
 
 Alias and Hemeth investigated the tunnels until they found a group of quaggoths that appeared to have mushrooms growing on their heads. Alias ventured further while Hemeth turned back to warn the others. Alias encountered several strange things, most notably a voice that said "You're going to wish you hadn't done that", that spoke after she took an axe from a skeleton, as well as a collection of whispering voices. She returned to the party and urgently moved everyone out.
 
+Alias ended up arguing with Hemeth as to who would captain the ship, but backed down as things got heated.
+
 During the battle with the duergar traders, Alias most notably attempted to jump to their boat but was unsuccessful, crashing into the water below and being rescued by Eldeth.
 
 ## Relationships
