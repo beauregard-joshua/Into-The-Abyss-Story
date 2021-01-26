@@ -46,4 +46,4 @@ No party members have a particularly negative opinions of Stool, except for thou
 
 ## Trivia
 * During overworld travel, the players (and the dungeon master) would often forget about Stool, as he blended in with most of the backgrounds used.
-* While Stool was able to find food to eat, we was unable to prepare it.
+* While Stool was able to find food to eat, he was unable to prepare any of it.
