@@ -22,10 +22,10 @@ During their plans to escape from Velkenvelve, Jimjar had little to offer in the
 
 As the great prison break at Velkenvelve started, Jimjar was in the cell with most of the others. He stayed toward the back of the pack with [Topsy](topsy.md) and [Turvy](turvy.md), mostly attempting to avoid conflict. After Alias threw weapons down for others to use, Jimjar grabbed a weapon, but was a bit reluctant to use it. He also narrowly avoided damage from Ilvara as she cast a *locust swarm*. Eventually he jumped down into the water together with [Groggle](../pcs/groggle.md) and [Shuushar](shuushar.md).
 
-After escaping, Jimjar was one of the few party members to vote to travel to Blingdenstone, since it would take him home.
+After escaping, Jimjar was the only party member to vote to travel to Blingdenstone, since it would take him home.
 
 ### [Travel to Sloobludop](../../sessions/arc02/info.md)
-Jimjar traveled often at the middle of the pack when traversing the Underdark, as he was not well equipped for scouting ahead or defending the rear. In the lost city of Alversin, Jimjar explored a bit with Sarith but was unable to recover many materials. When Sarith grew impatient about leaving, Jimjar was one of the only people to join him at the rear of town, ready to leave.
+Jimjar traveled often at the middle of the pack when traversing the Underdark, as he was not well equipped for scouting ahead or defending the rear. In the lost city of Alversin, Jimjar explored a bit with Sarith but was unable to recover many materials. When Sarith grew impatient about leaving, Jimjar was one of the only people to join him at the rear of town, the other being [Buppido](buppido.md).
 
 When the party encountered a group of sleeping goblins in the tunnels, Jimjar was the first to strike, actually dealing substantial damage to one of them.
 

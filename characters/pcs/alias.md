@@ -23,7 +23,7 @@ Little is known about Alias and her background. She has used the name of someone
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
-Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and Buppido and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. He connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
+Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and [Buppido](../party/buppido.md) and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. He connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
 
 The prisoners were separated into two groups to perform menial chores to keep them busy. Alias was grouped with Groggle and Sarith and tasked with cleaning laundry at the waterfall. Alias found some rope tucked into a crevice when she heared yelling from the mess hall. Alias moved closer to the mess hall to see the cause and was thrown into a wall by Ilvara, who made her first appearance. Alias infiltrated the room she came from to find the statue of Lolth and tried to topple it, but was surprised to find another priestess and a giant spider. She and Groggle left and followed Sarith's advice to jump down to the webs.
 
@@ -38,7 +38,7 @@ After their escape, Alias voted to travel to Sloobludop, which was the closest s
 ### [Travel to Sloobludop](../../sessions/arc2/info.md)
 Alias mostly led the party as a scout, providing reconnaissance while following traveling instructions from Shuushar. When the party encountered the large cavern of the lost city of Alversin, Alias and Eldeth scouted forward looking for an obvious way forward. While the party marched forward and Eldeth and Dad began to panic, Alias calmed them down and marched them on.
 
-Alias spent most of her time in Alversin searching debris, finding some food and a few odds and ends. She eventually followed Ebadius when he claimed he saw someone outside the walls, but she was unable to find anything. She also helped walk the perimeter to search for supplies, and did one final search with Eldeth and Stool before moving out.
+Alias spent most of her time in Alversin searching debris, finding some food and a few odds and ends. She eventually followed Ebadius when he claimed he saw someone outside the walls, but she was unable to find anything. She also helped walk the perimeter to search for supplies, and did one final search with Eldeth and [Stool](../party/stool.md) before moving out.
 
 While Alias did not kill any of the goblins in the tunnel, she did appear to scare them and became worried that Eldeth would judge her for this action.
 
