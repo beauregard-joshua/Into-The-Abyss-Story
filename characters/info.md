@@ -29,7 +29,12 @@ encounter location for clarity.
 
 ## NPCs
 ### Velkenvelve
-**TODO**
+| Character | Session Introduced | Session Last Seen | Last Known Activity |
+| --- | --- | --- | --- |
+| [Ilvara](velkenvelve/ilvara.md) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | [Session 6](../sessions/arc02/session06-08-16.md) | Searching for the party |
+| [???](velkenvelve/jorlan.md) (Unidentified Male Drow) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | [Session 3](../sessions/arc02/session03-2020-06-28.md) | Unknown |
+| [???](velkenvelve/shoor.md) (Unidentified Male Drow) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | [Session 6](../sessions/arc02/session06-2020-08-16.md) | Searching for the party |
+| [???](velkenvelve/asha.md) (Unidentified Female Drow Priestess) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | Unknown |
 
 ### Sloobludop
 **TODO**
