@@ -27,6 +27,12 @@ with whispers and voices. She gets everyone to leave the shores
 and the next day they encounter duergar traders. They attack
 and sink their ship.
 
+### [Session 14: Don't Help the Hags](session14-2021-02-06.md)
+The party travels through some rapids and fights a green hag. Hemeth
+runs the party aground and some party members scout ahead in the
+tunnels. The scouting party defeats some gnolls near some unknown
+creatures.
+
 ## Arc Links
 * Previous: [Arc 2: Travel to Sloobludop](../arc02/info.md)
 * Current: Arc 3: To Gracklstugh, then Neverlight Grove
