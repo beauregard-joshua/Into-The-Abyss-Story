@@ -22,3 +22,4 @@ navigate.
 * [Session 11: A Boat Of...](arc03/session11-2020-11-29.md)
 * [Session 12: Ships and Giggles](arc03/session12-2021-01-03.md)
 * [Session 13: Sinking Prospects](arc03/session13-2021-01-16.md)
+* [Session 14: Don't Help the Hags](arc03/session14-2021-02-06.md)
