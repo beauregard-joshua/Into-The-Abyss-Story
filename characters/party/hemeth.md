@@ -29,8 +29,13 @@ Hemeth asked Alias on the trek if she was fit for travel, and if she wasn't he w
 
 During the combat with the duergar traders, Hemeth did little to nothing. He enlarged himself to appear threatening to the enemy, then commanded the boat to safety.
 
+On several occassions, Hemeth asked party members why Shuushar is kept in the party. Both Eldeth and Groggle defended him when this was brought up.
+
+Hemeth stayed behind with Groggle, Eldeth, Shuushar, and Ront to defend the boat while the others went looking for food.
+
 ## Relationships
-Hemeth has not established a particularly strong relationship with anyone thus far, but he has gained a little respect, likely because of his usefulness. Some party members value his opinions while others see him as a new member of the party whose opinion is not yet relevant.
+Hemeth has mixed relationships with the party members. Some party members, such as Eldeth and Sarith, do not seem to have major qualms with him, possibly because they have yet to have their toes stepped on by him. 
 
 ## Trivia
 * When Hemeth spoke up about where the party should travel, Dad interjected and mentioned that Hemeth shouldn't be listened to because he wasn't a member of the original party. This is made even stranger when Hemeth was made captian of their ship.
+* Hemeth has been the sole reason that Groggle has shown any sort of aggression to anotehr party member. After rudely speaking to Shuushar, Groggle stood up for him, saying "watch it, bucko."
