@@ -60,7 +60,11 @@ Groggle joined up with Alias, Ebadius, and Shuushar to investigate the ruins of 
 
 While others rested or ventured into the tunnels, Groggle chose to aid in the repairs of the boat, but wasn't particularly helpful. He teamed up with Dad and Sarith who did most of the work.
 
-Groggle mostly stayed out of the way during the combat with the duergar traders. He mentioned that he felt put off about the need for combat and would be considering this when making future decisions. He tried to help Sarith as they rescued Ront from the water before sailing away.
+Groggle mostly stayed out of the way during the combat with the duergar traders. He mentioned that he felt put off about the need for combat and would be considering this when making future decisions. He tried to help Sarith as they rescued Ront from the water before sailing away. He voiced his concerns to the party afterward about how he was not okay with the events that transpired, and was happy to hear that others were not okay with the situation as well.
+
+When fighting the green hag on the boat, she reached for Groggle, but he managed to splip away just in time. Groggle successfully cast *bane* on the her, but the hag jumped back into the water and his efforts were for naught.
+
+After running the boat aground, Groggle stayed back to examine any damages to the boat, but found none. He stayed there until Sarith told him to join up with the others in the tunnels. He fought with the gnolls, missing several crossbow shots, but killing the final gnoll.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.

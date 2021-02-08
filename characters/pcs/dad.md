@@ -62,7 +62,11 @@ During combat on the boat, Dad did a considerable amount of damage to the aquati
 
 While others rested or ventured into the tunnels, Dad nearly did all the boat repairs himself, finding salvage amongst the shore, and was assisted by Sarith and Groggle in repairing the boat. When Hemeth returned, Dad was suspicious when he was carrying Alias' dagger. Together with Ebadius, Groggle, and Hemeth, he ventured into the tunnels to find Alias before setting off on the boat.
 
-During the battle with the duergar traders, Dad was a one-man army. He did a skilled jump onto the opposing boat, went into a rage and critically injured a trader, then jumped back to the party's boat without taking any damage himself.
+During the battle with the duergar traders, Dad was a one-man army. He did a skilled jump onto the opposing boat, went into a rage and critically injured a trader, then jumped back to the party's boat without taking any damage himself. He afterwards apologized to the crew for the misunderstanding, stating that he thought that the duergar were trying to rob them. 
+
+When the party encountered the second green hag, Dad moved into position with Alias and Ront to restrain her. Dad convinced Ront to bite her, but then struggled to keep hold of her as she started writhing, in which Dad told him to kill her.
+
+Dad traveled with Alias, Ebadius, and Sarith to look for food in the tunnels. After much food was found, Dad returned it to the boat before venturing back into the tunnels. When Sarith switched with Groggle, Dad helped slay the gnolls deeper in the tunnels.
 
 ## Relationships
 Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.

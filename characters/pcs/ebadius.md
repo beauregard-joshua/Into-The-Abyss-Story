@@ -64,6 +64,12 @@ Ebadius chose to rest on the shore after docking. When Hemeth arrived without Al
 
 Ebadius was the main antagonist that started the combat with the duergar traders. He attempted to negotiate a price for travel to Gracklstugh, but after a failed intimidation to lower the price the duergar threatened him. Ebadius countered with a *thunderwave* and they attempted to place him under arrest. When the battle started and Ebadius escaped back to the boat, he fired several *scorching rays* and *fire bolts* extremely inaccurately, but was able to light the boat on fire with a few attempts as well as by striking his oil that he had left behind.
 
+After the combat, Ebadius was scolded by several party members for his rash action, such as by Alias, Groggle, and Alias. It appeared that, while Ebadius had some level of remorse, it was more about angering the others and less about regretting his actions.
+
+Ebadius was the first to identify that something was off with the green hag, noticing that her voice did not match up with her mouth.
+
+Ebadius went with Alias, Dad, and Groggle to look for food after the boat was run aground. When Alias said that he had spotted some gnolls, Ebadius joined the crew in attacking their location. He cast two *thunderwave* spells tha did significant damage.
+
 ## Relationships
 Ebadius has mixed relationships with most members of his party, with few people that dislike him and few that trust him. His best relationship is with Sarith Kzekarit, with whom he was first imprisoned in Velkenvelve. While he and Sarith shared few words with each other, Ebadius has often trusted Sarith's judgement and has listened to his counsel. Sarith once confided in Ebadius that he did not trust Buppido, a fact that he did not convey with any of the other PCs.
 
