@@ -23,3 +23,4 @@ navigate.
 * [Session 12: Ships and Giggles](arc03/session12-2021-01-03.md)
 * [Session 13: Sinking Prospects](arc03/session13-2021-01-16.md)
 * [Session 14: Don't Help the Hags](arc03/session14-2021-02-06.md)
+* [Session 15: Goll's Well that Ends Well](arc-3/session15-2021-02-20.md)

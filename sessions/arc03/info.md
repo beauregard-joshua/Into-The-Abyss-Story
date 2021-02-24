@@ -33,6 +33,11 @@ runs the party aground and some party members scout ahead in the
 tunnels. The scouting party defeats some gnolls near some unknown
 creatures.
 
+### [Session 15: Gnoll's Well that Ends Well](session15-2021-02-20.md)
+The party characters battle a hoard of gnolls in the tunnels and
+are able to emerge victorious, although very bloodied. They return
+to the boat with some food and some new weapons and supplies.
+
 ## Arc Links
 * Previous: [Arc 2: Travel to Sloobludop](../arc02/info.md)
 * Current: Arc 3: To Gracklstugh, then Neverlight Grove

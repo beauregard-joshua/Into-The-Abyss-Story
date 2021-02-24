@@ -68,7 +68,7 @@ After the combat, Ebadius was scolded by several party members for his rash acti
 
 Ebadius was the first to identify that something was off with the green hag, noticing that her voice did not match up with her mouth.
 
-Ebadius went with Alias, Dad, and Groggle to look for food after the boat was run aground. When Alias said that he had spotted some gnolls, Ebadius joined the crew in attacking their location. He cast two *thunderwave* spells tha did significant damage.
+Ebadius went with Alias, Dad, and Groggle to look for food after the boat was run aground. When Alias said that he had spotted some gnolls, Ebadius joined the crew in attacking their location. He cast two *thunderwave* spells tha did significant damage. When fighting the remaining gnolls, Ebadius spent all of his power as a sorcerer to kill the pack leader, even being struck heavily by one of its attacks.
 
 ## Relationships
 Ebadius has mixed relationships with most members of his party, with few people that dislike him and few that trust him. His best relationship is with Sarith Kzekarit, with whom he was first imprisoned in Velkenvelve. While he and Sarith shared few words with each other, Ebadius has often trusted Sarith's judgement and has listened to his counsel. Sarith once confided in Ebadius that he did not trust Buppido, a fact that he did not convey with any of the other PCs.
