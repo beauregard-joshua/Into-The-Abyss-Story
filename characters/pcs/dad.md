@@ -66,7 +66,7 @@ During the battle with the duergar traders, Dad was a one-man army. He did a ski
 
 When the party encountered the second green hag, Dad moved into position with Alias and Ront to restrain her. Dad convinced Ront to bite her, but then struggled to keep hold of her as she started writhing, in which Dad told him to kill her.
 
-Dad traveled with Alias, Ebadius, and Sarith to look for food in the tunnels. After much food was found, Dad returned it to the boat before venturing back into the tunnels. When Sarith switched with Groggle, Dad helped slay the gnolls deeper in the tunnels.
+Dad traveled with Alias, Ebadius, and Sarith to look for food in the tunnels. After much food was found, Dad returned it to the boat before venturing back into the tunnels. When Sarith switched with Groggle, Dad helped slay the first wave of gnolls deeper in the tunnels. When Alias discovered more gnolls, Dad attacked them head on in a fit of rage and nearly fended off the 8 gnolls single-handedly, with a bit of assistance from the others. During this combat, Dad never missed an attack. He later looted the pack leader and retained the gems he was carrying, telling no one about it.
 
 ## Relationships
 Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.

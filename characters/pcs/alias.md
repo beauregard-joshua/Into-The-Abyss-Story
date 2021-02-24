@@ -73,7 +73,7 @@ During the battle with the duergar traders, Alias most notably attempted to jump
 
 Alias, together with Ebadius, managed to pull the green hag onto the boat, although Alias did not know it was a hag at the time. When confronted with the second hag, Alias went with Dad and Ront to confront her, and immediately identified her as a hag. She tied her up and let Dad and Ront take care of her.
 
-Alias went with Dad, Ebadius, and Sarith to look for food. After Alias scouted ahead and found some gnolls, Sarith went back to defend the boat and Groggle joined the pack, and together they killed the gnolls.
+Alias went with Dad, Ebadius, and Sarith to look for food. After Alias scouted ahead and found some gnolls, Sarith went back to defend the boat and Groggle joined the pack, and together they killed the first wave of gnolls. She then scouted ahead and found the remaining gnolls before returning to develop a plan of attack. She damaged the pack leader but sustained serious wounds and was forced to retreat. After the pack leader was killed, she took its longbow for herself and delivered its glaive to Dad.
 
 ## Relationships
 Alias has an affectionate relationship with Eldeth Feldrun and has been courting her for most of their journey. Eldeth appears to listen to Alias in most situations as Alias seems to take the most charge of the party. Alias is also one of the few party members to bond with Stool, and this connection appears to be one of the few that show compassion from Alias. She also has a strangely positive connection with Dad, which is mostly manipulative. Alias often boosts Dad's ego in order to convince him to do what Alias wishes.

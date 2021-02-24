@@ -64,7 +64,7 @@ Groggle mostly stayed out of the way during the combat with the duergar traders.
 
 When fighting the green hag on the boat, she reached for Groggle, but he managed to splip away just in time. Groggle successfully cast *bane* on the her, but the hag jumped back into the water and his efforts were for naught.
 
-After running the boat aground, Groggle stayed back to examine any damages to the boat, but found none. He stayed there until Sarith told him to join up with the others in the tunnels. He fought with the gnolls, missing several crossbow shots, but killing the final gnoll.
+After running the boat aground, Groggle stayed back to examine any damages to the boat, but found none. He stayed there until Sarith told him to join up with the others in the tunnels. He fought with the first pack of gnolls, missing several crossbow shots, but killing the final gnoll. He then provided covering fire for Dad as they fought the remaining gnolls and offered healing to the party as they struggled against the pack leader.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
