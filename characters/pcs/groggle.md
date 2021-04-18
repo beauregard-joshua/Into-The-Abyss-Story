@@ -62,14 +62,18 @@ While others rested or ventured into the tunnels, Groggle chose to aid in the re
 
 Groggle mostly stayed out of the way during the combat with the duergar traders. He mentioned that he felt put off about the need for combat and would be considering this when making future decisions. He tried to help Sarith as they rescued Ront from the water before sailing away. He voiced his concerns to the party afterward about how he was not okay with the events that transpired, and was happy to hear that others were not okay with the situation as well.
 
-When fighting the green hag on the boat, she reached for Groggle, but he managed to splip away just in time. Groggle successfully cast *bane* on the her, but the hag jumped back into the water and his efforts were for naught.
+When fighting the green hag on the boat, she reached for Groggle, but he managed to slip away just in time. Groggle successfully cast *bane* on the her, but the hag jumped back into the water and his efforts were for naught.
 
 After running the boat aground, Groggle stayed back to examine any damages to the boat, but found none. He stayed there until Sarith told him to join up with the others in the tunnels. He fought with the first pack of gnolls, missing several crossbow shots, but killing the final gnoll. He then provided covering fire for Dad as they fought the remaining gnolls and offered healing to the party as they struggled against the pack leader.
 
-## Relationships
-Groggle is widely accepted amongst his party members, although he does not appear to have strong connections with them. He often listens to Sarith for counsel but the two of them do not discuss much other that their immediate plans for escape and survival. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
+Groggle was the to identify the island in the darklake, and guided the party into docking the boat. He stayed behind while Shuushar explored, but spring into action when he heard him yelp. He, together with Shuushar and Eldeth, quickly ran back to the boat while the others deliberated. Back on the boat, Sarith grabbed Groggle, but was stopped by the other party members before Sarith could do anything. When Sarith told the party to let him go, Groggle expressed to him that he was their friend and that they would find a cure for whatever was wrong with him in Gracklstugh.
 
-On the contrary, Groggle does not have many negative relationships with his party. Besides the fact that he had escaped Velkenvelve, Groggle did make enemies of the guards at the prison by speaking his mind and acting relaxed, even when times were tough. If there are any party members that he doesn't like, he has not made it apparent to the others.
+## Relationships
+Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
+
+Other members of the party, such as Alias, have mixed opinions of Groggle, mainly due to his occassional versatility. Groggle has established himself as a reliable and level-headed party member, and often find him to be useful, although not particularly outspoken, and so is often overlooked in major decisions.
+
+Through his kindness, Groggle does not have many negative relationships with his party. Besides the fact that he had escaped Velkenvelve, Groggle did make enemies of the guards at the prison by speaking his mind and acting relaxed, even when times were tough. The one party member that Groggle actively has a negative relationship with his Hemeth, who has been very rude toward the others, such as Shuushar.
 
 ## Trivia
 * Groggle is a very good improvisationist, although he has shown confusion when completing tasks he did not expect would work. For example, after taming a giant spider, he audibly stated "now I don't know what to do."

@@ -68,6 +68,10 @@ When the party encountered the second green hag, Dad moved into position with Al
 
 Dad traveled with Alias, Ebadius, and Sarith to look for food in the tunnels. After much food was found, Dad returned it to the boat before venturing back into the tunnels. When Sarith switched with Groggle, Dad helped slay the first wave of gnolls deeper in the tunnels. When Alias discovered more gnolls, Dad attacked them head on in a fit of rage and nearly fended off the 8 gnolls single-handedly, with a bit of assistance from the others. During this combat, Dad never missed an attack. He later looted the pack leader and retained the gems he was carrying, telling no one about it.
 
+Dad was asleep when arriving at the island in the middle of the darklake. He awoke once a panic began on the boat as the party heard Shuushar screaming. Dad led the charge to look for Shuushar, steering everyone in the right direction. When Shuushar was found, Dad was able to avoid being attacked by the strange fungus tree and eventually struck down the arm holding him. When Shuushar got trapped again, Dad again freed him.
+
+When arms began erupting from the ground on the island, Dad assisted in gettingg others free, such as Edleth and Shuushar, before running back to the boat. After Sarith grabbed Groggle, Dad struck him over the head and never left his side, fearful that he was a threat.
+
 ## Relationships
 Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.
 
@@ -77,3 +81,4 @@ Other the other side, Dad has had a mixed relationship with Sarith Kzekarit, mos
 * Dad is particularly skilled at doing backflips, even with his hulking size. In his entire time in the Underdark he had injured several enemies with them and has never failed to do a backflip when trying. He did, however, perform a backlip into a waterfall, hoping that there would be a hidden cave behind it, but there was just a rock face.
 * The first weapon Dad found in the Underdark he named "Dr. Lobotomy". Based on his level of intelligence, it is possible that he has had a lobotomy himself or knows someone who has had one.
 * After escaping Sloobludop, the party realized that they had lost Buppido and Stool. Dad expressed his thoughts that, while he was sad that Stool was gone because we was a fine companion, he kindly said that it was for the best that Buppido did not return, seeing as he always acted as a loner. This was his polite way of saying good riddance to Buppido, who Dad did not like.
+* While fighting the gnolls in the tunnels, Dad nearly single-handedly defeated all of the ordinary gnolls by himself b going into a rage. He did request healing from Groggle, but it turned out that even without the healing he would have survived.
