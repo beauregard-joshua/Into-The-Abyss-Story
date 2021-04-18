@@ -70,6 +70,12 @@ Ebadius was the first to identify that something was off with the green hag, not
 
 Ebadius went with Alias, Dad, and Groggle to look for food after the boat was run aground. When Alias said that he had spotted some gnolls, Ebadius joined the crew in attacking their location. He cast two *thunderwave* spells tha did significant damage. When fighting the remaining gnolls, Ebadius spent all of his power as a sorcerer to kill the pack leader, even being struck heavily by one of its attacks.
 
+When arriving at the island in the darklake, Ebadius turned Shuushar invisible so he could explore the island. He joined others in looking for Shuushar after hearing him scream and aided in getting Shuushar released from the arm of one of the fungus trees.
+
+When Ebadius made the connection that the fungi were connected to Zuggtmoy, he became adamant about investigating the island. He cast *thaumaturgy* to make his point, but the resulting earthquake caused arms to erupt from the ground. He tried to return to the center of the island to investigate, but Alias and Dad were forced to hold him back as they brought him back to the boat.
+
+Ebadius helped tie up Sarith after his episode with Groggle. He mostly stayed focused on Sarith before turning to Alias to make sure that she was okay.
+
 ## Relationships
 Ebadius has mixed relationships with most members of his party, with few people that dislike him and few that trust him. His best relationship is with Sarith Kzekarit, with whom he was first imprisoned in Velkenvelve. While he and Sarith shared few words with each other, Ebadius has often trusted Sarith's judgement and has listened to his counsel. Sarith once confided in Ebadius that he did not trust Buppido, a fact that he did not convey with any of the other PCs.
 
