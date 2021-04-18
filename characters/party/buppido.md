@@ -39,7 +39,7 @@ Buppido was mostly silent for most of the travel to Sloobludop from there. He di
 
 When asked by Plooplooppeen if the party would aid him in their schism with the cult of the Deep Father, Buppido seemed off put, but obliged. In Sloobludop, he took a walk in the night, where he was followed by Alias, who did not trust him. During the day, he seemed to disappear and no one is aware of where he went or what he was doing.
 
-After Demogorgon rose from the water, Buppido seemed unphased by the event, at least in terms of how it affected his sanity. He walk ed away from the altar while the kuo-toa chanted for their god and was never seen again.
+After Demogorgon rose from the water, Buppido seemed unphased by the event, at least in terms of how it affected his sanity. He walked away from the altar while the kuo-toa chanted for their god and was never seen again.
 
 ## Relationships
 Buppido had no strong relationships with any of the party members for several reasons, the primary one being his gruff, blunt, and distant demeanor. The only party members that would actively engage him in conversation were Alias, Ebadius, and [Shuushar](shuushar.md); Alias and Ebadius were interested in what he was capable of as a person while Shuushar was interested in getting to know him personally. Most characters felt generally uncomfortable being around him, but as a whole none felt so uncomfortable around him as to refuse working with him.
