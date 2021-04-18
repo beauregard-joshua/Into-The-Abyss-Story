@@ -24,4 +24,4 @@ navigate.
 * [Session 13: Sinking Prospects](arc03/session13-2021-01-16.md)
 * [Session 14: Don't Help the Hags](arc03/session14-2021-02-06.md)
 * [Session 15: Gnoll's Well that Ends Well](arc03/session15-2021-02-20.md)
-* [Session 16: I'm Not Okay](arc03/session16-2021-03-20.md)
+* [Session 16: I'm Not Okay](arc03/session16-2021-03-06.md)
