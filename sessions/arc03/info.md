@@ -38,6 +38,12 @@ The party characters battle a hoard of gnolls in the tunnels and
 are able to emerge victorious, although very bloodied. They return
 to the boat with some food and some new weapons and supplies.
 
+### [Session 16: I'm Not Okay](session16-2021-03-06.md)
+Groggle spots and island and the party navigates their to
+search for food. They provoke fungi, presumably related to
+Zuggtmoy, and escape from the island, where there is an intense
+moment with Sarith and Alias.
+
 ## Arc Links
 * Previous: [Arc 2: Travel to Sloobludop](../arc02/info.md)
 * Current: Arc 3: To Gracklstugh, then Neverlight Grove

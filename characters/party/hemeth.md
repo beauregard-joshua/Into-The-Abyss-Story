@@ -33,6 +33,8 @@ On several occassions, Hemeth asked party members why Shuushar is kept in the pa
 
 Hemeth stayed behind with Groggle, Eldeth, Shuushar, and Ront to defend the boat while the others went looking for food.
 
+Hemeth was asleep when the party docked at the island, requiring Groggle to dock the boat. After the party had their encounter with the fungi, Hemeth ushered everyone onto the boat after seeing the large cloud of spores. When Sarith grabbed Groggle, Hemeth led a line of questioning to the party, heavily implying that he wanted Sarith removed from the party for the danger that he posed.
+
 ## Relationships
 Hemeth has mixed relationships with the party members. Some party members, such as Eldeth and Sarith, do not seem to have major qualms with him, possibly because they have yet to have their toes stepped on by him. 
 

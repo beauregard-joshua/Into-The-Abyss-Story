@@ -75,12 +75,18 @@ Alias, together with Ebadius, managed to pull the green hag onto the boat, altho
 
 Alias went with Dad, Ebadius, and Sarith to look for food. After Alias scouted ahead and found some gnolls, Sarith went back to defend the boat and Groggle joined the pack, and together they killed the first wave of gnolls. She then scouted ahead and found the remaining gnolls before returning to develop a plan of attack. She damaged the pack leader but sustained serious wounds and was forced to retreat. After the pack leader was killed, she took its longbow for herself and delivered its glaive to Dad.
 
-## Relationships
-Alias has an affectionate relationship with Eldeth Feldrun and has been courting her for most of their journey. Eldeth appears to listen to Alias in most situations as Alias seems to take the most charge of the party. Alias is also one of the few party members to bond with Stool, and this connection appears to be one of the few that show compassion from Alias. She also has a strangely positive connection with Dad, which is mostly manipulative. Alias often boosts Dad's ego in order to convince him to do what Alias wishes.
+When Shuushar investigated the island in the darklake, Alias was at the ready for anything bad to happen. When Shuushar let out a scream, Alias began running into the forest and was led by Dad to finding Shuushar. When arms started erupting from the ground, Alias had to pull Ebadius away from the commotion to get them all onto the boat.
 
-Alias doe snot have many negative relationships with people, although this is possibly because of her keeping her distance and not bonding too much with others. She doesn't speak much with others like Ront or Buppido, and while Alias might not care for them their true feelings remain unknown.
+While dealing with Sarith, Alias began hallucinating Buppido giving her advice. With the complication between Sarith's attack on Groggle and her hallucinations, Alias voiced that she was not okay and needed help.
+
+## Relationships
+Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
+
+Alias was also one of the few party members to bond with Stool, and this connection appears to be one of the few that show compassion from Alias. She also has a strangely positive connection with Dad, which is mostly in order to manipulate Dad into doing acts that are useful for Alias, or more commonly for the party as a whole. Alias often boosts Dad's ego in order to convince him to do what Alias wishes, although unknown to her Dad is aware of this behavior. 
+
+Alias has a rocky relationship with Hemeth, as the two of them have often worked well together in planning and strategizing, although they have often argued about what is fair and who is in command. Beyond that, Alias does not have many negative relationships with people, although this is possibly because of her keeping her distance from others and not bonding too much with the party. She doesn't speak much with others like Ront and spoke little to Buppido, and while Alias might not care for them their true feelings remain unknown.
 
 ## Trivia
 * Alias is quite skilled in several primary skills, but is notorious amongst her party members for being unlucky, and she often struggles to do things she has been trained to do, such as throwing objects for a distraction or climbing rock faces.
-* While Eldeth is aware that Alias is trying so court her, Alias has yet to become aware of this.
+* Eldeth had become aware at some point that Alias had an interest in her, and the two of them had to have a difficult conversation in which she turned Alias down.
 * Alias had not seen Groggle perform any type of bardic ability for the first several days that they were together, and actually thought that Groggle was one of the more useless memebers of the party until she heard that Groggle had helped heal Ront previously.
