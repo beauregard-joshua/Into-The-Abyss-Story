@@ -25,3 +25,4 @@ navigate.
 * [Session 14: Don't Help the Hags](arc03/session14-2021-02-06.md)
 * [Session 15: Gnoll's Well that Ends Well](arc03/session15-2021-02-20.md)
 * [Session 16: I'm Not Okay](arc03/session16-2021-03-06.md)
+* [Session 17: I Am the Captain Now](arc03/session17-2021-04-18.md)
