@@ -8,23 +8,23 @@ Dad is a male half-orc barbarian played by Allie.
 | --- | --- | --- | --- | --- | --- |
 | 16 | 12 | 15 | 6 | 14 | 10 |
 
-| Race | Class |
-| --- | --- |
-| Half-Orc | Barbarian |
+| Race | Class | Alignment |
+| --- | --- | --- |
+| Half-Orc | Barbarian | CG |
 
 ## Personality
-Dad's personality is agressive and blunt. He is not very intelligent, so he often immedietely says what comes to his mind, which is often not the most eloquent phrase. As an example, Dad once intimidated one of his party members on watch to ask if he had killed somone, actually holding him in the air to get his answer.
+Dad's personality is agressive and blunt. He is not very intelligent, so he often immedietely says what comes to his mind, which is often not the most eloquent phrase. As an example, Dad once intimidated one of his party members on watch to ask if he had killed somone, actually holding him in the air to get his answer. There have been several instances in which Dad went for aggression rather than diplomacy.
 
-Although his demeanor is tough, Dad is actually a person that strives for good. He seems somewhat resourceful and uses everything he has to his advantage. Throughout his time in the Underdark he has given his support for finding food and supplies, as well as fighting off some dangerous foes.
+Although his demeanor is tough, Dad is actually a person that strives for good. He seems somewhat resourceful and uses everything he has to his advantage. Throughout his time in the Underdark he has given his support for finding food and supplies, as well as fighting off some dangerous foes. In fact, combining his lack of intelligence, Dad has been a part of encouraging mistakes while thinking he was doing good work. For example, when [Ebadius](ebadius.md) started combat with some duergar traders, Dad assumed that they had threatened Ebadius and jumped into the fray.
 
-Dad is a bit arrogant, and his lack of intelligence lets this get to him at times. He often listens to the people that praise him, which leads to him following people that may or may not have any real respect for him.
+While not intelligence, Dad is surprisingly wise and capable. While some party members such as [Alias](alias.md) try to manipulate and smooth talk him, Dad is well aware what is happening and simply lets this behavior boost his ego.
 
 ## Background
 Little is known about Dad and his background. He is surprisingly wise for an orc and makes a lot of "dad" jokes, leading to the possibility that he is actually a father and has a family somewhere.
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
-Dad arrived at Velkenvelve in the second wave of prisoners, together with [Alias](alias.md) and [Buppido](../party/buppido.md) and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. He immedietely was uncomfortable, not knowing who the others were and also not knowing what races everyone appeared to be. His suggestions for escape all tended to involve fighting, although not many other prisoners were up for these ideas.
+Dad arrived at Velkenvelve in the second wave of prisoners, together with Alias and [Buppido](../party/buppido.md) and after the group of Ebadius, [Groggle](groggle.md), and Sarith. He immedietely was uncomfortable, not knowing who the others were and also not knowing what races everyone appeared to be. His suggestions for escape all tended to involve fighting, although not many other prisoners were up for these ideas.
 
 Dad, Ebadius, and Buppido were simultaneously assigned to cleaning duty in the mess hall when Dad tried to steal a knife. He was caught by the drow and a fight broke out. Dad backflipped several times and struck the drow, injuring them, but was eventually injured so much by [Ilvara](../velkenvelve/ilvara.md) that he was unable to continue fighting. While be escorted by the drow back to the jail cell Dad threw himself and his captor over the ledge into the lower spiderwebs. There her tried to escape to safety, fighting alongside Groggle and Alias, before he was eventually overcome and taken back to the cell.
 
@@ -72,10 +72,16 @@ Dad was asleep when arriving at the island in the middle of the darklake. He awo
 
 When arms began erupting from the ground on the island, Dad assisted in gettingg others free, such as Edleth and Shuushar, before running back to the boat. After Sarith grabbed Groggle, Dad struck him over the head and never left his side, fearful that he was a threat.
 
-## Relationships
-Dad's best relationship is with his party member Ront, an orc that found his way into the Underdark and into the Velknevelve prison. They share a mutual bond of agression and often do whatever the other one is doing. Dad also has a strong relationship with Alias Fakename, although he is unaware that Alias is mostly manipulating him.
+Dad, together with Ebadius, moved to restrain Hemeth during the mutiny on the boat. He also mocked Hemeth a few times as Hemeth tried to explain how the crew was acting outside of reason.
 
-Other the other side, Dad has had a mixed relationship with Sarith Kzekarit, mostly stemming from a fear of a murderer in their party. Dad and Sarith once had a decent relationship, but ever since Dad felt threatened and confronted Sarith their relationship has suffered. Dad also is distrustful of Buppido, who he assumes has some sort of hidden agenda.
+When the party docked in the tunnels, Dad traveled with Ront to look for food. They found leathery fungi that they ignored, then found some bluecaps to bring back to the boat. When they returned they learned about Garmel from Alias and Groggle, Dad traveled with Ebadius, Ront, and a bound Sarith to collect food. When they heard voices, Dad hid from view until he felt the travelers were safe.
+
+## Relationships
+Dad's best relationship is with his party member Ront, as the two of them have very similar approaches to problem solving. They share a mutual bond of agression and often do whatever the other one is doing. Dad is a bit more take-charge than Ront is, again possibly alluding to a possible past involving father-like tendcies. His other strong relationship is with Sarith, which initially began as an extremely rough relationship. Early on, Dad was aggressive toward Sarith, primarily due to Sarith's aloof behavior and lack of will to discuss what he may have known of the drow (as well as being a suspect in Jimjar's death). After the two of the helped each other evade drow capture and saved each other's life, the two of them developed a strong friendship.
+
+While he does not have many negative relationships with party members, he seems to have very neutral connections with others. He does not seem to interact with Eldeth or Groggle in many instances, although he does not appear to have issue with them. While he did reflect on Stool after he disappeared, Dad did not have a particularly strong connection with him.
+
+Dad has a strong dislike of Hemeth, likely due to Hemeth's demanding attitude. This friction resulted in him assisting in the mutiny that placed Alias in charge. While Shuushar does like Dad, Dad dislike's Shuushar's pacifism and often tries to rouse him to action, never being successful. He was also distrustful of Buppido, who he assumed had some sort of hidden agenda.
 
 ## Trivia
 * Dad is particularly skilled at doing backflips, even with his hulking size. In his entire time in the Underdark he had injured several enemies with them and has never failed to do a backflip when trying. He did, however, perform a backlip into a waterfall, hoping that there would be a hidden cave behind it, but there was just a rock face.

@@ -8,9 +8,9 @@ Alias is an female elf rogue played by Mark.
 | --- | --- | --- | --- | --- | --- |
 | 13 | 16 | 10 | 14 | 8 | 13 |
 
-| Race | Class |
-| --- | --- |
-| Elf (Wood) | Rogue |
+| Race | Class | Alignment |
+| --- | --- | --- |
+| Elf (Wood) | Rogue | CN |
 
 ## Personality
 Alias is a secretive and calculating person that is always looking for a new gambit to get what she wants. She doesn't completely detach herself from her companions, but she often sees her companions as a means to an end. As an example, Alias has a fairly good relationship with Eldeth, even so much as to say as she is trying to form a relationship, while her demeanor with [Dad](dad.md) is often a bit manipulative, boosting his ego to make sure that he will listen to her.
@@ -21,7 +21,7 @@ Alias is well organized and calculating, having no difficulties coming up with a
 Little is known about Alias and her background. She has used the name of someone in discussions with others, implying that there is someone she may know in the underdark, but she has not confided the truth in anyone.
 
 ## Story
-### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
+### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
 Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and [Buppido](../party/buppido.md) and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. He connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
 
 The prisoners were separated into two groups to perform menial chores to keep them busy. Alias was grouped with Groggle and Sarith and tasked with cleaning laundry at the waterfall. Alias found some rope tucked into a crevice when she heared yelling from the mess hall. Alias moved closer to the mess hall to see the cause and was thrown into a wall by [Ilvara](../velkenvelve/ilvara.md), who made her first appearance. Alias infiltrated the room she came from to find the statue of Lolth and tried to topple it, but was surprised to find another priestess and a giant spider. She and Groggle left and followed Sarith's advice to jump down to the webs.
@@ -34,7 +34,7 @@ When Sarith, Eldeth, and Dad started a commotion during their chores, Alias and 
 
 After their escape, Alias voted to travel to Sloobludop, which was the closest settlement to where they were.
 
-### [Travel to Sloobludop](../../sessions/arc2/info.md)
+### [Travel to Sloobludop](../../sessions/arc02/info.md)
 Alias mostly led the party as a scout, providing reconnaissance while following traveling instructions from Shuushar. When the party encountered the large cavern of the lost city of Alversin, Alias and Eldeth scouted forward looking for an obvious way forward. While the party marched forward and Eldeth and Dad began to panic, Alias calmed them down and marched them on.
 
 Alias spent most of her time in Alversin searching debris, finding some food and a few odds and ends. She eventually followed Ebadius when he claimed he saw someone outside the walls, but she was unable to find anything. She also helped walk the perimeter to search for supplies, and did one final search with Eldeth and [Stool](../party/stool.md) before moving out.
