@@ -5,11 +5,11 @@
 Alias is an female elf rogue played by Mark.
 
 | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 13 | 16 | 10 | 14 | 8 | 13 |
 
 | Race | Class | Alignment |
-| --- | --- | --- |
+| :-: | :-: | :-: |
 | Elf (Wood) | Rogue | CN |
 
 ## Personality

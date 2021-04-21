@@ -5,11 +5,11 @@
 Dad is a male half-orc barbarian played by Allie. 
 
 | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 16 | 12 | 15 | 6 | 14 | 10 |
 
 | Race | Class | Alignment |
-| --- | --- | --- |
+| :-: | :-: | :-: |
 | Half-Orc | Barbarian | CG |
 
 ## Personality
