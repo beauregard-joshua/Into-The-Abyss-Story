@@ -80,7 +80,7 @@ While dealing with Sarith, Alias began hallucinating Buppido giving her advice. 
 
 Alias, together with Ebadius and Dad, helped perform a mutiny on the ship to remove Hemeth from his position. She was elected (nearly unanimously) as the new captain and successfully encouraged others to elect Shuushar as her first mate.
 
-When the party docked in the tunnels, Alias traveled with Groggle into a crystal cluster where they encountered Gramel. She refused to take his money and simply thanked him for the information he had to offer as to where to find food. They returned to the boat where she took the place of Eldeth, who was guarding Hemeth. When Shuushar returned, they made small talk as they awaited the return of their party.
+When the party docked in the tunnels, Alias traveled with Groggle into a crystal cluster where they encountered Garmel. She refused to take his money and simply thanked him for the information he had to offer as to where to find food. They returned to the boat where she took the place of Eldeth, who was guarding Hemeth. When Shuushar returned, they made small talk as they awaited the return of their party.
 
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
@@ -93,4 +93,4 @@ Alias has a rocky relationship with Hemeth, as the two of them have often worked
 * Alias is quite skilled in several primary skills, but is notorious amongst her party members for being unlucky, and she often struggles to do things she has been trained to do, such as throwing objects for a distraction or climbing rock faces.
 * Eldeth had become aware at some point that Alias had an interest in her, and the two of them had to have a difficult conversation in which she turned Alias down.
 * Alias had not seen Groggle perform any type of bardic ability for the first several days that they were together, and actually thought that Groggle was one of the more useless members of the party until she heard that Groggle had helped heal Ront previously.
-* There as been a noticeable (albeit slight) change in Alias' personality over the course of travel. She began much more cold-hearted, loking out for herself, but showed compassion when she ran into Gramel with Groggle in the tunnels.
+* There as been a noticeable (albeit slight) change in Alias' personality over the course of travel. She began much more cold-hearted, loking out for herself, but showed compassion when she ran into Garmel with Groggle in the tunnels.
