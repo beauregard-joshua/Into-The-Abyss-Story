@@ -5,12 +5,12 @@
 Groggle is a gnome bard played by Peter.
 
 | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 10 | 15 | 10 | 11 | 14 | 18 |
 
-| Race | Class |
-| --- | --- |
-| Gnome (Forest) | Bard |
+| Race | Class | Alignment |
+| :-: | :-: | :-: |
+| Gnome (Forest) | Bard | CG |
 
 ## Personality
 Groggle is an optimistic, friendly, and fairly quiet person. As expected of a bard he is quite musical and often tries to use music to spur the party's morale. He tries to use anything that he sees as a musical instrument, such as chamber pots or rocks. He is not necessarily outspoken and he will often go with the flow of his companions, but he makes sure that his ideas are heard enough to at least hold merit.
@@ -25,7 +25,7 @@ Groggle came from a small village somewhere on the surface in which had some for
 His musical skills imply that Groggle may have attended a bard's college somewhere, although it is unlikely that he would have attended it in his small village.
 
 ## Story
-### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
+### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
 Groggle arrived at Velkenvelve with Ebadius and Sarith as the first set of prisoners. Groggle immedietely began making the best of a bad situation, trying to play music on chamber pots and making the food palletable. He began performing menial chores, such as stacking rocks. He asked one of the guards why he was stakcing rocks, and was slogged in the face.
 
 Groggle was with [Alias](alias.md) and Sarith when a fight broke out in the mess hall. Groggle slowly followed behind Alias as they entered a room with a giant statue of Lolth, where the two of them briefly fought a priestess. After leaving he followed Sarith down into the spiderwebs where they encountered another giant spider, which Groggle was able to befriend and ride. From here Groggle was unable to do much until he was shot with a poisoned bolt and knocked unconscious. Groggle awoke in the prison cell when the guards arrived and used him as an example, beating him within an inch of his life.
@@ -34,7 +34,7 @@ When Sarith started a brawl outside, Groggle was in the prison cell when the par
 
 After meeting up with the party, Groggle voted to travel to Sloobludop, as it was the closest place.
 
-### [Travel to Sloobludop](../../sessions/arc2/info.md)
+### [Travel to Sloobludop](../../sessions/arc02/info.md)
 As a caster, Groggle supported the party mostly from the back of the pack. He was farily silent during their trip, letting the others guide their way into the lost coty of Alversin. He helped search the buildings with everyone else, finding a few odds and ends, such as a bottle of wine. On the second day of exploration, Groggle, Ebadius, and Shuushar all investigated the central castle. Together they ecnountered some eerie noises and whispers and decided to leave without finding anything.
 
 When the party encountered a group of formerly enslaved goblins, Groggle cast *bane* and shouted "we mean you no harm", to which his party decided to kill three of them and let a fourth one go.
@@ -67,6 +67,12 @@ When fighting the green hag on the boat, she reached for Groggle, but he managed
 After running the boat aground, Groggle stayed back to examine any damages to the boat, but found none. He stayed there until Sarith told him to join up with the others in the tunnels. He fought with the first pack of gnolls, missing several crossbow shots, but killing the final gnoll. He then provided covering fire for Dad as they fought the remaining gnolls and offered healing to the party as they struggled against the pack leader.
 
 Groggle was the to identify the island in the darklake, and guided the party into docking the boat. He stayed behind while Shuushar explored, but spring into action when he heard him yelp. He, together with Shuushar and Eldeth, quickly ran back to the boat while the others deliberated. Back on the boat, Sarith grabbed Groggle, but was stopped by the other party members before Sarith could do anything. When Sarith told the party to let him go, Groggle expressed to him that he was their friend and that they would find a cure for whatever was wrong with him in Gracklstugh.
+
+Groggle was nominated as either captain or first mate of the ship, but instead chose to vote for Alias and Shuushar.
+
+Once docked, Groggle went out to look for food with Alias and eventually found their way into a crystal cavern. Groggle heard weezing and helped find their way to Garmel, and Groggle healed him back to life. The learned about nearby food and returned to the boat with Alias to inform the party. Once their, Groggle returned to the cavern, this time with Eldeth, to gather crystals for the party. He tested their brightness by throwing one on the ground, preparing to use them as weapons.
+
+When the drow traders came through the cavern, Groggle and Eldeth hid until they passed through.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
