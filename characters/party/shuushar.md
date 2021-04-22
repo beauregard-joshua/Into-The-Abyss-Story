@@ -12,7 +12,17 @@ His personality makes him quite agreeable at times, but others tend to heed the 
 Even with others rejecting his ideas, Shuushar often keeps good spirits and views his party members as his friends, even if the feeling is not reciprocated.
 
 ## Background
-Shuushar comes from the kuo-toa town of Sloobludop
+Shuushar comes from the kuo-toa town of Sloobludop along the darklake in the underdark. His family, profession, or any other major lifestyle choices are largely unknown. While other kuo-toa are mostly insane, Shuushar stands out as an "enlightened" kuo-toa, aware of other cultures and not devout to the same gods. How he came to this position is also largely unknown.
+
+It is known that Shuushar has some connections amongst important people in Sloobludop. He spoke with Ploopploopeen as if they had known each other for some time, and when exploring the town Shuushar spent time reconnecting with other kuo-toa that he knew. He was long ago known to be a follower of the sea mother Blibdoolpoolp, but has not expressed any devotion to gods during his time with the party.
+
+## Story
+### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
+Shuushar arrived at Velkenvelve together with [Stool](stool.md). While Stool hid in the corner, Shuushar swiftly introduced himself to the party, taking most note of [Alias](../pcs/alias.md) who spoke with him the most. He discussed how he was captured by drow while exploring outside of Sloobludop and how he is a pacifist, meaning that he did not resist capture. When discussing methods of escape, Shuushar often spoke like "good things would eventually happen", and had no real desire to fight back.
+
+While planning an escape, Shuushar spent most of his time attempting to bond with the party, although many party members did not have much of a desire to speak with him.
+
+When the prison break started, Shuushar was in the jail cell with most of the others
 
 
 
