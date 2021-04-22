@@ -20,9 +20,13 @@ It is known that Shuushar has some connections amongst important people in Sloob
 ### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
 Shuushar arrived at Velkenvelve together with [Stool](stool.md). While Stool hid in the corner, Shuushar swiftly introduced himself to the party, taking most note of [Alias](../pcs/alias.md) who spoke with him the most. He discussed how he was captured by drow while exploring outside of Sloobludop and how he is a pacifist, meaning that he did not resist capture. When discussing methods of escape, Shuushar often spoke like "good things would eventually happen", and had no real desire to fight back.
 
-While planning an escape, Shuushar spent most of his time attempting to bond with the party, although many party members did not have much of a desire to speak with him.
+While planning an escape, Shuushar spent most of his time attempting to bond with the party, although many party members did not have much of a desire to speak with him. The one party member that he connected well with was Stool, who was also a pacifist, although that was mostly due to his age and fear.
 
-When the prison break started, Shuushar was in the jail cell with most of the others
+When the prison break started, Shuushar was in the jail cell with most of the others. Led by [Ebadius](../pcs/ebadius.md) and Alias, Shuushar escaped with Groggle, [Jimjar](jimjar.md), Stool, [Topsy](topsy.md), and [Turvy](turvy.md) into the armory. While others fought, Shuushar helped Jimjar bar the back door. When Alias threw supplies down for others to use, Shuushar helped pass tools around, but did not take anything for himself. While combat ensued with [Ilvara](../velkenvelve/ilvara.md) and the demons, Shuushar stayed back as expected. Once many of the others left the armory, Shuushar jumped down from the armory and then into the pool of water beneath the waterfall, joined by Groggle, Jimjar, and Stool.
+
+After escaping, Shuushar voted to travel to Sloobludop, since it was his hometown, he knew the route, and it was the closest location to them.
+
+### [Travel to Sloobludop](../../sessions/arc02/info.md)
 
 
 
