@@ -5,24 +5,23 @@
 Alias is an female elf rogue played by Mark.
 
 | STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 13 | 16 | 10 | 14 | 8 | 13 |
 
-| Race | Class |
-| --- | --- |
-| Elf (Wood) | Rogue |
+| Race | Class | Alignment |
+| :-: | :-: | :-: |
+| Elf (Wood) | Rogue | CN |
 
 ## Personality
-
 Alias is a secretive and calculating person that is always looking for a new gambit to get what she wants. She doesn't completely detach herself from her companions, but she often sees her companions as a means to an end. As an example, Alias has a fairly good relationship with Eldeth, even so much as to say as she is trying to form a relationship, while her demeanor with [Dad](dad.md) is often a bit manipulative, boosting his ego to make sure that he will listen to her.
 
-Alias is well organized and calculating, having no difficulties coming up with a plan or strategy. These strategies may be short term and simply be quick ploys, or may involve larger schemes, such as tricking her companions or searching for something lost to her.
+Alias is well organized and calculating, having no difficulties coming up with a plan or strategy. These strategies may be short term and simply be quick ploys, or may involve larger schemes, such as tricking her companions or searching for something lost to her. As an example, Alias heavily advocated for Shuushar to be her first mate on the darklake, whie partly for his knowledge of the terrain, it was mostly for her ability to remove his command as necessary for her own.
 
 ## Background
 Little is known about Alias and her background. She has used the name of someone in discussions with others, implying that there is someone she may know in the underdark, but she has not confided the truth in anyone.
 
 ## Story
-### [The Prison at Velkenvelve](../../sessions/arc1/info.md)
+### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
 Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and [Buppido](../party/buppido.md) and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. He connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
 
 The prisoners were separated into two groups to perform menial chores to keep them busy. Alias was grouped with Groggle and Sarith and tasked with cleaning laundry at the waterfall. Alias found some rope tucked into a crevice when she heared yelling from the mess hall. Alias moved closer to the mess hall to see the cause and was thrown into a wall by [Ilvara](../velkenvelve/ilvara.md), who made her first appearance. Alias infiltrated the room she came from to find the statue of Lolth and tried to topple it, but was surprised to find another priestess and a giant spider. She and Groggle left and followed Sarith's advice to jump down to the webs.
@@ -35,7 +34,7 @@ When Sarith, Eldeth, and Dad started a commotion during their chores, Alias and 
 
 After their escape, Alias voted to travel to Sloobludop, which was the closest settlement to where they were.
 
-### [Travel to Sloobludop](../../sessions/arc2/info.md)
+### [Travel to Sloobludop](../../sessions/arc02/info.md)
 Alias mostly led the party as a scout, providing reconnaissance while following traveling instructions from Shuushar. When the party encountered the large cavern of the lost city of Alversin, Alias and Eldeth scouted forward looking for an obvious way forward. While the party marched forward and Eldeth and Dad began to panic, Alias calmed them down and marched them on.
 
 Alias spent most of her time in Alversin searching debris, finding some food and a few odds and ends. She eventually followed Ebadius when he claimed he saw someone outside the walls, but she was unable to find anything. She also helped walk the perimeter to search for supplies, and did one final search with Eldeth and [Stool](../party/stool.md) before moving out.
@@ -79,6 +78,10 @@ When Shuushar investigated the island in the darklake, Alias was at the ready fo
 
 While dealing with Sarith, Alias began hallucinating Buppido giving her advice. With the complication between Sarith's attack on Groggle and her hallucinations, Alias voiced that she was not okay and needed help.
 
+Alias, together with Ebadius and Dad, helped perform a mutiny on the ship to remove Hemeth from his position. She was elected (nearly unanimously) as the new captain and successfully encouraged others to elect Shuushar as her first mate.
+
+When the party docked in the tunnels, Alias traveled with Groggle into a crystal cluster where they encountered Gramel. She refused to take his money and simply thanked him for the information he had to offer as to where to find food. They returned to the boat where she took the place of Eldeth, who was guarding Hemeth. When Shuushar returned, they made small talk as they awaited the return of their party.
+
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
 
@@ -89,4 +92,5 @@ Alias has a rocky relationship with Hemeth, as the two of them have often worked
 ## Trivia
 * Alias is quite skilled in several primary skills, but is notorious amongst her party members for being unlucky, and she often struggles to do things she has been trained to do, such as throwing objects for a distraction or climbing rock faces.
 * Eldeth had become aware at some point that Alias had an interest in her, and the two of them had to have a difficult conversation in which she turned Alias down.
-* Alias had not seen Groggle perform any type of bardic ability for the first several days that they were together, and actually thought that Groggle was one of the more useless memebers of the party until she heard that Groggle had helped heal Ront previously.
+* Alias had not seen Groggle perform any type of bardic ability for the first several days that they were together, and actually thought that Groggle was one of the more useless members of the party until she heard that Groggle had helped heal Ront previously.
+* There as been a noticeable (albeit slight) change in Alias' personality over the course of travel. She began much more cold-hearted, loking out for herself, but showed compassion when she ran into Gramel with Groggle in the tunnels.

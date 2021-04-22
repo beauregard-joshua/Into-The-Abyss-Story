@@ -44,6 +44,11 @@ search for food. They provoke fungi, presumably related to
 Zuggtmoy, and escape from the island, where there is an intense
 moment with Sarith and Alias.
 
+### [Session 17: I Am the Captain Now](session17-2021-04-18.md)
+The party performs a gentle coup to remove Hemeth as captain in place
+of Alias and Shuushar. The party finds food and bright crystals in
+the tunnels while also encounering some drow traders.
+
 ## Arc Links
 * Previous: [Arc 2: Travel to Sloobludop](../arc02/info.md)
 * Current: Arc 3: To Gracklstugh, then Neverlight Grove
