@@ -15,7 +15,7 @@ Groggle is a gnome bard played by Peter.
 ## Personality
 Groggle is an optimistic, friendly, and fairly quiet person. As expected of a bard he is quite musical and often tries to use music to spur the party's morale. He tries to use anything that he sees as a musical instrument, such as chamber pots or rocks. He is not necessarily outspoken and he will often go with the flow of his companions, but he makes sure that his ideas are heard enough to at least hold merit.
 
-While a bit quiet, Groggle is indeed adventurous. For example, when exploring the lost city of Alversin with [Ebadius](ebadius.md) and Shuushar, the three of them explored a seemingly haunted castle and encountered several scary things before leaving. He also personally faced a giant spider in Velkenvelve, even when on its own webbing.
+While a bit quiet, Groggle is indeed adventurous. For example, when exploring the lost city of Alversin with [Ebadius](ebadius.md) and [Shuushar](../party/shuushar.md), the three of them explored a seemingly haunted castle and encountered several scary things before leaving. He also personally faced a giant spider in Velkenvelve, even when on its own webbing.
 
 This courage could come from Groggle's resourcefulness. Groggle has made use of improvised weapons as well as maneuvering his way through tricky situations. For example, Groggle was able to calm an aggressive giant spider and ride it for a time. In addition, in a spectacular feat, Groggle was able to convince an enemy drow to turn away while looking for his party.
 

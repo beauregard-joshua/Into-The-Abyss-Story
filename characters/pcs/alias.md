@@ -15,7 +15,7 @@ Alias is an female elf rogue played by Mark.
 ## Personality
 Alias is a secretive and calculating person that is always looking for a new gambit to get what she wants. She doesn't completely detach herself from her companions, but she often sees her companions as a means to an end. As an example, Alias has a fairly good relationship with Eldeth, even so much as to say as she is trying to form a relationship, while her demeanor with [Dad](dad.md) is often a bit manipulative, boosting his ego to make sure that he will listen to her.
 
-Alias is well organized and calculating, having no difficulties coming up with a plan or strategy. These strategies may be short term and simply be quick ploys, or may involve larger schemes, such as tricking her companions or searching for something lost to her. As an example, Alias heavily advocated for Shuushar to be her first mate on the darklake, whie partly for his knowledge of the terrain, it was mostly for her ability to remove his command as necessary for her own.
+Alias is well organized and calculating, having no difficulties coming up with a plan or strategy. These strategies may be short term and simply be quick ploys, or may involve larger schemes, such as tricking her companions or searching for something lost to her. As an example, Alias heavily advocated for [Shuushar](../party/shuushar.md) to be her first mate on the darklake, whie partly for his knowledge of the terrain, it was mostly for her ability to remove his command as necessary for her own.
 
 ## Background
 Little is known about Alias and her background. She has used the name of someone in discussions with others, implying that there is someone she may know in the underdark, but she has not confided the truth in anyone.

@@ -37,7 +37,7 @@ When it came to leaving Velkevelve, Dad was vocal about traveling with Stool and
 ### [Travel to Sloobludop](../../sessions/arc02/info.md)
 Dad acted as one of the frontline warriors in the traveling party, due to his strength and constitution. His sanity began to waver as the party approach the lost city of Alversin. The whispers and scampering sounds eventually caused Dad to lose his mind briefly, but Alias calmed him down and he was able to proceed.
 
-In Alversin, Dad searched a few streets together with Ront, Stool, and Shuushar. After Shuushar ran away screaming, Dad and Ront invstigated to find an octopus (dubbed the *rocktopus*) within the city, and Dad used his newfound axe to kill the octopus with Ront. Together they cut the meat of the octopus for travel.
+In Alversin, Dad searched a few streets together with Ront, Stool, and [Shuushar](../party/shuushar.md). After Shuushar ran away screaming, Dad and Ront invstigated to find an octopus (dubbed the *rocktopus*) within the city, and Dad used his newfound axe to kill the octopus with Ront. Together they cut the meat of the octopus for travel.
 
 When the party was awoken by the drow search party, Dad quickly stopped Ront from maing any noise, as he was prone to doing.
 
