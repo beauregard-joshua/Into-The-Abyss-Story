@@ -22,7 +22,7 @@ Little is known about Alias and her background. She has used the name of someone
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
-Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and [Buppido](../party/buppido.md) and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. He connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
+Alias arrived at Velkenvelve in the second wave of prisoners, together with Dad and [Buppido](../party/buppido.md) and after the group of [Ebadius](ebadius.md), [Groggle](groggle.md), and Sarith. Her first interpretation of everyone was that she was surrounded by incompetent people and would need to organize the others to get out. She connected a bit with Sarith, who had the most information to give, and kept the others at a bit of a distance.
 
 The prisoners were separated into two groups to perform menial chores to keep them busy. Alias was grouped with Groggle and Sarith and tasked with cleaning laundry at the waterfall. Alias found some rope tucked into a crevice when she heared yelling from the mess hall. Alias moved closer to the mess hall to see the cause and was thrown into a wall by [Ilvara](../velkenvelve/ilvara.md), who made her first appearance. Alias infiltrated the room she came from to find the statue of Lolth and tried to topple it, but was surprised to find another priestess and a giant spider. She and Groggle left and followed Sarith's advice to jump down to the webs.
 

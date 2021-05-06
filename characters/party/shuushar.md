@@ -27,8 +27,15 @@ When the prison break started, Shuushar was in the jail cell with most of the ot
 After escaping, Shuushar voted to travel to Sloobludop, since it was his hometown, he knew the route, and it was the closest location to them.
 
 ### [Travel to Sloobludop](../../sessions/arc02/info.md)
+While it would ordinarily have been advantageous for Shuushar to remain in the middle of the pack for safety's sake, he helped lead the pack with Alias, since he knew the path to Sloobludop. With Alias scouting ahead, Shuushar guided the party into the large cavern that led to the lost city of Alversin. Once they arrived, Shuushar worked together with [Dad](../pcs/dad.md) and [Buppido](buppido.md) to look for supplies. Shuushar found the "rocktopus" and ran screaming down the road while Dad and Ront took care of it. 
 
+Shuushar, together with Ebadius and Groggle, moved to investigate the central castle in Alversin. After encountering a few jarring events, Shuushar encouraged everyone to leave.
 
+Whenever the party encountered enemies, Shuushar remained in the back of the pack while the others did the combat. This happened in several occassions on the way to Sloobludop, such as when encountering the goblins, fighting the grell, or defeating the collection of aggressive fungi in the fungus cavern. He was often positioned with Buppido and Stool, who also did little to nothing.
+
+After Jimjar was found murdered, Shuushar was one of the few party members to keep themselves collected. He acted as though there must have been some sort of misunderstanding and vehemently defended himself, as well as those that he was close to, such as Groggle and Stool.
+
+The evening after Ebadius let out the pressurized gas chamber, Shuushar spent the night on watch with Ebadius and Groggle. Together they discussed Sloobludop and what to expect on arrival, as well 
 
 ## Trivia
 * The name Shuushar *the Awakened* comes from the fact that he believes that he is an enlightened kuo-toa, although many in the party believe him simply to be naive.
