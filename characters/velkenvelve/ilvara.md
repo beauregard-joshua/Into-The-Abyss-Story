@@ -23,7 +23,7 @@ Once the larger riot began, Ilvara left her chamber again to greet the party, st
 ### [Travel to Sloobludop](../../sessions/arc02/info.md)
 Ilvara began leading a search party to recover her prisoners. Her search party eventually caught up to the party, where some guards investigated the cave the party was hiding in while others investigated the goblins they had killed earlier that evening. Due to Groggle's *suggestion* spell, Ilvara did not notice the party and simply moved on to the goblins.
 
-### [To Gracklstugh, then Neverlight Grove](../../sessions/arc03/info.md)
+### [Dangers of the Darklake](../../sessions/arc03/info.md)
 While Ilvara has not been seen, the drow search party continued to search for the party, finding them just outside of Sloobludop. It is assumed that she led the party into town to look for them.
 
 ## Relationships

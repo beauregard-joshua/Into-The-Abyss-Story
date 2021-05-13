@@ -54,4 +54,4 @@ two of their party members in the process.
 ## Arc Links
 * Previous: [Arc 1: The Prison at Velkenvelve](../arc01/info.md)
 * Current: Arc 2: Travel to Sloobludop
-* Next: [Arc 3: To Gracklstugh, then Neverlight Grove](../arc03/info.md)
+* Next: [Arc 3: Dangers of the Darklake](../arc03/info.md)

@@ -55,7 +55,7 @@ Unsure of who was an enemy and who was a friend, Groggle did little to aid the f
 
 When escaping Sloobludop, Groggle teamed up with Ebadius as they retrieved their belongings from the inn. He was able to signal to their party members that they were coming down the tunnels by using using magic drum and the two of them met up with Sarith, [Hemeth](../party/hemeth.md), Dad, Eldeth, Shuushar, and Ront.
 
-### [To Gracklstugh, then Neverlight Grove](../../sessions/arc03/info.md)
+### [Dangers of the Darklake](../../sessions/arc03/info.md)
 Groggle joined up with Alias, Ebadius, and Shuushar to investigate the ruins of Sloobludop after Demogorgon's attack. He successfully found several parts of boat wreckage that could be salvaged to make a new boat for traversing the darklake. He helped assemble the boat before departing. While rowing, Groggle spent most of his efforts healing others fighting monsters and rowing the boat, but was unable to avoid damage.
 
 While others rested or ventured into the tunnels, Groggle chose to aid in the repairs of the boat, but wasn't particularly helpful. He teamed up with Dad and Sarith who did most of the work.

@@ -1,4 +1,4 @@
-# Arc 3: To Gracklstugh, then Neverlight Grove
+# Arc 3: Dangers of the Darklake
 
 The party accidentally summons Demogorgon, who remains loose in
 the Underdark. They search for a means to travel to Neverlight
@@ -56,5 +56,5 @@ within sight of Gracklstugh.
 
 ## Arc Links
 * Previous: [Arc 2: Travel to Sloobludop](../arc02/info.md)
-* Current: Arc 3: To Gracklstugh, then Neverlight Grove
+* Current: Arc 3: Dangers of the Darklake
 * Next: ???

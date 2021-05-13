@@ -59,7 +59,7 @@ When the party infiltrated the cult of the Deep Father, Ebadius was one of the f
 
 In the escape of Sloobludop, Ebadius teamed up with Groggle and returned to the inn to grab their belongings. They eventually met up with the group of Sarith, Hemeth, Dad, Eldeth, Shuushar, and Ront, after hearing Sarith's bell ringing in the tunnels.
 
-## [To Gracklstugh, then Neverlight Grove](../../sesssions/arc03/info.md)
+## [Dangers of the Darklake](../../sesssions/arc03/info.md)
 Ebadius returned with Groggle, Alias, and Shuushar to Sloobdludop to look for supplies after the destruction by Demogorgon. He suggested to others that they should build a boat and traverse the darklake. During the combat while on the boat, Ebadius was extremely inaccurate and almost shot the boat with a *scorching ray*.
 
 Ebadius chose to rest on the shore after docking. When Hemeth arrived without Alias, Ebadius was suspicious and organized the search party to look for Alias when she didn't return for a time. When they found her, they quickly left in fear.
