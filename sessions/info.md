@@ -18,7 +18,7 @@ navigate.
 * [Session 9: Sloobluboppin'](arc02/session09-2020-11-01.md)
 * [Session 10: Demogorgon? I Hardly Knew Her](arc02/session10-2020-11-08.md)
 
-## [Arc 3 To Gracklstugh, then Neverlight Grove](arc03/info.md)
+## [Arc 3: To Gracklstugh, then Neverlight Grove](arc03/info.md)
 * [Session 11: A Boat Of...](arc03/session11-2020-11-29.md)
 * [Session 12: Ships and Giggles](arc03/session12-2021-01-03.md)
 * [Session 13: Sinking Prospects](arc03/session13-2021-01-16.md)
@@ -26,3 +26,4 @@ navigate.
 * [Session 15: Gnoll's Well that Ends Well](arc03/session15-2021-02-20.md)
 * [Session 16: I'm Not Okay](arc03/session16-2021-03-06.md)
 * [Session 17: I Am the Captain Now](arc03/session17-2021-04-18.md)
+* [Session 18: The Gang Makes it Out of the Abyss](arc03/session18-2021-05-06.md)

@@ -49,6 +49,11 @@ The party performs a gentle coup to remove Hemeth as captain in place
 of Alias and Shuushar. The party finds food and bright crystals in
 the tunnels while also encounering some drow traders.
 
+### [Session 18: The Gang Makes it Out of the Abyss](session18-2021-05-06.md)
+The party enjoys a largely uneventful amount of travel on the
+darklake. The party makes plans for docking and eventually arrives
+within sight of Gracklstugh.
+
 ## Arc Links
 * Previous: [Arc 2: Travel to Sloobludop](../arc02/info.md)
 * Current: Arc 3: To Gracklstugh, then Neverlight Grove
