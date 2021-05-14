@@ -64,7 +64,7 @@ Shuushar did not take part in the mutiny to remove Hemeth as the captain, but di
 
 When asked about Gracklstugh, Shuushar stated that he had not ever visited the city, but did think that the best approach would be to use the darklake for entry.
 
-# Relationshuips
+# Relationships
 Over the course of the adventure, Shuushar has made a niche for himself as a friendly, yet somewhat useless party member. This position has caused him to gather a mix of relationships from bpositive to extremely negative. Groggle is one of Shuushar's biggest advocates, often encouraging him to cheer up or keep moving when things seem difficult. This is likely due to Groggle's positive personality in general and a connection that he may have to Shuushar's attempt at making friends. He also bonded strongly with Stool, since neither of them partook in violence, and Shuushar seemed sad when Stool disappeared. Other party members like Alias and Sarith have mostly positive opinions of Shuushar, but this mostly stems from the little use that he gives to the party.
 
 Some party members like Ebadius, Eldeth, and Ront appear to have no real disposition toward Shuushar. While Shuushar speaks with everyone, others do not necessarily take kindly to his verbose attitude. The same relationship existed for Buppido and Jimjar when they traveled with the group.
