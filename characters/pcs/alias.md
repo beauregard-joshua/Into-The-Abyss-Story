@@ -61,7 +61,7 @@ In the night, Alias followed Buppido as he went for a walk around town, but most
 
 While the rest of the party acted to infiltrate the cult of the Deep Father, Alias stayed behind and wanted from afar. When her party entered the altar, she moved behind the statue of Leemooggoogoon to attack. As the attack started, she tried to distract the kuo-tao by mimicking the Deep Father, but once Demogorgon arose from the water she swam through the water, broke [Hemeth](../party/hemeth.md) free, then escaped. Alias quickly looted the general store before escaping back into the tunnels. She was one of the last perty members to meet up in the Underdark, aside from Stool and Buppido, who were not found.
 
-### [To Gracklstugh, then Neverlight Grove](../../sessions/arc03/info.md)
+### [Dangers of the Darklake](../../sessions/arc03/info.md)
 Alias was one of the party members, along with Ebadius, Groggle, and Shuushar, to return to Sloobludop after Demogorgon's release. She helped loot ruined buildings while the others searched for salvage for building a boat. When the others arrived and reported that the drow had found them, Alias kept watch while the others built the boat before departing. During the combat on the boat, Alias was severely injured by an aquatic troll, but was healed by Groggle so she could keep fighting. After the first boat docking, she scouted ahead and heard some noises in the cave. When she reported this to the party, they decided to keep traveling down the darklake.
 
 Alias and Hemeth investigated the tunnels until they found a group of quaggoths that appeared to have mushrooms growing on their heads. Alias ventured further while Hemeth turned back to warn the others. Alias encountered several strange things, most notably a voice that said "You're going to wish you hadn't done that", that spoke after she took an axe from a skeleton, as well as a collection of whispering voices. She returned to the party and urgently moved everyone out.
@@ -80,7 +80,9 @@ While dealing with Sarith, Alias began hallucinating Buppido giving her advice. 
 
 Alias, together with Ebadius and Dad, helped perform a mutiny on the ship to remove Hemeth from his position. She was elected (nearly unanimously) as the new captain and successfully encouraged others to elect Shuushar as her first mate.
 
-When the party docked in the tunnels, Alias traveled with Groggle into a crystal cluster where they encountered Gramel. She refused to take his money and simply thanked him for the information he had to offer as to where to find food. They returned to the boat where she took the place of Eldeth, who was guarding Hemeth. When Shuushar returned, they made small talk as they awaited the return of their party.
+When the party docked in the tunnels, Alias traveled with Groggle into a crystal cluster where they encountered Garmel. She refused to take his money and simply thanked him for the information he had to offer as to where to find food. They returned to the boat where she took the place of Eldeth, who was guarding Hemeth. When Shuushar returned, they made small talk as they awaited the return of their party.
+
+Alias pressed Hemeth for questions while traveling to Gracklstugh, and was able to get Hemeth to speak out a lie, caught by both Dad and Sarith. She also suggested to the party a stealthy approach into Gracklstugh for fear that a group of nine strangers might attract some attention. She was also able to smell the metallic scent of forges as they approached the city.
 
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.

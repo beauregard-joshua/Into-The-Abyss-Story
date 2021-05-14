@@ -59,7 +59,7 @@ When the party infiltrated the cult of the Deep Father, Ebadius was one of the f
 
 In the escape of Sloobludop, Ebadius teamed up with Groggle and returned to the inn to grab their belongings. They eventually met up with the group of Sarith, Hemeth, Dad, Eldeth, Shuushar, and Ront, after hearing Sarith's bell ringing in the tunnels.
 
-## [To Gracklstugh, then Neverlight Grove](../../sesssions/arc03/info.md)
+## [Dangers of the Darklake](../../sesssions/arc03/info.md)
 Ebadius returned with Groggle, Alias, and Shuushar to Sloobdludop to look for supplies after the destruction by Demogorgon. He suggested to others that they should build a boat and traverse the darklake. During the combat while on the boat, Ebadius was extremely inaccurate and almost shot the boat with a *scorching ray*.
 
 Ebadius chose to rest on the shore after docking. When Hemeth arrived without Alias, Ebadius was suspicious and organized the search party to look for Alias when she didn't return for a time. When they found her, they quickly left in fear.
@@ -81,6 +81,8 @@ Ebadius helped tie up Sarith after his episode with Groggle. He mostly stayed fo
 Ebadius quickly communicated with Alias using *message* to discuss removing Hemeth as the captain. Once Hemeth ordered that Alias be seized, Ebadius and Dad restrained Hemeth and voted for a new leader. Ebadius elected Alias as captain as well as Shuushar as the first mate. When Shuushar tried to refuse, Ebadius lied through his teeth to tell Shuushar that he was the right fit, but Shuushar did not believe him.
 
 Once docked, Ebadius traveled with a bound Sarith to look for food. While he tried to lift Sarith's spirits, it did not seem to work. They eventually found some bluecaps before returning to the boat. There, Ebadius traveled again with Sarith as well as Dad and Ront to look for food deeper in the tunnels when they encountered drow merchants. While Ebadius began the conversation, he eventually untied Sarith so that he might better parlay with them.
+
+Ebadius agreed with Alias in her assessment of entering Gracklstugh carefully. He suggested that he turn someone invisible so they might approach the docks discreetly while the others could wait and see the results.
 
 ## Relationships
 Ebadius has mixed relationships with most members of his party, stemming from his ability to take successive action as well as his ability to get the party into danger. He and Alias have a farily decent relationship, as the two of them do most of the planning. Ebadius also shares a decent relationship with Sarith, even considering the fear of how Sarith might endanger the party. While he does not have a particularly strong relationship with Groggle, these three appear to be the only characters in which Ebadius accepts counsel.

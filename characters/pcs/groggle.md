@@ -55,7 +55,7 @@ Unsure of who was an enemy and who was a friend, Groggle did little to aid the f
 
 When escaping Sloobludop, Groggle teamed up with Ebadius as they retrieved their belongings from the inn. He was able to signal to their party members that they were coming down the tunnels by using using magic drum and the two of them met up with Sarith, [Hemeth](../party/hemeth.md), Dad, Eldeth, Shuushar, and Ront.
 
-### [To Gracklstugh, then Neverlight Grove](../../sessions/arc03/info.md)
+### [Dangers of the Darklake](../../sessions/arc03/info.md)
 Groggle joined up with Alias, Ebadius, and Shuushar to investigate the ruins of Sloobludop after Demogorgon's attack. He successfully found several parts of boat wreckage that could be salvaged to make a new boat for traversing the darklake. He helped assemble the boat before departing. While rowing, Groggle spent most of his efforts healing others fighting monsters and rowing the boat, but was unable to avoid damage.
 
 While others rested or ventured into the tunnels, Groggle chose to aid in the repairs of the boat, but wasn't particularly helpful. He teamed up with Dad and Sarith who did most of the work.
@@ -72,7 +72,9 @@ Groggle was nominated as either captain or first mate of the ship, but instead c
 
 Once docked, Groggle went out to look for food with Alias and eventually found their way into a crystal cavern. Groggle heard weezing and helped find their way to Garmel, and Groggle healed him back to life. The learned about nearby food and returned to the boat with Alias to inform the party. Once their, Groggle returned to the cavern, this time with Eldeth, to gather crystals for the party. He tested their brightness by throwing one on the ground, preparing to use them as weapons.
 
-When the drow traders came through the cavern, Groggle and Eldeth hid until they passed through.
+When the drow traders came through the cavern, Groggle and Eldeth hid until they passed through. After hearing from Alias that they encountered drow traders as well, he was a little less chaken about the encounter.
+
+Groggle kept mostly silent on the boat to Gracklstugh. He was able to smell the scents from the forges and made this known, alerting the party to their nearing arrival.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
