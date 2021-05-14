@@ -27,3 +27,6 @@ navigate.
 * [Session 16: I'm Not Okay](arc03/session16-2021-03-06.md)
 * [Session 17: I Am the Captain Now](arc03/session17-2021-04-18.md)
 * [Session 18: The Gang Makes it Out of the Abyss](arc03/session18-2021-05-06.md)
+
+## Navigation
+* [Return to top](../README.md)
