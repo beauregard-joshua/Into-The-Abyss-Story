@@ -15,7 +15,7 @@ Groggle is a gnome bard played by Peter.
 ## Personality
 Groggle is an optimistic, friendly, and fairly quiet person. As expected of a bard he is quite musical and often tries to use music to spur the party's morale. He tries to use anything that he sees as a musical instrument, such as chamber pots or rocks. He is not necessarily outspoken and he will often go with the flow of his companions, but he makes sure that his ideas are heard enough to at least hold merit.
 
-While a bit quiet, Groggle is indeed adventurous. For example, when exploring the lost city of Alversin with [Ebadius](ebadius.md) and Shuushar, the three of them explored a seemingly haunted castle and encountered several scary things before leaving. He also personally faced a giant spider in Velkenvelve, even when on its own webbing.
+While a bit quiet, Groggle is indeed adventurous. For example, when exploring the lost city of Alversin with [Ebadius](ebadius.md) and [Shuushar](../party/shuushar.md), the three of them explored a seemingly haunted castle and encountered several scary things before leaving. He also personally faced a giant spider in Velkenvelve, even when on its own webbing.
 
 This courage could come from Groggle's resourcefulness. Groggle has made use of improvised weapons as well as maneuvering his way through tricky situations. For example, Groggle was able to calm an aggressive giant spider and ride it for a time. In addition, in a spectacular feat, Groggle was able to convince an enemy drow to turn away while looking for his party.
 
@@ -51,7 +51,7 @@ For much of the remaining travel to Sloobludop Groggle stayed quiet and deferred
 
 When in town, Groggle and Ebadius sold much of Alias' spoils together. They sold much to the curiosity shop and had other objects appraised, but his biggest achievement was the purchasing of a drum that sounded like a horn playing C# when struck. He used this instrument to do some street performances, but it did not work out, but he was successful in rallying the patrons of the inn using his drum and some "ham-bonin'". The next morning, Groggle purchased a few crossbow bolts for himself.
 
-Unsure of who was an enemy and who was a friend, Groggle did little to aid the fight in the Altar of the Deep Father. Once Demogorgon revealed himself from the waters, Groggle was one of the few people who kept themselves together and commanded people to escape. He was the one calmed Eldeth down and convinced her to get Dad out of the altar.
+Unsure of who was an enemy and who was a friend, Groggle did little to aid the fight in the Altar of the Deep Father. Once Demogorgon revealed himself from the waters, Groggle was one of the few people who kept themselves together and commanded people to escape. He was the one calmed Eldeth down and convinced her to get [Dad](dad.md) out of the altar.
 
 When escaping Sloobludop, Groggle teamed up with Ebadius as they retrieved their belongings from the inn. He was able to signal to their party members that they were coming down the tunnels by using using magic drum and the two of them met up with Sarith, [Hemeth](../party/hemeth.md), Dad, Eldeth, Shuushar, and Ront.
 
@@ -77,7 +77,7 @@ When the drow traders came through the cavern, Groggle and Eldeth hid until they
 Groggle kept mostly silent on the boat to Gracklstugh. He was able to smell the scents from the forges and made this known, alerting the party to their nearing arrival.
 
 ## Relationships
-Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either [Dad](dad.md) or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
+Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either Dad or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
 
 Other members of the party, such as Alias, have mixed opinions of Groggle, mainly due to his occassional versatility. Groggle has established himself as a reliable and level-headed party member, and often find him to be useful, although not particularly outspoken, and so is often overlooked in major decisions.
 
