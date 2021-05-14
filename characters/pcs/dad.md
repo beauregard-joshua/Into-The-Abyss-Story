@@ -76,6 +76,8 @@ Dad, together with Ebadius, moved to restrain Hemeth during the mutiny on the bo
 
 When the party docked in the tunnels, Dad traveled with Ront to look for food. They found leathery fungi that they ignored, then found some bluecaps to bring back to the boat. When they returned they learned about Garmel from Alias and Groggle, Dad traveled with Ebadius, Ront, and a bound Sarith to collect food. When they heard voices, Dad hid from view until he felt the travelers were safe.
 
+When Hemeth suggested to the party that they arrive to Gracklstugh through the main gates, Dad determined that he was lying, and Sarith corrected him. Dad remained mostly quiet on the boat as they traveled, letting the others make decisions for him.
+
 ## Relationships
 Dad's best relationship is with his party member Ront, as the two of them have very similar approaches to problem solving. They share a mutual bond of agression and often do whatever the other one is doing. Dad is a bit more take-charge than Ront is, again possibly alluding to a possible past involving father-like tendcies. His other strong relationship is with Sarith, which initially began as an extremely rough relationship. Early on, Dad was aggressive toward Sarith, primarily due to Sarith's aloof behavior and lack of will to discuss what he may have known of the drow (as well as being a suspect in Jimjar's death). After the two of the helped each other evade drow capture and saved each other's life, the two of them developed a strong friendship.
 

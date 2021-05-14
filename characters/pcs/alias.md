@@ -80,7 +80,9 @@ While dealing with Sarith, Alias began hallucinating Buppido giving her advice. 
 
 Alias, together with Ebadius and Dad, helped perform a mutiny on the ship to remove Hemeth from his position. She was elected (nearly unanimously) as the new captain and successfully encouraged others to elect Shuushar as her first mate.
 
-When the party docked in the tunnels, Alias traveled with Groggle into a crystal cluster where they encountered Gramel. She refused to take his money and simply thanked him for the information he had to offer as to where to find food. They returned to the boat where she took the place of Eldeth, who was guarding Hemeth. When Shuushar returned, they made small talk as they awaited the return of their party.
+When the party docked in the tunnels, Alias traveled with Groggle into a crystal cluster where they encountered Garmel. She refused to take his money and simply thanked him for the information he had to offer as to where to find food. They returned to the boat where she took the place of Eldeth, who was guarding Hemeth. When Shuushar returned, they made small talk as they awaited the return of their party.
+
+Alias pressed Hemeth for questions while traveling to Gracklstugh, and was able to get Hemeth to speak out a lie, caught by both Dad and Sarith. She also suggested to the party a stealthy approach into Gracklstugh for fear that a group of nine strangers might attract some attention. She was also able to smell the metallic scent of forges as they approached the city.
 
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.

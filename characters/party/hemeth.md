@@ -39,6 +39,8 @@ Hemeth was asleep when the party docked at the island, requiring Groggle to dock
 
 As the party debated dealing with Sarith, Hemeth demanded that he be removed from the boat. When Alias suggested a coup, Hemeth demanded Alias be grabbed immediately, in which Ebadius and Dad instead restrained Hemeth. While the party searched the tunnels nearby, Hemeth remained restrained on the boat and was kept under watch, first by Eldeth and later by Alias. He mentioned that he would not get in the party's way of traveling to Gracklstugh, since it would not be helpful for his own situation.
 
+When pressed for information about Gracklstugh, Hemeth explained that the best method of entry is through the front gate, since this would be the least suspiscious action on their part. Both Dad and Sarith caught him in his lie, and Sarith explained that traveling to the docks would be best. Hemeth pretended to not know this, although the party remained unconvinced.
+
 ## Relationships
 Hemeth has mostly negative relationships with other party members. Ront has been the only party member that has not expressed any particular interest in Hemeth, while the other members have expressed some level of disdain. Alias and Ebadius have both appeared to act with care around Hemeth for fear of retaliation, as well as possibly assessing the situation in greater detail. On the other hand, Dad and Groggle have expressed extreme dislike for Hemeth, feeling as though his personality is more of a hinderence than an asset. 
 
