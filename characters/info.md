@@ -25,7 +25,7 @@ encounter location for clarity.
 | [Derendil](party/derendil.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 3](../sessions/arc01/session03-2020-06-28.md) | Deceased |
 | [Topsy](party/topsy.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 3](../sessions/arc01/session03-2020-06-28.md) | Missing |
 | [Turvy](party/turvy.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 3](../sessions/arc01/session03-2020-06-28.md) | Missing |
-| [Hemeth](party/hemeth.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | Present | Alive |
+| [Hemeth](party/hemeth.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | [Session 19](../sessions/arc04/session19-2021-05-19.md) | Alive |
 
 ## NPCs
 ### Velkenvelve
@@ -36,6 +36,9 @@ encounter location for clarity.
 | [???](velkenvelve/shoor.md) (Unidentified Male Drow Soldier) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | [Session 6](../sessions/arc02/session06-2020-08-16.md) | Searching for the party |
 
 ### Sloobludop
+**TODO**
+
+### Gracklstugh
 **TODO**
 
 ## Navigation
