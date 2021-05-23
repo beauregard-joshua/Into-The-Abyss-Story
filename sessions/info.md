@@ -28,5 +28,8 @@ navigate.
 * [Session 17: I Am the Captain Now](arc03/session17-2021-04-18.md)
 * [Session 18: The Gang Makes it Out of the Abyss](arc03/session18-2021-05-06.md)
 
+## [Arc 4: The City of Blades](arc04/info.md)
+* [Session 19: Nobody Can See Sh\*t](arc04/session19-2021-05-19.md)
+
 ## Navigation
-* [Return to top](../README.md)
+* [Return to Top](../README.md)
