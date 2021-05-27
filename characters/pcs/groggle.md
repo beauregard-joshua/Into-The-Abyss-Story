@@ -76,6 +76,12 @@ When the drow traders came through the cavern, Groggle and Eldeth hid until they
 
 Groggle kept mostly silent on the boat to Gracklstugh. He was able to smell the scents from the forges and made this known, alerting the party to their nearing arrival.
 
+Groggle was able to notice something being fired from the walls of Grakclstugh as Alias tried to infiltrate. He encouraged the party to turn back for her and Alias rejoined the party.
+
+As the party tried to negotiate with Hemeth to have him help with docking, Groggle eventually offered a trade of the boat for his assistance. Hemeth agreed under the additional condition that they will never see each other again, and they agreed. Groggle was the fifth to arrive at Gholbrorn's Lair, arriving after Sarith and before Ebadius. He met up with two deep gnomes who were extremely interested in the fact that Groggle was a surface gnome and bought him a few drinks while listening to his stories. Groggle was eventually handed a note by Dad stating he was leaving to explore the town.
+
+Groggle eventually started a game of three-dragon with the deep gnomes, Ront, and Ebadius, when Alias and Dad arrived with Werz. Groggle healed him, and Ebadius escorted him to the nearby gates.
+
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either Dad or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
 

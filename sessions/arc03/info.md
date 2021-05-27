@@ -57,4 +57,8 @@ within sight of Gracklstugh.
 ## Arc Links
 * Previous: [Arc 2: Travel to Sloobludop](../arc02/info.md)
 * Current: Arc 3: Dangers of the Darklake
-* Next: ???
+* Next: [Arc 4: The City of Blades](../arc04/info.md) 
+
+## Return Links
+* [Return to Top](../../README.md)
+* [Return to Sessions](../info.md)
