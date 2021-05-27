@@ -84,6 +84,13 @@ When the party docked in the tunnels, Alias traveled with Groggle into a crystal
 
 Alias pressed Hemeth for questions while traveling to Gracklstugh, and was able to get Hemeth to speak out a lie, caught by both Dad and Sarith. She also suggested to the party a stealthy approach into Gracklstugh for fear that a group of nine strangers might attract some attention. She was also able to smell the metallic scent of forges as they approached the city.
 
+### [The City of Blades](../../sessions/arc04/info.md)
+As the party arrived in view of Gracklstugh, Alias planned to scout the city before the others. After discussing with the party, Alias was made invisible by Ebadius and swam to shore. She discovered the guards waiting in the walls of the city and taunted them by backing ghost sounds and messing with their crossbow bolts. After being shot several times and unsuccessfully shaking the guards, she saw the boat turn round and she left to rejoin the party.
+
+When Alias rejoined the party, she stayed mostly quiet while the party negotiated with Hemeth on the boat. She was the second to last to arrive at Gholbrorn's Lair, arriving after Ebadius and before Dad. She witnessed a discussion between Sarith and Shuushar and learned that Shuushar went to explore the city. Alias found him at a stall being yelled at by a merchant before sending him back to the inn.
+
+Alias then ran into Dad on the streets where the two of them saw a duergar on the docks being stabbed. The two waited for the assassins to disappear before helping the man. Dad stablized the man and carried him back to the inn, and when Alias attempted to ask him who thse people were he was very evasive.
+
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
 
