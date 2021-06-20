@@ -80,9 +80,13 @@ When Hemeth suggested to the party that they arrive to Gracklstugh through the m
 
 Dad stayed mostly quiet while Alias attempted to inflitrate Gracklstugh. When she returned and the party began bartering with Hemeth, Dad attempted to threaten Hemeth, but was unsuccessful.
 
-When Groggle succeeded in bartering with Hemeth, Dad gave up the diary he had collected for Hemeth's ploy. Dad was the last to arrive at Gholbrorn's Lair and had his diary returned to him, overhearing Hemeth say "good fucking luck" as he left. Dad then left Groggle a message saying that he was epxloring the town and left to look or an orphanage. He found another orc and convinced him to help look for an orphanage, but the orc did not return.
+When Groggle succeeded in bartering with Hemeth, Dad gave up the diary he had collected for Hemeth's ploy. Dad was the last to arrive at Gholbrorn's Lair and had his diary returned to him, overhearing Hemeth say "good fucking luck" as he left. Dad then left Groggle a message saying that he was exploring the town and left to look or an orphanage. He found another orc and convinced him to help look for an orphanage, but the orc did not return.
 
 Dad eventually ran into Alias when they witnessed a duerger being attacked on the docks. After the assassins left, Dad rescued the man, stabalized him, then carried him back to the inn.
+
+Dad joined Alias, Groggle, Eldeth, and Ront in attacking the two-headed stone giant in teh square. His glaive kept him out of reach of the giant, but he was extremely bad at hitting the enemy. After the battle, Dad mostly stayed quiet while the others did the talking and instead listened. After the guards left, Dad assisted the others in rescuing people in the injured before returning to the inn with the others.
+
+Dad was mostly quiet as the party planned for the next day. When Alias found Ront in a daze, Dad helped convince him that everything would be okay and calmed him down.
 
 ## Relationships
 Dad's best relationship is with his party member Ront, as the two of them have very similar approaches to problem solving. They share a mutual bond of agression and often do whatever the other one is doing. Dad is a bit more take-charge than Ront is, again possibly alluding to a possible past involving father-like tendcies. His other strong relationship is with Sarith, which initially began as an extremely rough relationship. Early on, Dad was aggressive toward Sarith, primarily due to Sarith's aloof behavior and lack of will to discuss what he may have known of the drow (as well as being a suspect in Jimjar's death). After the two of the helped each other evade drow capture and saved each other's life, the two of them developed a strong friendship.
