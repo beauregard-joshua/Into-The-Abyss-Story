@@ -91,6 +91,10 @@ When Alias rejoined the party, she stayed mostly quiet while the party negotiate
 
 Alias then ran into Dad on the streets where the two of them saw a duergar on the docks being stabbed. The two waited for the assassins to disappear before helping the man. Dad stablized the man and carried him back to the inn, and when Alias attempted to ask him who thse people were he was very evasive.
 
+When Alias heard the commotion outside the inn, she moved to investigate, thinking it was the dragon Themberchaud. When she saw that it was a giant with two heads, she returned to the inn to inform everyone of what was happening. As Groggle, Ront, and Eldeth followed here, Alias took a shot at one of the heads of the giant to draw its attention. During the fight, she kept a safe distance before closing in to attempt to stabilize a dying Ront. Alias kept back as the second giant arrived and kept her friends safe. Once Eldeth said that the guards planned on killing the giant, Alias moved in with Eldeth to stop the guard. She gave her information and returned to the inn.
+
+While the party discussed their plans for the next day, Alias made the plan to explore the city with Dad and Eldeth and investigate the giant attack. Alias first noticed that Ront was behaving strangely and got everyone to help him. Alias checked on Sarith and told him what happened, who suggested that he and Shuushar remain separate from the party, since their identites were compromised.
+
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
 
