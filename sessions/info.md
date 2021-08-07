@@ -31,6 +31,8 @@ navigate.
 ## [Arc 4: The City of Blades](arc04/info.md)
 * [Session 19: Nobody Can See Sh\*t](arc04/session19-2021-05-19.md)
 * [Session 20: A Giant Misunderstanding](arc04/session20-2021-06-09.md)
+* [Session 21: The Gang Gets Got](arc04/session21-2021-07-14.md)
+* [Session 22: Do You Have a Dragon Slayer Greatsword?](arc04/session22-2021-07-28.md)
 
 ## Navigation
 * [Return to Top](../README.md)

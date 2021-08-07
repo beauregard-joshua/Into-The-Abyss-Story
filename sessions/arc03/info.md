@@ -6,7 +6,9 @@ Grove, which leads them to the Darklake. Traversing the darklake
 proves dangerous as the party encounters an aquatic troll and
 several darkmantles. Alias gets her sanity shaken in the tunnels
 and the party attacks a duergar trade ship on the darklake after
-attempting to negotiate.
+attempting to negotiate. They end their travel to Gracklstugh by
+removing Hemeth from his position as captain and exploring some
+nearby tunnels for supplies.
 
 ### [Session 11: A Boat Of...](session11-2020-11-29.md)
 After escaping Sloobludop and Demogorgon, the party decides to travel
