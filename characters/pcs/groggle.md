@@ -76,6 +76,8 @@ When the drow traders came through the cavern, Groggle and Eldeth hid until they
 
 Groggle kept mostly silent on the boat to Gracklstugh. He was able to smell the scents from the forges and made this known, alerting the party to their nearing arrival.
 
+### [The City of Blades](../../sessions/arc04/info.md)
+
 Groggle was able to notice something being fired from the walls of Grakclstugh as Alias tried to infiltrate. He encouraged the party to turn back for her and Alias rejoined the party.
 
 As the party tried to negotiate with Hemeth to have him help with docking, Groggle eventually offered a trade of the boat for his assistance. Hemeth agreed under the additional condition that they will never see each other again, and they agreed. Groggle was the fifth to arrive at Gholbrorn's Lair, arriving after Sarith and before Ebadius. He met up with two deep gnomes who were extremely interested in the fact that Groggle was a surface gnome and bought him a few drinks while listening to his stories. Groggle was eventually handed a note by Dad stating he was leaving to explore the town.
@@ -83,6 +85,12 @@ As the party tried to negotiate with Hemeth to have him help with docking, Grogg
 Groggle eventually started a game of three-dragon with the deep gnomes, Ront, and Ebadius, when Alias and Dad arrived with Werz. Groggle healed him, and Ebadius escorted him to the nearby gates. Groggle eventually heard the rumbling of the stone giant outside, but confused it for Themberchaud. He was unable to get a good look at it, but once Alias said that it was not a dragon he moved to investigate with Alias, Dad, Eldeth, and Ront. Groggle moved to engage the giant when it attacked him. He took substantial damage and retreated behind Ebadius, who had also arrived.
 
 Groggle spent the end of the battle healing the party as well as healing the injured within the city. When they returned to the inn, Groggle agreed to travel to the Shattered Spire with Ebadius in the coming day.
+
+The nex day, Dad asked Groggle for assistance in his and Ront's arm wrestling scheme in town. Groggle politely said that his idea needed more work, but he would be happy to help advertise for it. He then traveled to a clothing store to buy the standard Gracklstugh outfit.
+
+Groggle traveled with Ebadius to the Shattered Spire to meet with Werz. There, they spoke with him about the strange events going on in Gracklstugh, although Ebadius was forced to translate for Groggle. They were given supplies to deliver to someone in Blingdenstone and Groggle promised to keep Werz informed as best as they could before they left. After leaving, they met up with Alias and Eldeth and traveled to the Shattered Spire to receive travel passes into Gracklstugh, where they were taken into custody by Errde Blackskull. Groggle was the first to cave about the truth, thinking that it was better to not dig themselves a larger hole and possibly gain some information within the city.
+
+Groggle then returned to the Gholbrorn's Lair with Alias to talk with the patrons to gather information.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either Dad or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.

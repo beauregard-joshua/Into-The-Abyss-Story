@@ -95,6 +95,10 @@ When Alias heard the commotion outside the inn, she moved to investigate, thinki
 
 While the party discussed their plans for the next day, Alias made the plan to explore the city with Dad and Eldeth and investigate the giant attack. Alias first noticed that Ront was behaving strangely and got everyone to help him. Alias checked on Sarith and told him what happened, who suggested that he and Shuushar remain separate from the party, since their identites were compromised.
 
+When the party split in Gracklstugh, Alias traveled with Eldeth to see the giants, but were turned away from the other districts of the city. They met up with Ebadius and Groggle and traveled to Overlake Hold to receive travel passes, but were taken to Errde Blackskull's office with Ront and explained the situation regarding the drow. Alias was mostly quiet during the discussion, letting other make the major decisions for her. She was enlisted with Errde with Ebadius and Groggle and taken to the armory, where she was ouftiftted with gear.
+
+After leaving the hold with Groggle, Alias ran into Dad being taken to the hold by several stoneguard. She followed them and waited for Errde. When Dad went into a rage, Alias held Dad back and calmed him down before he was taken to Gatokkar Xundorn.
+
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
 
