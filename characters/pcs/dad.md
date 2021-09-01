@@ -78,22 +78,30 @@ When the party docked in the tunnels, Dad traveled with Ront to look for food. T
 
 When Hemeth suggested to the party that they arrive to Gracklstugh through the main gates, Dad determined that he was lying, and Sarith corrected him. Dad remained mostly quiet on the boat as they traveled, letting the others make decisions for him.
 
+### [The City of Blades](../../sessions/arc04/info.md)
+
 Dad stayed mostly quiet while Alias attempted to inflitrate Gracklstugh. When she returned and the party began bartering with Hemeth, Dad attempted to threaten Hemeth, but was unsuccessful.
 
 When Groggle succeeded in bartering with Hemeth, Dad gave up the diary he had collected for Hemeth's ploy. Dad was the last to arrive at Gholbrorn's Lair and had his diary returned to him, overhearing Hemeth say "good fucking luck" as he left. Dad then left Groggle a message saying that he was exploring the town and left to look or an orphanage. He found another orc and convinced him to help look for an orphanage, but the orc did not return.
 
 Dad eventually ran into Alias when they witnessed a duerger being attacked on the docks. After the assassins left, Dad rescued the man, stabalized him, then carried him back to the inn.
 
-Dad joined Alias, Groggle, Eldeth, and Ront in attacking the two-headed stone giant in teh square. His glaive kept him out of reach of the giant, but he was extremely bad at hitting the enemy. After the battle, Dad mostly stayed quiet while the others did the talking and instead listened. After the guards left, Dad assisted the others in rescuing people in the injured before returning to the inn with the others.
+Dad joined Alias, Groggle, Eldeth, and Ront in attacking the two-headed stone giant in the square. His glaive kept him out of reach of the giant, but he was extremely bad at hitting the enemy. After the battle, Dad mostly stayed quiet while the others did the talking and instead listened. After the guards left, Dad assisted the others in rescuing people in the injured before returning to the inn with the others.
 
 Dad was mostly quiet as the party planned for the next day. When Alias found Ront in a daze, Dad helped convince him that everything would be okay and calmed him down.
+
+Their first morning in Gracklstugh, Dad found Ront at the docks and convinced him to start an arm-wrestling con in the street to make money. Dad returned to the Gholbrorn's Lair to ask Groggle for assistance, and when he returned to the stand Ront was gone. Dad proceeded to perform backflips for money in the streets. He did this until guards arrive to place him under arrest for excessive frivolity, in which Dad ran into the lake to escape capture. He was eventually pulled onto a stoneguard boat and placed in manacles, but escaped capture when they docked by running down an alley. He tried to break free but was eventually caught by the stoneguard again and taken away to Overlake Hold, with Alias right behind.
+
+In the Hold, Dad went into a rage in response to Errde Blackskull's extortion, requiring Alias to calm him down. After calming down, Dad requested that he be transferred to Gatokkar Xundorn's possession, to which Errde agreed to be rid of him.
+
+Dad met with Gatokkar as well as caught up with Eldeth and Ront. Dad requested to meet Themberchaud, and Dad made several arrogant comments that caused Themberchaud to laugh. Dad, Eldeth, and Ront were given their instructions for look for Droki and were sent on their way.
 
 ## Relationships
 Dad's best relationship is with his party member Ront, as the two of them have very similar approaches to problem solving. They share a mutual bond of agression and often do whatever the other one is doing. Dad is a bit more take-charge than Ront is, again possibly alluding to a possible past involving father-like tendcies. His other strong relationship is with Sarith, which initially began as an extremely rough relationship. Early on, Dad was aggressive toward Sarith, primarily due to Sarith's aloof behavior and lack of will to discuss what he may have known of the drow (as well as being a suspect in Jimjar's death). After the two of the helped each other evade drow capture and saved each other's life, the two of them developed a strong friendship.
 
 While he does not have many negative relationships with party members, he seems to have very neutral connections with others. He does not seem to interact with Eldeth or Groggle in many instances, although he does not appear to have issue with them. While he did reflect on Stool after he disappeared, Dad did not have a particularly strong connection with him.
 
-Dad has a strong dislike of Hemeth, likely due to Hemeth's demanding attitude. This friction resulted in him assisting in the mutiny that placed Alias in charge. While Shuushar does like Dad, Dad dislike's Shuushar's pacifism and often tries to rouse him to action, never being successful. He was also distrustful of Buppido, who he assumed had some sort of hidden agenda.
+Dad had a strong dislike of Hemeth, likely due to Hemeth's demanding attitude. This friction resulted in him assisting in the mutiny that placed Alias in charge. While Shuushar does like Dad, Dad dislike's Shuushar's pacifism and often tries to rouse him to action, never being successful. He was also distrustful of Buppido, who he assumed had some sort of hidden agenda.
 
 ## Trivia
 * Dad is particularly skilled at doing backflips, even with his hulking size. In his entire time in the Underdark he had injured several enemies with them and has never failed to do a backflip when trying. He did, however, perform a backlip into a waterfall, hoping that there would be a hidden cave behind it, but there was just a rock face.
