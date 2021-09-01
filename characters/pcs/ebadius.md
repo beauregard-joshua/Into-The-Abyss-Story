@@ -82,13 +82,19 @@ Ebadius quickly communicated with Alias using *message* to discuss removing Heme
 
 Once docked, Ebadius traveled with a bound Sarith to look for food. While he tried to lift Sarith's spirits, it did not seem to work. They eventually found some bluecaps before returning to the boat. There, Ebadius traveled again with Sarith as well as Dad and Ront to look for food deeper in the tunnels when they encountered drow merchants. While Ebadius began the conversation, he eventually untied Sarith so that he might better parlay with them.
 
+### [The City of Blades](../../sessions/arc04/info.md)
+
 Ebadius agreed with Alias in her assessment of entering Gracklstugh carefully. He suggested that he turn someone invisible so they might approach the docks discreetly while the others could wait and see the results. When Alias offered, he made her invisible and then helped guide the boat along the shores of Gracklstugh.
 
 When Alias returned, Ebadius tried to negotiate with Hemeth for his aid getting into the city, but he was unsuccessful, although he did raise his voice at him. Once Groggle struck a deal with Hemeth, Ebadius was the sixth to arrive at Gholbrorn's Lair, after Groggle and before Alias. He quickly paid for a room and began spying on nearby rooms, but heard and found nothing. He then joined Groggle, Ront, and the two deep gnomes in playing a game of three-dragon ante.
 
 As Alias and Dad returned with an injured Werz, Groggle healed him and Ebadius escorted him to the gates. He interrogated Werz until Werz told him to meet him at the Shattered Spire the next day. He then used this opportunity to examine the Shattered Spire to see if there was a trap waiting for him, and found nothing of interest and decided to return to the inn. On the way to the inn, Ebadius encountered the two-headed giant and kept a safe distance from it. Once he saw is party engaging with the giant, Ebadius attacked from behind and eventually acted as a shield for Groggle. Once the battle ended, Ebadius did the translating for Groggle as they explained themselves. He was in fact the only party member to lie about his name, saying that his name was Teldin.
 
-When the party returned to the inn, Ebadius suggested that Groggle join him at the shattered spire the next day while the others would investigate the town as well as look for the giants.
+When the party returned to the inn, Ebadius suggested that Groggle join him at the shattered spire the next day while the others would investigate the town as well as look for the giants. The next morning, Ebadius scouted the regions outside the Shattered Spire, unable to find anything out of the ordinary, then returned there with Groggle to meet Werz. Werz mentioned his apprehensions regarding events in the city, as well as people losing their minds over various things. They were also given supplies to deliver to someone in Blingdenstone as well as instructions to report any strange findings to him.
+
+Ebadius and Groggle returned to find Alias and Eldeth, joining then to the Shattered Spire. There, they were taken by Errde Blackskull into custody, to which Ebadius attmepted to lie his way out before the party eventually caved. Ebadius brought forth basic evidence of dealings in the underdark and almost went into a rage, worried over the possibility of being treated as a slave again.
+
+After negotiations, Ebadius went to the library to study up on Gracklstugh and demon lords.
 
 ## Relationships
 Ebadius has mixed relationships with most members of his party, stemming from his ability to take successive action as well as his ability to get the party into danger. He and Alias have a farily decent relationship, as the two of them do most of the planning. Ebadius also shares a decent relationship with Sarith, even considering the fear of how Sarith might endanger the party. While he does not have a particularly strong relationship with Groggle, these three appear to be the only characters in which Ebadius accepts counsel.

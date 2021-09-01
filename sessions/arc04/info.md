@@ -1,5 +1,7 @@
 # Arc 4: The City of Blades
-The party arrives in Gracklstugh after a long trip along the darklake.
+The party arrives in Gracklstugh after a long trip along the darklake and
+are recruited by the stoneguard and the keepers of the flame to help stop
+the chaos within the city.
 
 ### [Session 19: Nobody Can See Sh\*t](session19-2021-05-19.md)
 The party arrives in Gracklstugh. They fail to infiltrate through the
@@ -11,9 +13,19 @@ A two-headed stone giant rampages through the city and the party
 intervenes to stop it. In the process they draw attention to themselves
 and are no longer as covert as they once were.
 
+### [Session 21: The Gang Gets Got](session21-2021-07-14.md)
+The party begins to explore Gracklstugh and make some money in the
+process. They are eventually picked up by the stoneguard and are
+extorted from the fact that the drow are still looking for them.
+
+### [Session 22: Do You Have a Dragon Slayer Greatsword?](session22-2021-07-28.md)
+The party gets split up to help the stoneguard and the keepers of the
+flame. In the process, then are given authority to move throughout the
+city and protection from the drow.
+
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
-* Current: The City of Blades
+* Current: Arc 4: The City of Blades
 * Next: ???
 
 ## Return Links
