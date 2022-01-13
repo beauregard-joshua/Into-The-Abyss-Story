@@ -23,6 +23,11 @@ The party gets split up to help the stoneguard and the keepers of the
 flame. In the process, then are given authority to move throughout the
 city and protection from the drow.
 
+### [Session 23: Is It Steve?](session23-2022-01-05.md)
+The party mostly separates and begins investigating the city for
+clues regarding Droki, as well as their lost party members. They also
+meet a strange human named Steve that offers a bit of aid.
+
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
 * Current: Arc 4: The City of Blades
