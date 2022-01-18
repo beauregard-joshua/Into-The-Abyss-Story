@@ -97,7 +97,9 @@ While the party discussed their plans for the next day, Alias made the plan to e
 
 When the party split in Gracklstugh, Alias traveled with Eldeth to see the giants, but were turned away from the other districts of the city. They met up with Ebadius and Groggle and traveled to Overlake Hold to receive travel passes, but were taken to Errde Blackskull's office with Ront and explained the situation regarding the drow. Alias was mostly quiet during the discussion, letting other make the major decisions for her. She was enlisted with Errde with Ebadius and Groggle and taken to the armory, where she was ouftiftted with gear.
 
-After leaving the hold with Groggle, Alias ran into Dad being taken to the hold by several stoneguard. She followed them and waited for Errde. When Dad went into a rage, Alias held Dad back and calmed him down before he was taken to Gatokkar Xundorn.
+After leaving the hold with Groggle, Alias ran into Dad being taken to the hold by several stoneguard. She followed them and waited for Errde. When Dad went into a rage, Alias held Dad back and calmed him down before he was taken to Gatokkar Xundorn. After this event, Alias returned to Gholbrorn's Lair to meet up with Groggle to find Shuushar and Sarith. As Gorggle took a short rest, Alias met Steve, who gave her the advice to meet with Ylsa Henstak for information regarding the surface. When Alias went to follow Steve, he disapeared.
+
+Alias and Groggle left to locate Shuushar, and learned that he was likely in the darklake. After waiting a bit, they met with Ylsa Henstak, who told them that the derro are getting surface goods and tasked them with finding out how, and in return promised them maps for traversing the underdark.
 
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
