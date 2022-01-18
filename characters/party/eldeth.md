@@ -29,7 +29,19 @@ When voting on where to travel next, Eldeth voted to travel to Sloobludop, think
 
 Eldeth was placed mostly toward the front of the party due to ability in combat after leaving Velkenvelve.
 
-As the party approached the large cavern with the lost city of Alversin, Eldeth began to fall into the early stages of madness after hearing the voices whispering around them. She was eventually calmed down by Alias and was able to keep moving, although shaken up. Within the city, she stayed close with Alias and Stool during their search
+As the party approached the large cavern with the lost city of Alversin, Eldeth began to fall into the early stages of madness after hearing the voices whispering around them. She was eventually calmed down by Alias and was able to keep moving, although shaken up. Within the city, she stayed close with Alias and Stool during their search, where she bonded more with Alias. She was placed on watch with Alias as well. The next day she accompanied Alias around the city to invesitage the person Ebadius saw as well as to search for more supplies with Alias and Stool. They waited at the exit of the city for Ebadius, [Groggle](../pcs/groggle.md), and Shuushar to finish their search before leaving.
+
+In the battle against the goblins, Eldeth stayed out of the conflict, and was a bit surprised by the behavior of the party. Alias informed her that she did not mean to cause such trouble.
+
+On watch that night, Alias and Eldeth identified the sounds of the approaching drow soldiers. They ran behind a stalgmite and attempted to distract the scouts as they approached and failed, but managed to escape after Groggle led the party out.
+
+On her next watch, Eldeth found Jimjar dead amongst the party members and immedietely roused everyone for questioning. She explained that she returned from watch with Alias and found Jimjar's body stabbed to death. She was unable to pull any information from the party and slept with her hammer in her hands.
+
+In the fight with gas spores, Eldeth held the front line without going deep into the cloud of spores, sparing her from their effects. Later that night on watch, she discusses the party's next steps with Alias, worried that they will not escape the underdark alive.
+
+When Sarith woke up screaming, Eldeth aided Dad in holding him down and tying him up. To the distaste of others, she suggested that they get rid of him before he became a danger to the others, but was ignored in favor of keeping him alive. The following night, she went without food, as the party had little to eat.
+
+Eldeth stayed back when Shuushar moved to parlay with the kuo-toa, but was retrieved by Ebadius when things went south. She joined as the fighting ended and joined the others in choosing to aid the kuo-toa in support of the Sea Mother. In town, Eldeth mostly kept to herself and stayed within the inn
 
 ## Trivia
 * Eldeth was a love interest of Alias for a long time before Eldeth had to confront her that she was not gay.
