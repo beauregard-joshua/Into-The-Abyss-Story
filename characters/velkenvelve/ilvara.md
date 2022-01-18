@@ -30,4 +30,4 @@ While Ilvara has not been seen, the drow search party continued to search for th
 Ilvara's relationships with other characters is mostly unknown, except for her direct relationships with her subordinates. It appears that many other guards fear her, and possibly for good reason.
 
 ## Trivia
-* Groggle has received most of the brunt of Ilvara's wrath in the party. He was beatn after the first riot, as well as struck head on with a *locust swarm*.
+* Groggle has received most of the brunt of Ilvara's wrath in the party. He was beaten after the first riot, as well as struck head on with a *locust swarm*.
