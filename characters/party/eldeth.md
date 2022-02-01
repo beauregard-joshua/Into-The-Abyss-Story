@@ -41,7 +41,11 @@ In the fight with gas spores, Eldeth held the front line without going deep into
 
 When Sarith woke up screaming, Eldeth aided Dad in holding him down and tying him up. To the distaste of others, she suggested that they get rid of him before he became a danger to the others, but was ignored in favor of keeping him alive. The following night, she went without food, as the party had little to eat.
 
-Eldeth stayed back when Shuushar moved to parlay with the kuo-toa, but was retrieved by Ebadius when things went south. She joined as the fighting ended and joined the others in choosing to aid the kuo-toa in support of the Sea Mother. In town, Eldeth mostly kept to herself and stayed within the inn
+Eldeth stayed back when Shuushar moved to parlay with the kuo-toa, but was retrieved by Ebadius when things went south. She joined as the fighting ended and joined the others in choosing to aid the kuo-toa in support of the Sea Mother. In town, Eldeth mostly kept to herself and stayed within the inn while some of the others explored the town. She eventually joined up with Alias as the two of them investigated the rooms of their party members in order to learn if one of them was Jimjar's murderer, but found nothing. Eventually, Eldeth was left to rest and explore on her own.
+
+When Demogorgon rose from the darklake, Edleth was frozen in fear, overtaken by the beginning effects of madness. She was brought back to her sense by Shuushar, where she then proceeded to shake Dad back to reality as well. She escaped the altar together with Dad before meeting up wiith Sarith outside of Sloobludop.
+
+### [Dangers of the Darklake](../../sessions/arc03/info.md)
 
 ## Trivia
 * Eldeth was a love interest of Alias for a long time before Eldeth had to confront her that she was not gay.
