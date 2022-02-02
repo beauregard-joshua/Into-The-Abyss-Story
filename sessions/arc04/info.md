@@ -28,6 +28,11 @@ The party mostly separates and begins investigating the city for
 clues regarding Droki, as well as their lost party members. They also
 meet a strange human named Steve that offers a bit of aid.
 
+### [Session 24: We Need to Get Out of Here](session24-2022-02-01.md)
+Dad, Alias, and Groggle are followed by a drow through the Blade Bazaar.
+They deduce that she is looking for the party and might strike a deal
+with the stoneguard and try to escape the city.
+
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
 * Current: Arc 4: The City of Blades
