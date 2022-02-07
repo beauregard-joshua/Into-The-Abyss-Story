@@ -101,6 +101,10 @@ After leaving the hold with Groggle, Alias ran into Dad being taken to the hold 
 
 Alias and Groggle left to locate Shuushar, and learned that he was likely in the darklake. After waiting a bit, they met with Ylsa Henstak, who told them that the derro are getting surface goods and tasked them with finding out how, and in return promised them maps for traversing the underdark.
 
+Dad met up with Alias and Groggle in the Blade Bazaar. The three of them looked for Droki until Dad led them down an alleyway and revealed that they were being followed by a drow. After Dad confronted the drow, Alias frisked the drow and stole a paper from her that contained drawings of the party that escaped Velkenvelve, for which Alias agreed with Groggle that they should try to escape before the drow struck a deal with the stioneguard.
+
+Alias saw Sarith being taken into custody at Overlake Hold, and helped throw him in jail while leaving the gate unlocked. She passed this information along to Ebadius before leaving the hold with Groggle and Dad to meet by the docks to discuss their next move.
+
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
 
