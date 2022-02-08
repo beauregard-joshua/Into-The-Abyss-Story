@@ -47,6 +47,22 @@ When Demogorgon rose from the darklake, Edleth was frozen in fear, overtaken by 
 
 ### [Dangers of the Darklake](../../sessions/arc03/info.md)
 
+After escaping Sloobludop, Eldeth went to look for food with Alias and Ebadius. She eventually returned to camp to wait with [Hemeth](hemeth.md) until Dad and Sarith arrived an explained they were being chased. After Ront returned, they all traveled to Sloobludop to warn the rest of the party. 
+
+On the boat to Gracklstugh, Eldeth had a difficult conversation with Alias where she said that she is not interested romantically with Alias.
+
+Eldeth aided in fighting off the darkmantles from attacking the party, where she was injured. When the party docked for supplies, she remained behind with Ebadius, Shuushar, and Ront. Afte returning to the darklake, Alias confided in Eldeth regarding her fears of the tunnels and what happened to her. Eldeth supported Alias by stating that they will get out safely and she will help keep everyone safe.
+
+While attacking the duergar traders, Eldeth didn't participate in combat, instead questioning why the party waas threatening and fighting the traders in the first place.
+
+After docking again, Eldeth stayed behing with Groggle, Shuushar, Ront, and Hemeth, until Sarith returned and sent Groggle to help.
+
+When the party sent Shuushar to explore the fungus island, Eldeth moved with Alias, Dad, Ebadius, and Groggle in an attempt to rescue him. Once Ebadius cat _thaumaturgy_ and the island began retaliating, Eldeth immedietely returned to the boat, together with Shuushar and Groggle, and waited for the others to arrive. After the conflict with Hemeth as captain, Eldeth voted to overthrow Hemeth. She voted for Groggle as the captain and for Shuushar as the first mate.
+
+As the party docked in the crystal caverns, Eldeth remained behind with Hemeth and Shuushar. When Groggle returned to explain the situation, Eldeth returned to the crystal cavern with him to gather crystals. As they heard people approaching, they hid behind the crystals to avoid them, learning that they were a traveling group of drow. They then returned to be boat to leave, and finally left once Dad, Ebadius, Ront, and Sarith arrived.
+
+### [The City of Blades](../../sessions/arc04/info.md)
+
 ## Trivia
 * Eldeth was a love interest of Alias for a long time before Eldeth had to confront her that she was not gay.
 * Eldeth has a racist attitude toward many races of the underdark, reffering once to the drow as "the darkies". This appears to be the only really negative quality of Eldeth, and is often forgotten by the other party members.
