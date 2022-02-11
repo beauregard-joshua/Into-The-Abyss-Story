@@ -1,5 +1,6 @@
 # Arc 4: The City of Blades
 The party arrives in Gracklstugh after a long trip along the darklake and
+ditch their boat and a party member. They defeat a rampaging giant when they
 are recruited by the stoneguard and the keepers of the flame to help stop
 the chaos within the city.
 
@@ -22,6 +23,16 @@ extorted from the fact that the drow are still looking for them.
 The party gets split up to help the stoneguard and the keepers of the
 flame. In the process, then are given authority to move throughout the
 city and protection from the drow.
+
+### [Session 23: Is It Steve?](session23-2022-01-05.md)
+The party mostly separates and begins investigating the city for
+clues regarding Droki, as well as their lost party members. They also
+meet a strange human named Steve that offers a bit of aid.
+
+### [Session 24: We Need to Get Out of Here](session24-2022-02-01.md)
+Dad, Alias, and Groggle are followed by a drow through the Blade Bazaar.
+They deduce that she is looking for the party and might strike a deal
+with the stoneguard and try to escape the city.
 
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
