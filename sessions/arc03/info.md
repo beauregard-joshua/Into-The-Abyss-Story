@@ -3,8 +3,8 @@
 The party accidentally summons Demogorgon, who remains loose in
 the Underdark. They search for a means to travel to Neverlight
 Grove, which leads them to the Darklake. Traversing the darklake
-proves dangerous as the party encounters an aquatic troll and
-several darkmantles. Alias gets her sanity shaken in the tunnels
+proves dangerous as the party encounters an aquatic troll, several
+darkmantles, and two hags. Alias gets her sanity shaken in the tunnels
 and the party attacks a duergar trade ship on the darklake after
 attempting to negotiate. They end their travel to Gracklstugh by
 removing Hemeth from his position as captain and exploring some

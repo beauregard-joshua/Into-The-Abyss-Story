@@ -65,7 +65,17 @@ As the party docked in the crystal caverns, Eldeth remained behind with Hemeth a
 
 When the party arrived to Gracklstugh, Eldeth remained on the boat while Alias moved to scout ahead. She and Shuushar noticed the crossbow bolts firing from the wall and encouraged the party to return to grab Alias. She also did nothing to fight Groggle's idea of giving Hemeth the boat in exchange for docking instructions. She then followed in line with the others to Gholbrorn's Lair, following Shuushar and ahead of Sarith. After arriving, she stayed behind to relax while others began exploring the city.
 
+Eldeth helped defeat the rampaging giant in the Blade Bazaar of Gracklstugh, dealing the most damage as a whole. She also acted as the primary translator between the duergar guards as well as the other party members. After, she returned with the party to the inn to discuss what they expect would happen next.
 
+The following day, Eldeth and Alias went to speak with the giants outside the gates, but are refused access to the rest of the city. They then met up with Ebadius and Groggle and traveled to Overlake Hold to get passes for travel within the city, where they were then held by Errde Blackskull and Gartokkar Xundorn. Eldeth remained mostly quiet until Groggle caved and explained the situation, to which she agreed with the decision to work for their freedom. She was sent away with Gartokkar and Ront to the Keepers of the Flame's headquarters in Themberchaud's Lair.
+
+After receiving her instructions, Eldeth left Themberchaud's Lair and split from Ront and Dad, and has not been seen since.
+
+## Relationships
+
+Very few party members hold a negative opinion of Eldeth, primarily owing to her reasonable disposition and care to listen to the opinions of others. She has an exceptionally strong relationship with Alias, who, while originally trying to start a romantic relationship, showed her the most attention and respect. The two of them often travel alone together to perform tasks while the others are busy, and often are left on watch together. She has also developed a good relationship with Ebadius and Groggle, both of which consult her with many of their endeavors. She even surprisingly is able to converse with Dad and Ront, both of which form rifts between themselves and other members of the party.
+
+While her relationship is not particularly bad with Shuushar, she often does not consider his thoughts regarding events. While he has not done anything to harm her, it would seem that her dislike of underdark creatures extends even to Shuushar. This universal distrust of underdark creatures makes her ver distrustful of Sarith, enough to even say at one point that he should be left behind. When Buppido was in the party, Eldeth voiced many concerns to Alias about her distrust of him, which may have also partly been due to her racism.
 
 ## Trivia
 * Eldeth was a love interest of Alias for a long time before Eldeth had to confront her that she was not gay.

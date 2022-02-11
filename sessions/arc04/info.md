@@ -1,5 +1,6 @@
 # Arc 4: The City of Blades
 The party arrives in Gracklstugh after a long trip along the darklake and
+ditch their boat and a party member. They defeat a rampaging giant when they
 are recruited by the stoneguard and the keepers of the flame to help stop
 the chaos within the city.
 
