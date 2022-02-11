@@ -63,6 +63,10 @@ As the party docked in the crystal caverns, Eldeth remained behind with Hemeth a
 
 ### [The City of Blades](../../sessions/arc04/info.md)
 
+When the party arrived to Gracklstugh, Eldeth remained on the boat while Alias moved to scout ahead. She and Shuushar noticed the crossbow bolts firing from the wall and encouraged the party to return to grab Alias. She also did nothing to fight Groggle's idea of giving Hemeth the boat in exchange for docking instructions. She then followed in line with the others to Gholbrorn's Lair, following Shuushar and ahead of Sarith. After arriving, she stayed behind to relax while others began exploring the city.
+
+
+
 ## Trivia
 * Eldeth was a love interest of Alias for a long time before Eldeth had to confront her that she was not gay.
 * Eldeth has a racist attitude toward many races of the underdark, reffering once to the drow as "the darkies". This appears to be the only really negative quality of Eldeth, and is often forgotten by the other party members.
