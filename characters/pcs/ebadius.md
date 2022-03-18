@@ -2,7 +2,7 @@
 
 ![Ebadius Cantos](Ebadius.png)
 
-Ebadius is a male tiefling sorcerer played by Nick.
+Ebadius is a male tiefling sorcerer played by Nick. He is best known for being deceitful and causing the party extraordinary headaches for silly reasons.
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -96,7 +96,11 @@ Ebadius and Groggle returned to find Alias and Eldeth, joining then to the Shatt
 
 After negotiations, Ebadius went to the library to study up on Gracklstugh and demon lords. There, Ebadius learned much about his father, Graz'zt, as well as several other demon lords documented by Gracklstugh. He researched the madnesses caused by each demon lords and rumors of there dealings together. He also learned about the Grey Ghosts that were tied to the soulblades that Alias and Dad saw at the docks. He also tried to learn about local scholars and stories, but only learned a bit about Themberchaud and his reputation throughout the city.
 
-Groggle came to retrieve Ebadius from the archives after they learned they were being followed. Ebadius met up with Alias and was told to get Sarith from jail. Ebadius cleverly took Sarith from the jail and took him from the hold and met up with the others are the lone dock.
+Groggle came to retrieve Ebadius from the archives after they learned they were being followed. Ebadius met up with Alias and was told to get Sarith from jail. Ebadius cleverly took Sarith from the jail and took him from the hold and met up with the others are the lone dock. There, they decided to escape to Themberchad's Lair and defect to the Keeper's of the Flame for protection. Ebadius cast *invisibility* on Sarith to hide him and instructed Shuushar to hide in the Darklake District.
+
+When speaking with Gartokkar Xundorn of the Keepers of the Flame, Ebadius made a comment regarding his lack of true leadership within Gracklstugh, claiming that he was subservient to Themberchaud. Gartokkar, enraged with this comment, told the party to leave. Many party members were upset with Ebadius' comments.
+
+When Themberchaud summon the party back, Ebadius caught sight of Droki running through the streets. He chased Droki into the West Cleft District and cast *minor illusion* to trick him into thinking there was a cliff on the path, which tricked Droki into falling as Ebadius captured him. Droki was carried back in a panic, and tried to show Ebadius what was in his pouch, but Ebadius snagged it from him quickly, fearing it was a spell component pouch.
 
 ## Relationships
 Ebadius has mixed relationships with most members of his party, stemming from his ability to take successive action as well as his ability to get the party into danger. He and Alias have a farily decent relationship, as the two of them do most of the planning. Ebadius also shares a decent relationship with Sarith, even considering the fear of how Sarith might endanger the party. While he does not have a particularly strong relationship with Groggle, these three appear to be the only characters in which Ebadius accepts counsel.
