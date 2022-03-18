@@ -69,7 +69,7 @@ Eldeth helped defeat the rampaging giant in the Blade Bazaar of Gracklstugh, dea
 
 The following day, Eldeth and Alias went to speak with the giants outside the gates, but are refused access to the rest of the city. They then met up with Ebadius and Groggle and traveled to Overlake Hold to get passes for travel within the city, where they were then held by Errde Blackskull and Gartokkar Xundorn. Eldeth remained mostly quiet until Groggle caved and explained the situation, to which she agreed with the decision to work for their freedom. She was sent away with Gartokkar and Ront to the Keepers of the Flame's headquarters in Themberchaud's Lair.
 
-After receiving her instructions, Eldeth left Themberchaud's Lair and split from Ront and Dad, and has not been seen since.
+After receiving her instructions, Eldeth left Themberchaud's Lair and split from Ront and Dad to speak with the giants. She met back up after some time with Alias, Dad, Ebadius, and Groggle outside of Themberchaud's Lair while the party was looking to defect to the Keeper's of the Flamse. Eldeth showed the party a large crystal given to her as a gift from the giants, which was immedietely taken by Themberchaud once presented to him.
 
 ## Relationships
 
