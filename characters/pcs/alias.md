@@ -2,7 +2,7 @@
 
 ![Alias Fakename](Alias.png)
 
-Alias is an female elf rogue played by Mark.
+Alias is an female elf rogue played by Mark. She is primarily known for being the face of the party while being unsuccessful at most skill based endeavors.
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -103,7 +103,9 @@ Alias and Groggle left to locate Shuushar, and learned that he was likely in the
 
 Dad met up with Alias and Groggle in the Blade Bazaar. The three of them looked for Droki until Dad led them down an alleyway and revealed that they were being followed by a drow. After Dad confronted the drow, Alias frisked the drow and stole a paper from her that contained drawings of the party that escaped Velkenvelve, for which Alias agreed with Groggle that they should try to escape before the drow struck a deal with the stioneguard.
 
-Alias saw Sarith being taken into custody at Overlake Hold, and helped throw him in jail while leaving the gate unlocked. She passed this information along to Ebadius before leaving the hold with Groggle and Dad to meet by the docks to discuss their next move.
+Alias saw Sarith being taken into custody at Overlake Hold, and helped throw him in jail while leaving the gate unlocked. She passed this information along to Ebadius before leaving the hold with Groggle and Dad to meet by the docks to discuss their next move. There, they decided to defect to the Keeper's of the Flame for protection, and traveled to Themberchaud's Lair to speak with him and Gartokkar. Alias did much of the talking with Gartokkar and became enraged when Ebadius sabotaged their progress by insinuating that he was not actually in charge. Alias took two swings and Ebadius, but missed both times.
+
+Alias then joined the others into Themberchaud's cavern once he called for them.
 
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
