@@ -2,7 +2,7 @@
 
 ![Groggle Sixpetal](Groggle.png)
 
-Groggle is a gnome bard played by Peter.
+Groggle is a gnome bard played by Peter. He is best known for his rational demeanor, fear of the party, and 'hambonin'.
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -92,7 +92,9 @@ Groggle traveled with Ebadius to the Shattered Spire to meet with Werz. There, t
 
 Groggle then returned to the Gholbrorn's Lair with Alias to talk with the patrons to gather information. There he took a short rest before attempting to locate Shuushar, which led them to the darlake. After waiting a few minutes, the two of them met with Ylsa Henstak and learned that the derro were getting surface goods. They struck a deal to give her this information in exchange for maps of the underdark.
 
-When Dad arrived at the Blade Bazaar, Groggle and Alias joined him in searching for Droki. They were led down an alleyway when Dad said they were being followed. After dad confronted and assaulted the drow, Groggle requested that he place her down. He then escorted her to Errde Blackskull's office as per her request. After returning to his allies and learning that she was looking for them, Groggle insisted that the duergar might turn them over, and they all moved to escape. Groggle went to the archives to retrieve Ebadius and then joined everyone by the dock.
+When Dad arrived at the Blade Bazaar, Groggle and Alias joined him in searching for Droki. They were led down an alleyway when Dad said they were being followed. After dad confronted and assaulted the drow, Groggle requested that he place her down. He then escorted her to Errde Blackskull's office as per her request. After returning to his allies and learning that she was looking for them, Groggle insisted that the duergar might turn them over, and they all moved to escape. Groggle went to the archives to retrieve Ebadius and then joined everyone by the dock, where they decided to take their chances with the Keepers of the Flame.
+
+Groggle didn't speak much during either their audience with Gartokkar or Themberchaud. While speaking with Gartokkar, he was mostly worried about Ebadius antagonizing him and tried to leave quietly.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either Dad or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.

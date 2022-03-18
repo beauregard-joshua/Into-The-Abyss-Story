@@ -35,6 +35,7 @@ navigate.
 * [Session 22: Do You Have a Dragon Slayer Greatsword?](arc04/session22-2021-07-28.md)
 * [Session 23: Is It Steve?](arc04/session23-2022-01-05.md)
 * [Session 24: We Need to Get Out of Here](arc04/session24-2022-02-01.md)
+* [Session 25: A Beastly Alliance](arc04/session25-2022-03-02.md)
 
 ## Navigation
 * [Return to Top](../README.md)
