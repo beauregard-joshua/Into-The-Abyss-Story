@@ -34,6 +34,11 @@ Dad, Alias, and Groggle are followed by a drow through the Blade Bazaar.
 They deduce that she is looking for the party and might strike a deal
 with the stoneguard and try to escape the city.
 
+### [Session 25: A Beastly Alliance](session25-2022-03-02.md)
+Shuushar and Alias are sent back to the Darklake District while Alias,
+Dad, Ebadius, and Groggle leave to speak with Themberchaud to secure their
+safety. Ebadius manages to locate and capture Droki.
+
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
 * Current: Arc 4: The City of Blades
