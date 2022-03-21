@@ -51,7 +51,7 @@ After a day's travel, Ebadius stayed on watch with Groggle and Shuushar. He aske
 
 Ebadius kept a close eye on Sarith after his outburst and was one of the people making decisions about his danger to the party. In the end, he and Alias deemed him calm and released him from his bindings, in which Sarith has proved himself since.
 
-Ebadius stayed behind while Alias, Eldeth, Sarith, and Shuushar investigated the rogue kuo-toa party. When meeting Plooplooppeen, Ebadius attempted to follow custom to the best of his ability and treated the archpriest with much respect, which may be a consequence of his manipulative character.
+Ebadius stayed behind while Alias, Eldeth, Sarith, and Shuushar investigated the rogue kuo-toa party. When meeting [Ploopploopeen](../sloobludop/ploopploopeen.md), Ebadius attempted to follow custom to the best of his ability and treated the archpriest with much respect, which may be a consequence of his manipulative character.
 
 In Sloobludop, Ebadius spent most of his time selling Alias' inventory with Groggle. He did most of the haggling and didn't buy anything of note for himself, although he took the liberty of skimming money off the top to give to himself and Groggle. He was also on the verge of stealing from the general store until he found the owner inside of a barrel.
 

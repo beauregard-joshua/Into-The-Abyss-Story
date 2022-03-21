@@ -31,12 +31,12 @@ The party has a mostly uneventful time as they travel the underdark.
 They begin running out of food as they near Slooblidop. Suddenly Sarith
 has a outburst of agression that leaves the party worried.
 
-### [Session 8: Plooploopeenleemooggoongonblippoolplopblippopodd](session08-2020-09-27.md)
+### [Session 8: Ploopploopeenleemooggoongonblippoolplopblippopodd](session08-2020-09-27.md)
 The party continues its travel, worried of Sarith, and finds some food
 deep in the tunnels of the underdark. They kill a grell and encounter
 a party of kuo-toa that kidnap Shuushar for worshipping the wrong
-diety. The leader of the Sea Mother, Ploopploopeen, takes them to the
-safety of Sloobludop and the party rests.
+diety. The leader of the Sea Mother, [Ploopploopeen](../../characters/sloobludop/ploopploopeen.md),
+takes them to the safety of Sloobludop and the party rests.
 
 ### [Session 9: Sloobluboppin'](session09-2020-11-01.md)
 After sleeping well for a night, the party prepares to infiltrate the
