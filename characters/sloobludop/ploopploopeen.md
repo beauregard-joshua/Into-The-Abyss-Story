@@ -2,12 +2,12 @@
 
 ![Ploopploopeen](Ploopploopeen.png)
 
-Ploopploopeen was a male kuo-toa first encountered outside the town of Sloobludop. He was the high priest of the church of the Sea Mother before the destruction of Sloobludop at teh hands of Demogorgon.
+Ploopploopeen was a male kuo-toa first encountered outside the town of Sloobludop. He was the high priest of the church of the Sea Mother before the destruction of Sloobludop at the hands of [Demogorgon](../../lore/demon_lords/demogorgon.md).
 
 ## Personality
 As with most kuo-toa, Ploopploopeen has a personality that is a bit erratic and eccentric. Following kuo-toa customs, he has a strong desire to be standing above others while he is speaking, which proves difficult when speaking with larger creatures. He forces respect out of those he speaks with and enforces his position of power amongst his disciples, although not in a belittling way. He thinks very highly of himself overall.
 
-Although a bit arrogant and self-centered, Ploopploopeen is caring for his people. He had expressed deep concern with how the schism between the church of the Sea Mother and cult of the [Deep Father](../../lore/gods/leemooggoogoon.md) was affecting the people of Sloobludop. He expressed distress over the tension caused by his daughter [Bloppblippodd](bloppblippodd.md) who became the archpriest of the cult of the Deep Father. In true nature to the kuo-toa, however, Ploopploopeen held no reservations about killing his daughter for the sake of the Sea Mother.
+Although a bit arrogant and self-centered, Ploopploopeen is caring for his people. He had expressed deep concern with how the schism between the church of the Sea Mother and [cult of the Deep Father](../../lore/organizations/deepfather.md) was affecting the people of Sloobludop. He expressed distress over the tension caused by his daughter [Bloppblippodd](bloppblippodd.md) who became the archpriest of the cult of the Deep Father. In true nature to the kuo-toa, however, Ploopploopeen held no reservations about killing his daughter for the sake of the Sea Mother.
 
 ## Background
 Little is known about Ploopploopeen's background, especially regarding how he ascended to the position of archpriest. Due to his brief conversations with [Shuushar](../party/shuushar.md), the two appear to have an amiable history, and Shuushar spoke of Ploopploopeen in very high regard. Ploopploopeen also has two children; his elder daughter is Bloppblippodd, who became the archpriest of the cult of the Deep Father, and his younger son [Glooglugogg](glooglugogg.md), who has remained apart of the church of the Sea Mother.

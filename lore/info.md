@@ -7,3 +7,8 @@ while exploring the underdark.
 | Name | Aspects | Aliases | Encountered |
 | --- | --- | --- | --- |
 | [Demogorgon](demon_lords/demogorgon.md) | Chaos, Madness, Destruction | Prince of Demons, Deep Father, Leemooggoogoon | Yes |
+
+## Organizations
+| Name | Location |
+| --- | --- |
+| [Cult of the Deep Father](organizations/deepfather.md) | Sloobludop |
