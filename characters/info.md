@@ -39,6 +39,8 @@ encounter location for clarity.
 | Character | Session Introduced | Session Last Seen | Last Known Activity |
 | --- | --- | --- | --- |
 | [Ploopploopeen](sloobludop/ploopploopeen.md) | [Session 8](../sessions/arc02/session08-2020-09-27.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | Likely Deceased |
+| [Gloogglugogg](sloobludop/glooglugogg.md) | [Session 9](../sessions/arc02/session09-2020-11-01.md) | [Session 9](../sessions/arc02/ession09-2020-11-01.md) | Likely Deceased |
+| [Blippbloppodd](sloobludop/blippbloppodd.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | Deceased |
 
 ### Gracklstugh
 **TODO**
