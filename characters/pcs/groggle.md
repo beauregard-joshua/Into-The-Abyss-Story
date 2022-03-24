@@ -51,7 +51,7 @@ For much of the remaining travel to Sloobludop Groggle stayed quiet and deferred
 
 When in town, Groggle and Ebadius sold much of Alias' spoils together. They sold much to the curiosity shop and had other objects appraised, but his biggest achievement was the purchasing of a drum that sounded like a horn playing C# when struck. He used this instrument to do some street performances, but it did not work out, but he was successful in rallying the patrons of the inn using his drum and some "ham-bonin'". The next morning, Groggle purchased a few crossbow bolts for himself.
 
-Unsure of who was an enemy and who was a friend, Groggle did little to aid the fight in the Altar of the Deep Father. Once Demogorgon revealed himself from the waters, Groggle was one of the few people who kept themselves together and commanded people to escape. He was the one calmed Eldeth down and convinced her to get [Dad](dad.md) out of the altar.
+Unsure of who was an enemy and who was a friend, Groggle did little to aid the fight in the altar of the [Deep Father](../../lore/demon_lords/demogorgon.md). Once [Demogorgon](../../lore/demon_lords/demogorgon.md) revealed himself from the waters, Groggle was one of the few people who kept themselves together and commanded people to escape. He was the one calmed Eldeth down and convinced her to get [Dad](dad.md) out of the altar.
 
 When escaping Sloobludop, Groggle teamed up with Ebadius as they retrieved their belongings from the inn. He was able to signal to their party members that they were coming down the tunnels by using using magic drum and the two of them met up with Sarith, [Hemeth](../party/hemeth.md), Dad, Eldeth, Shuushar, and Ront.
 

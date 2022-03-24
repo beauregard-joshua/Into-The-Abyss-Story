@@ -55,12 +55,12 @@ Ebadius stayed behind while Alias, Eldeth, Sarith, and Shuushar investigated the
 
 In Sloobludop, Ebadius spent most of his time selling Alias' inventory with Groggle. He did most of the haggling and didn't buy anything of note for himself, although he took the liberty of skimming money off the top to give to himself and Groggle. He was also on the verge of stealing from the general store until he found the owner inside of a barrel.
 
-When the party infiltrated the cult of the Deep Father, Ebadius was one of the first to act, casting a *scorching ray* on Blopplipodd for fear of being sacrificed. He also cast a *thunderwave* on several kuo-toa, but some of them turned out to be allies. He also tried to free [Hemeth](../party/hemeth.md) from his chains, but was not strong enough, relying on Alias' dexterity to pick the locks.
+When the party infiltrated the [cult of the Deep Father](../../lore_organizations/deepfather.md), Ebadius was one of the first to act, casting a *scorching ray* on [Blopplippodd](../../characters/sloobludop/blopplippodd.md) for fear of being sacrificed. He also cast a *thunderwave* on several kuo-toa, but some of them turned out to be allies. He also tried to free [Hemeth](../party/hemeth.md) from his chains, but was not strong enough, relying on Alias' dexterity to pick the locks.
 
 In the escape of Sloobludop, Ebadius teamed up with Groggle and returned to the inn to grab their belongings. They eventually met up with the group of Sarith, Hemeth, Dad, Eldeth, Shuushar, and Ront, after hearing Sarith's bell ringing in the tunnels.
 
 ## [Dangers of the Darklake](../../sesssions/arc03/info.md)
-Ebadius returned with Groggle, Alias, and Shuushar to Sloobdludop to look for supplies after the destruction by Demogorgon. He suggested to others that they should build a boat and traverse the darklake. During the combat while on the boat, Ebadius was extremely inaccurate and almost shot the boat with a *scorching ray*.
+Ebadius returned with Groggle, Alias, and Shuushar to Sloobdludop to look for supplies after the destruction by [Demogorgon](../../lore/demon_lords/demogorgon.md). He suggested to others that they should build a boat and traverse the darklake. During the combat while on the boat, Ebadius was extremely inaccurate and almost shot the boat with a *scorching ray*.
 
 Ebadius chose to rest on the shore after docking. When Hemeth arrived without Alias, Ebadius was suspicious and organized the search party to look for Alias when she didn't return for a time. When they found her, they quickly left in fear.
 
