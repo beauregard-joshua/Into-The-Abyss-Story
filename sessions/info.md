@@ -1,5 +1,7 @@
 # Sessions
 
+[Home](../README.md) > Sessions
+
 The following is a list of the sessions the players have gone through, broken
 into a list of arcs the players may find relevant, making it easier to
 navigate.
@@ -36,6 +38,3 @@ navigate.
 * [Session 23: Is It Steve?](arc04/session23-2022-01-05.md)
 * [Session 24: We Need to Get Out of Here](arc04/session24-2022-02-01.md)
 * [Session 25: A Beastly Alliance](arc04/session25-2022-03-02.md)
-
-## Navigation
-* [Return to Top](../README.md)
