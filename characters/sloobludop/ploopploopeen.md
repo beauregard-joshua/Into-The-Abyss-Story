@@ -1,5 +1,7 @@
 # Ploopploopeen
 
+[Home](../../README.md) > [Characters](../info.md) > Ploopploopeen
+
 ![Ploopploopeen](Ploopploopeen.png)
 
 Ploopploopeen was a male kuo-toa first encountered outside the town of Sloobludop. He was the high priest of the church of the Sea Mother before the destruction of Sloobludop at the hands of [Demogorgon](../../lore/demon_lords/demogorgon.md).
