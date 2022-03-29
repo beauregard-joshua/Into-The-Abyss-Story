@@ -1,5 +1,7 @@
 # Topsy
 
+[Home](../../README.md) > [Characters](../info.md) > Topsy
+
 ![Topsy](Topsy.png)
 
 Topsy is a female deep gnome first encountered in Velkenvelve.

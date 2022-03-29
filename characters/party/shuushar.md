@@ -1,5 +1,7 @@
 # Shuushar the Awakened
 
+[Home](../../README.md) > [Characters](../info.md) > Shuushar the Awakened
+
 ![Shuushar](Shuushar.png)
 
 Shuushar is a male kuo-toa from Sloobludop first encountered in Velkenvelve.

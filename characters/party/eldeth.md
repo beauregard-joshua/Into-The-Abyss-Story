@@ -1,5 +1,7 @@
 # Eldeth Feldrun
 
+[Home](../../README.md) > [Characters](../info.md) > Eldeth Feldrun
+
 ![Eldeth](Eldeth.png)
 
 Eldeth Feldrun is a female dwarf from Gauntlgrym who found her way into the underdark. She was first encountered in Velkenvelve and has remained with the party every since.

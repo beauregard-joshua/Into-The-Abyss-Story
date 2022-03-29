@@ -1,8 +1,10 @@
 # Hemeth
 
+[Home](../../README.md) > [Characters](../info.md) > Hemeth
+
 <img src="Hemeth.jpg" width="300px">
 
-Hemeth is a male duergar merchant from Gracklstugh, first met in Sloobludop.
+Hemeth is a male duergar merchant from Gracklstugh, first met in Sloobludop. He was last seen in Gracklstugh after the party bribed him to leave them alone by giving him their boat.
 
 ## Personality
 Hemeth is blunt and to the point, much like other grey dwarves. He does not use flair in his language and instead speaks and acts directly in order to get a job done. When presented with difficult decisions, he often prompts the party with the options available, rather than beating around about the possibilities.
