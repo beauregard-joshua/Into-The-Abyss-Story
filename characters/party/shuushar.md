@@ -14,7 +14,7 @@ Even with others rejecting his ideas, Shuushar often keeps good spirits and view
 ## Background
 Shuushar comes from the kuo-toa town of Sloobludop along the darklake in the underdark. His family, profession, or any other major lifestyle choices are largely unknown. While other kuo-toa are mostly insane, Shuushar stands out as an "enlightened" kuo-toa, aware of other cultures and not devout to the same gods. How he came to this position is also largely unknown.
 
-It is known that Shuushar has some connections amongst important people in Sloobludop. He spoke with Ploopploopeen as if they had known each other for some time, and when exploring the town Shuushar spent time reconnecting with other kuo-toa that he knew. He was long ago known to be a follower of the sea mother Blibdoolpoolp, but has not expressed any devotion to gods during his time with the party.
+It is known that Shuushar has some connections amongst important people in Sloobludop. He spoke with [Ploopploopeen](../sloobludop/ploopploopeen.md) as if they had known each other for some time, and when exploring the town Shuushar spent time reconnecting with other kuo-toa that he knew. He was long ago known to be a follower of the sea mother Blibdoolpoolp, but has not expressed any devotion to gods during his time with the party.
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
