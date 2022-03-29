@@ -4,7 +4,7 @@
 
 ![Bloppblippodd](Bloppblippodd.png)
 
-Bloppblippodd was a female kuo-toa from Sloobludop and daughter of archpriest [Ploopploopeen](ploopploopeen.md) of the church of the Sea Mother. She served as the archpriest of the [cult of the Deep Father](../../lore/organizations/deepfather.md) until she was killed by a combination effort of [Ebadius](../pcs/ebadius.md) and Ploopploopeen at the altar of the [Deep Father](../../lore/demon_lords/demogorgon.md).
+Bloppblippodd was a female kuo-toa from Sloobludop and daughter of archpriest [Ploopploopeen](ploopploopeen.md) of the church of the Sea Mother. She served as the archpriest of the [cult of the Deep Father](../../lore/organizations/deepfather.md) until she was killed by Ploopploopeen at the altar of the [Deep Father](../../lore/demon_lords/demogorgon.md).
 
 ## Personality
 Like many kuo-toa, Bloppblippodd behaves erratically and is extremely devout to her diety. She is arrogant and zealous, causing her to make rash decisions in the name of her god [Leemooggoogoon](../../lore/demon_lords/demogorgon.md). In this sense, she was willing to wage a religous war with her father over this and attempt to sacrifice outsiders to appease her god. Beyond the single interaction the party had with her at the altar of the Deep Father, not much is known about Bloppblippodd's personality.
@@ -16,7 +16,7 @@ Bloppblippodd is the daughter of Ploopploopeen and sister to Glooglugogg, who sh
 ### [Travel to Sloobludop](../../sessions/arc02/info.md)
 Bloppblippodd was first seen at the altar of the Deep Father in Sloobludop when the party arrived to fake their sacrifice to the Deep Father. She graciously accepted their sacrifice and welcomed both the party abd Ploopploopeen to the altar of the Deep Father for the ritual.
 
-Once the ritual began, Ebadius fired a *scorching ray* at her, fearing that they would run out of time to counterattack before the sacrifice was carried out. After his attack, Ploopploopeen struck her from behind and killed her on the spot.
+Once the ritual began, Ebadius fired a *scorching ray* at a nearby cultist, causing Bloppblippodd to go into a frenzy at the attack. After this, Ploopploopeen struck her from behind and killed her on the spot.
 
 ## Death and Legacy
 Bloppblippodd was killed by her father Ploopploopeen and Ebadius during the fake sacrifice. Her body disappeared in the chaos of the attack on Sloobludop, and it remains unclear what happened to her corpse.
