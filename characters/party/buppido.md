@@ -2,7 +2,7 @@
 
 ![Buppido](Buppido.png)
 
-Buppido is a male derro, first encountered in Velkenvelve and last seen leaving after Demogorgon's arrival in Sloobludop.
+Buppido is a male derro, first encountered in Velkenvelve and last seen leaving after [Demogorgon](../../lore/demon_lords/demogorgon.md)'s arrival in Sloobludop.
 
 ## Personality
 Buppido is a blunt, talkative, and a bit rough around the edges. He has no fear as to what others will think of what he is saying and has no issue calling out what he thinks should or shouldn't be done. He often makes others uncomfortable, either because of the things that he says or simply the tone that he chooses to take with his speech.
@@ -37,7 +37,7 @@ Buppido went with Alias, Ebadius, and Groggle to investigate the voices that the
 
 Buppido was mostly silent for most of the travel to Sloobludop from there. He did aid in searching for food after the fight with the grell together with Eldeth.
 
-When asked by Plooplooppeen if the party would aid him in their schism with the cult of the Deep Father, Buppido seemed off put, but obliged. In Sloobludop, he took a walk in the night, where he was followed by Alias, who did not trust him. During the day, he seemed to disappear and no one is aware of where he went or what he was doing.
+When asked by [Plooplooppeen](../sloobludop/ploopploopeen.md) if the party would aid him in their schism with the [cult of the Deep Father](../../lore/organizations/deepfather.md), Buppido seemed off put, but obliged. In Sloobludop, he took a walk in the night, where he was followed by Alias, who did not trust him. During the day, he seemed to disappear and no one is aware of where he went or what he was doing.
 
 After Demogorgon rose from the water, Buppido seemed unphased by the event, at least in terms of how it affected his sanity. He walked away from the altar while the kuo-toa chanted for their god and was never seen again.
 
