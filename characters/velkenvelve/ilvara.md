@@ -1,5 +1,7 @@
 # Ilvara
 
+[Home](../../README.md) > [Characters](../info.md) > Ilvara
+
 ![Ilvara](Ilvara.png)
 
 Ilvara is a drow priestess and commander of the post of Velkenvelve. She was first encountered in Velkenvelve and was last seen traveling the tunnels searching for the party.
