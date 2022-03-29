@@ -1,5 +1,7 @@
 # Dad Father
 
+[Home](../../README.md) > [Characters](../info.md) > Dad Father
+
 ![Dad Father](Dad.png)
 
 Dad is a male half-orc barbarian played by Allie. He is primarily known for being the strong frontman of the party and perform backflips for attention.
