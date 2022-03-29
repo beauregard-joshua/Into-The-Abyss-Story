@@ -2,7 +2,7 @@
 
 [Home](../../README.md) > [Characters](../info.md) > Glooglugogg
 
-![Glooglugogg](glooglugogg.png)
+![Glooglugogg](Glooglugogg.png)
 
 Glooglugogg was a male kuo-toa from Sloobludop and son of [Ploopploopeen](ploopploopeen.md), the high priest of the church of the Sea Mother. He was last seen in the church of the Sea Mother before the destruction of Sloobludop and is presumed dead.
 
