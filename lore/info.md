@@ -1,5 +1,7 @@
 # Lore
 
+[Home](../README.md) > Lore
+
 The following contains all important entities that the party has come across
 while exploring the underdark.
 
