@@ -33,14 +33,15 @@ clues regarding Droki, as well as their lost party members. They also
 meet a strange human named Steve that offers a bit of aid.
 
 ### [Session 24: We Need to Get Out of Here](session24-2022-02-01.md)
-Dad, Alias, and Groggle are followed by a drow through the Blade Bazaar.
+[Dad](../../characters/pcs/dad.md), [Alias](../../characters/pcs/alias.md), and [Groggle](../../characters/pcs/groggle.md) are followed by a drow through the Blade Bazaar.
 They deduce that she is looking for the party and might strike a deal
 with the stoneguard and try to escape the city.
 
 ### [Session 25: A Beastly Alliance](session25-2022-03-02.md)
-Shuushar and Alias are sent back to the Darklake District while Alias,
-Dad, Ebadius, and Groggle leave to speak with Themberchaud to secure their
-safety. Ebadius manages to locate and capture Droki.
+[Shuushar](../../characters/party/shuushar.md) and [Sarith](../../characters/party/sarith.md)
+are sent back to the Darklake District while Alias, Dad, [Ebadius](../../characters/pcs/ebadius.md), and
+Groggle leave to speak with Themberchaud to secure their safety.
+Ebadius manages to locate and capture Droki.
 
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
