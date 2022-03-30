@@ -1,5 +1,7 @@
 # Shuushar the Awakened
 
+[Home](../../README.md) > [Characters](../info.md) > Shuushar the Awakened
+
 ![Shuushar](Shuushar.png)
 
 Shuushar is a male kuo-toa from Sloobludop first encountered in Velkenvelve.
@@ -14,7 +16,7 @@ Even with others rejecting his ideas, Shuushar often keeps good spirits and view
 ## Background
 Shuushar comes from the kuo-toa town of Sloobludop along the darklake in the underdark. His family, profession, or any other major lifestyle choices are largely unknown. While other kuo-toa are mostly insane, Shuushar stands out as an "enlightened" kuo-toa, aware of other cultures and not devout to the same gods. How he came to this position is also largely unknown.
 
-It is known that Shuushar has some connections amongst important people in Sloobludop. He spoke with Ploopploopeen as if they had known each other for some time, and when exploring the town Shuushar spent time reconnecting with other kuo-toa that he knew. He was long ago known to be a follower of the sea mother Blibdoolpoolp, but has not expressed any devotion to gods during his time with the party.
+It is known that Shuushar has some connections amongst important people in Sloobludop. He spoke with [Ploopploopeen](../sloobludop/ploopploopeen.md) as if they had known each other for some time, and when exploring the town Shuushar spent time reconnecting with other kuo-toa that he knew. He was long ago known to be a follower of the sea mother Blibdoolpoolp, but has not expressed any devotion to gods during his time with the party.
 
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
@@ -43,7 +45,7 @@ When the party encountered an advancing group of kuo-toa, Shuushar moved to spea
 
 After the combat, Shuushar introduced the party to Ploopploopeen, the high priest of the sea mother, and quickly spoke to say that he would help the schism of Sloobludop in any way he could. When they arrived in Sloobludop, Shuushar began visiting many people and traversing the city, leaving much of the party behind in the process. On one occasion, Groggle and Ebadius approached him to ask if any of the kuo-toa behaved oddly in their shops, to which Shuushar told them that kuo-toa do not have eyelids, and so they sleep with their eyes open.
 
-Shuushar spent most of his time in Sloobludop, as far as the party is aware, conversing with Ploopploopeen about their plan to inflitrate the cult of the deep father. When Ploopploopeen would arrive to discuss plans, Shuushar was often in tow. When the time came to infiltrate the cult, Shuushar stayed back and let the others take care of the situation. Shuushar was able to withstand diving into madness from looking at Demogorgon. Shuushar was instructed to grab Ront, who was suffering from madness, and successfully got the two of them out of Sloobludop and into the tunnels.
+Shuushar spent most of his time in Sloobludop, as far as the party is aware, conversing with Ploopploopeen about their plan to infiltrate the [cult of the Deep Father](../../lore/organizations/deepfather.md). When Ploopploopeen would arrive to discuss plans, Shuushar was often in tow. When the time came to infiltrate the cult, Shuushar stayed back and let the others take care of the situation. Shuushar was able to withstand diving into madness from looking at [Demogorgon](../../lore/demon_lords/demogorgon.md). Shuushar was instructed to grab Ront, who was suffering from madness, and successfully got the two of them out of Sloobludop and into the tunnels.
 
 ### [Dangers of the Darklake](../../sessions/arc03/info.md)
 After escaping, Shuushar helped establish a base camp together with Groggle and Hemeth. After others arrived with some food, he returned to Sloobludop with Ebadius, Groggle, and Alias to look for supplies. While searching the debris, it became clear that Shuushar had spiraled into a depression, and his party members attempted to comfort him in this process. He mentioned how everyone that he had ever known was gone and he didn't know what he was supposed to do with his life. The group with him convinced him to help them find supplies that might give them a chance for survival. Both during their travels in Sloobludop as well as on the darklake, party members, particularly Dad, informed Shuushar that they were his new family. This thought seemed to spark some new life in him.

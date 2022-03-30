@@ -1,5 +1,7 @@
 # Turvy
 
+[Home](../../README.md) > [Characters](../info.md) > Turvy
+
 ![Turvy](Turvy.png)
 
 Topsy is a male deep gnome first encountered in Velkenvelve.

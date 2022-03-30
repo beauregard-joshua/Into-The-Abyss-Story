@@ -1,5 +1,7 @@
 # Eldeth Feldrun
 
+[Home](../../README.md) > [Characters](../info.md) > Eldeth Feldrun
+
 ![Eldeth](Eldeth.png)
 
 Eldeth Feldrun is a female dwarf from Gauntlgrym who found her way into the underdark. She was first encountered in Velkenvelve and has remained with the party every since.
@@ -43,7 +45,7 @@ When Sarith woke up screaming, Eldeth aided Dad in holding him down and tying hi
 
 Eldeth stayed back when Shuushar moved to parlay with the kuo-toa, but was retrieved by Ebadius when things went south. She joined as the fighting ended and joined the others in choosing to aid the kuo-toa in support of the Sea Mother. In town, Eldeth mostly kept to herself and stayed within the inn while some of the others explored the town. She eventually joined up with Alias as the two of them investigated the rooms of their party members in order to learn if one of them was Jimjar's murderer, but found nothing. Eventually, Eldeth was left to rest and explore on her own.
 
-When Demogorgon rose from the darklake, Edleth was frozen in fear, overtaken by the beginning effects of madness. She was brought back to her sense by Shuushar, where she then proceeded to shake Dad back to reality as well. She escaped the altar together with Dad before meeting up wiith Sarith outside of Sloobludop.
+When [Demogorgon](../../lore/demon_lords/demogorgon.md) rose from the darklake, Edleth was frozen in fear, overtaken by the beginning effects of madness. She was brought back to her sense by Shuushar, where she then proceeded to shake Dad back to reality as well. She escaped the altar together with Dad before meeting up wiith Sarith outside of Sloobludop.
 
 ### [Dangers of the Darklake](../../sessions/arc03/info.md)
 

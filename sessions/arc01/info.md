@@ -1,5 +1,7 @@
 # Arc 1: The Prison at Velkenvelve
 
+[Home](../../README.md) > [Sessions](../info.md) > Arc 1
+
 The story begins with the players imprisoned in the drow prison of
 Velkenvelve for various reasons. They meet many other prisoners,
 befriending some and being wary of others, and keeping their

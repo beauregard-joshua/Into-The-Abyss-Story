@@ -1,5 +1,7 @@
 # Derendil
 
+[Home](../../README.md) > [Characters](../info.md) > Derendil
+
 ![Derendil](Derendil.png)
 
 Derendil was a male quaggoth encountered as a prisoner of Velkenvelve.

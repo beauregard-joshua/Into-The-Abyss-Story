@@ -1,5 +1,7 @@
 # Alias Fakename
 
+[Home](../../README.md) > [Characters](../info.md) > Alias Fakename
+
 ![Alias Fakename](Alias.png)
 
 Alias is an female elf rogue played by Mark. She is primarily known for being the face of the party while being unsuccessful at most skill based endeavors.
@@ -59,7 +61,7 @@ In Sloobludop, Alias took the opportunity to investigate his party members. She 
 
 In the night, Alias followed Buppido as he went for a walk around town, but mostly concluded that "he was weird." 
 
-While the rest of the party acted to infiltrate the cult of the Deep Father, Alias stayed behind and wanted from afar. When her party entered the altar, she moved behind the statue of Leemooggoogoon to attack. As the attack started, she tried to distract the kuo-tao by mimicking the Deep Father, but once Demogorgon arose from the water she swam through the water, broke [Hemeth](../party/hemeth.md) free, then escaped. Alias quickly looted the general store before escaping back into the tunnels. She was one of the last party members to meet up in the Underdark, aside from Stool and Buppido, who were not found.
+While the rest of the party acted to infiltrate the [cult of the Deep Father](../../lore/organizations/deepfather.md), Alias stayed behind and wanted from afar. When her party entered the altar, she moved behind the statue of [Leemooggoogoon](../../lore/demon_lords/demogorgon.md) to attack. As the attack started, she tried to distract the kuo-tao by mimicking the Deep Father, but once [Demogorgon](../../lore/demon_lords/demogorgon.md) arose from the water she swam through the water, broke [Hemeth](../party/hemeth.md) free, then escaped. Alias quickly looted the general store before escaping back into the tunnels. She was one of the last party members to meet up in the Underdark, aside from Stool and Buppido, who were not found.
 
 ### [Dangers of the Darklake](../../sessions/arc03/info.md)
 Alias was one of the party members, along with Ebadius, Groggle, and Shuushar, to return to Sloobludop after Demogorgon's release. She helped loot ruined buildings while the others searched for salvage for building a boat. When the others arrived and reported that the drow had found them, Alias kept watch while the others built the boat before departing. During the combat on the boat, Alias was severely injured by an aquatic troll, but was healed by Groggle so she could keep fighting. After the first boat docking, she scouted ahead and heard some noises in the cave. When she reported this to the party, they decided to keep traveling down the darklake.

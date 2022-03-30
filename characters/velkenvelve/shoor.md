@@ -1,5 +1,7 @@
 # ???
 
+[Home](../../README.md) > [Characters](../info.md) > ???
+
 ![???](Shoor.png)
 
 ??? is an unnamed male drow soldier that was first encountered in Velkenvelve.

@@ -1,8 +1,10 @@
 # Stool
 
+[Home](../../README.md) > [Characters](../info.md) > Stool
+
 ![Stool](Stool.png)
 
-Stool is a male mycanoid sprout, first encountered in Velkenvelve and last seen leaving after Demogorgon's arrival in Sloobludop.
+Stool is a male mycanoid sprout, first encountered in Velkenvelve and last seen leaving after [Demogorgon](../../lore/demon_lords/demogorgon.md)'s arrival in Sloobludop.
 
 ## Personality
 Stool is quiet and cowardly, mostly due to his age. He is often extremely scared of the events going on around him and is not particularly capable by himself. When first met in Velkenvelve, he said little and hid in a corner until someone calmed him down and convinced him that he would be okay. This has been a recurring theme with Stool, where he is not able to cope with the difficulties of the underdark and the party must calm him down.

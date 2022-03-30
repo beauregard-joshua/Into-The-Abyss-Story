@@ -16,3 +16,4 @@ found below.
 * [Characters](characters/info.md)
 * [Locations](locations/info.md)
 * [Flora and Fauna](flora/info.md)
+* [Lore](lore/info.md)
