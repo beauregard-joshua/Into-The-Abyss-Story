@@ -1,5 +1,7 @@
 # Stool
 
+[Home](../../README.md) > [Characters](../info.md) > Stool
+
 ![Stool](Stool.png)
 
 Stool is a male mycanoid sprout, first encountered in Velkenvelve and last seen leaving after [Demogorgon](../../lore/demon_lords/demogorgon.md)'s arrival in Sloobludop.

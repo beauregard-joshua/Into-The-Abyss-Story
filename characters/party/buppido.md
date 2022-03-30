@@ -1,5 +1,7 @@
 # Buppido
 
+[Home](../../README.md) > [Characters](../info.md) > Buppido
+
 ![Buppido](Buppido.png)
 
 Buppido is a male derro, first encountered in Velkenvelve and last seen leaving after [Demogorgon](../../lore/demon_lords/demogorgon.md)'s arrival in Sloobludop.

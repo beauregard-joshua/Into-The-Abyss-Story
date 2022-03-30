@@ -1,5 +1,7 @@
 # Arc 2: Travel to Sloobludop
 
+[Home](../../README.md) > [Sessions](../info.md) > Arc 2
+
 After escaping the prison at Velkenvelve, the party finds themselves
 at the mercy of the environment of the Underdark. With no supplies
 and only a few options, the party decides to travel to the nearest

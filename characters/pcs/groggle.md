@@ -1,5 +1,7 @@
 # Groggle Sixpetal
 
+[Home](../../README.md) > [Characters](../info.md) > Groggle Sixpetal
+
 ![Groggle Sixpetal](Groggle.png)
 
 Groggle is a gnome bard played by Peter. He is best known for his rational demeanor, fear of the party, and 'hambonin'.

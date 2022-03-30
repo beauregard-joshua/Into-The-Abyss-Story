@@ -1,5 +1,7 @@
 # Arc 3: Dangers of the Darklake
 
+[Home](../../README.md) > [Sessions](../info.md) > Arc 3
+
 The party accidentally summons [Demogorgon](../../lore/demon_lords/demogorgon.md),
 who remains loose in the Underdark. They search for a means to travel
 to Neverlight Grove, which leads them to the Darklake. Traversing the

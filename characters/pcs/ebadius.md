@@ -1,5 +1,7 @@
 # Ebadius Cantos
 
+[Home](../../README.md) > [Characters](../info.md) > Ebadius Cantos
+
 ![Ebadius Cantos](Ebadius.png)
 
 Ebadius is a male tiefling sorcerer played by Nick. He is best known for being deceitful and causing the party extraordinary headaches for silly reasons.

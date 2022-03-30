@@ -1,5 +1,7 @@
 # Alias Fakename
 
+[Home](../../README.md) > [Characters](../info.md) > Alias Fakename
+
 ![Alias Fakename](Alias.png)
 
 Alias is an female elf rogue played by Mark. She is primarily known for being the face of the party while being unsuccessful at most skill based endeavors.
