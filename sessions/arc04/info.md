@@ -43,6 +43,12 @@ are sent back to the Darklake District while Alias, Dad, [Ebadius](../../charact
 Groggle leave to speak with Themberchaud to secure their safety.
 Ebadius manages to locate and capture Droki.
 
+### [Session 26: What Color is This Mushroom?](session26-2022-04-07.md)
+Ebadius brings Droki by to the other party members, where they then decide
+to let him complete his deliveries to find the Gray Ghosts. Droki eats a
+mushroom to shrink and run through a crack in the wall and Ebadius is
+downed while chasing him.
+
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
 * Current: Arc 4: The City of Blades
