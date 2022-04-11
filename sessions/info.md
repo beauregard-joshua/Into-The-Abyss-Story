@@ -38,3 +38,4 @@ navigate.
 * [Session 23: Is It Steve?](arc04/session23-2022-01-05.md)
 * [Session 24: We Need to Get Out of Here](arc04/session24-2022-02-01.md)
 * [Session 25: A Beastly Alliance](arc04/session25-2022-03-02.md)
+* [Session 26: What Color is This Mushroom?](arc04/session26-2022-04-07.md)
