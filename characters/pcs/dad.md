@@ -102,6 +102,8 @@ Dad met back up with Alias and Groggle to look for Droki, but Dad learned they w
 
 Dad brought Alias, Ebadius, and Groggle to Themberchad's Lair to meet with Gartokkar. After they failed to negotiate with Gartokkar a defection to the Keeper's of the Flame, Dad met with Themberchaud, who roared in frustration that Dad had not announced himself. Dad explained the situation and Themberchaud told him that he would change Gartokkar's mind. Dad then waited with the party before Themberchaud called them in and inducted them into the Keeper's of the Flame.
 
+When Ebadius returned with Droki, he followed the party into the Whorlstone tunnels to see where Droki was delivering his goods, hoping to find the Gray Ghosts. Once Droki escaped, Dad lagged behind the chase with Alias and Eldeth, eventtually eating a shrinking mushroom and running through the cracks after him.
+
 ## Relationships
 Dad's best relationship is with his party member Ront, as the two of them have very similar approaches to problem solving. They share a mutual bond of agression and often do whatever the other one is doing. Dad is a bit more take-charge than Ront is, again possibly alluding to a possible past involving father-like tendcies. His other strong relationship is with Sarith, which initially began as an extremely rough relationship. Early on, Dad was aggressive toward Sarith, primarily due to Sarith's aloof behavior and lack of will to discuss what he may have known of the drow (as well as being a suspect in Jimjar's death). After the two of the helped each other evade drow capture and saved each other's life, the two of them developed a strong friendship.
 
@@ -114,3 +116,4 @@ Dad had a strong dislike of Hemeth, likely due to Hemeth's demanding attitude. T
 * The first weapon Dad found in the Underdark he named "Dr. Lobotomy". Based on his level of intelligence, it is possible that he has had a lobotomy himself or knows someone who has had one.
 * After escaping Sloobludop, the party realized that they had lost Buppido and Stool. Dad expressed his thoughts that, while he was sad that Stool was gone because we was a fine companion, he kindly said that it was for the best that Buppido did not return, seeing as he always acted as a loner. This was his polite way of saying good riddance to Buppido, who Dad did not like.
 * While fighting the gnolls in the tunnels, Dad nearly single-handedly defeated all of the ordinary gnolls by himself b going into a rage. He did request healing from Groggle, but it turned out that even without the healing he would have survived.
+* Dad has expressed knowledge of hard rock as a musical genre, specifically when he referred to the song *Back in Black* by *AC/DC*. He mistakenly referred to it as heavy metal music in the moment.
