@@ -107,7 +107,7 @@ Dad met up with Alias and Groggle in the Blade Bazaar. The three of them looked 
 
 Alias saw Sarith being taken into custody at Overlake Hold, and helped throw him in jail while leaving the gate unlocked. She passed this information along to Ebadius before leaving the hold with Groggle and Dad to meet by the docks to discuss their next move. There, they decided to defect to the Keeper's of the Flame for protection, and traveled to Themberchaud's Lair to speak with him and Gartokkar. Alias did much of the talking with Gartokkar and became enraged when Ebadius sabotaged their progress by insinuating that he was not actually in charge. Alias took two swings and Ebadius, but missed both times.
 
-Alias then joined the others into Themberchaud's cavern once he called for them.
+Alias then joined the others into Themberchaud's cavern once he called for them. After leaving, she worked with Ebadius for him to translate statements from Droki to make a decision as to where to head next. They decided to enter the Whorlstone tunnels following droki and his deliveries. Once Droki escaped through a crack in the wall, Alias tried to chase after Droki but ate the wrong mushroom, causing her to grow in size instead of shrink. She then found the correct mushroom and ate it twice to sneak through the crack with Dad and Eldeth.
 
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
