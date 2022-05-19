@@ -39,3 +39,4 @@ navigate.
 * [Session 24: We Need to Get Out of Here](arc04/session24-2022-02-01.md)
 * [Session 25: A Beastly Alliance](arc04/session25-2022-03-02.md)
 * [Session 26: What Color is This Mushroom?](arc04/session26-2022-04-07.md)
+* [Session 27: The Big Squeeze](session27-2022-05-11.md)
