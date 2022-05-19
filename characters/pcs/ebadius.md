@@ -106,6 +106,8 @@ When Themberchaud summon the party back, Ebadius caught sight of Droki running t
 
 When Droki ate a mushroom and attempted to run away, Ebadius cast *hold person*, but was unsuccessful as he managed to escape. Ebadius then grabbed a mushroom at his feet and grew in size instead of shrinking. He then chose to go around the crack and wade through the pond, meeting Groggle on the other end. He then carried Groggle into a thicket of fungi where they were attacked by swarming insects, and Ebadius was knocked unconscious while trying to escape.
 
+Ebadius woke up in the party's camp and saw Droki injured in front of Alias. After stating his joy at seeing Droki injured, Ebadius went back to sleep.
+
 ## Relationships
 Ebadius has mixed relationships with most members of his party, stemming from his ability to take successive action as well as his ability to get the party into danger. He and Alias have a farily decent relationship, as the two of them do most of the planning. Ebadius also shares a decent relationship with Sarith, even considering the fear of how Sarith might endanger the party. While he does not have a particularly strong relationship with Groggle, these three appear to be the only characters in which Ebadius accepts counsel.
 

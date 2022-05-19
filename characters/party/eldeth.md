@@ -73,7 +73,9 @@ The following day, Eldeth and Alias went to speak with the giants outside the ga
 
 After receiving her instructions, Eldeth left Themberchaud's Lair and split from Ront and Dad to speak with the giants. She met back up after some time with Alias, Dad, Ebadius, and Groggle outside of Themberchaud's Lair while the party was looking to defect to the Keeper's of the Flame. Eldeth showed the party a large crystal given to her as a gift from the giants, which was immedietely taken by Themberchaud once presented to him. She then stayed with the party and explained more about what she had been doing while the others with exploring the city.
 
-When Ebadius returned with Droki, Eldeth was the only one to suggest delivering him to Gartokkar and Themberchaud, which did have some support until Ebadius made the decision to follow Droki instead. She followed Droki and the party into the tunnels until Droki ate a mushroom and escaped into a crack in the wall. Eldeth lagged behind while Ebadius and Groggle chased after him, and once it was discovered what mushroom to eat she shrunk with Alias and Dad to run after Droki.
+When Ebadius returned with Droki, Eldeth was the only one to suggest delivering him to Gartokkar and Themberchaud, which did have some support until Ebadius made the decision to follow Droki instead. She followed Droki and the party into the tunnels until Droki ate a mushroom and escaped into a crack in the wall. Eldeth lagged behind while Ebadius and Groggle chased after him, and once it was discovered what mushroom to eat she shrunk with Alias and Dad to run after Droki. She stayed behind with Dad at the crossroads to possibly catch Droki on his return, then returned with the others to make camp.
+
+Eldeth was the one who suggested staying the night in the Whorlstone Tunnels, since Ebadius, their means of return, was unconscious, and they were already running a risk going deeper into the tunnels.
 
 ## Relationships
 

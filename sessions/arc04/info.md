@@ -49,6 +49,11 @@ to let him complete his deliveries to find the Gray Ghosts. Droki eats a
 mushroom to shrink and run through a crack in the wall and Ebadius is
 downed while chasing him.
 
+### [Session 27: The Big Squeeze](session27-2022-05-11.md)
+Ebadius is rescued by Groggle and the party returns to rest. Droki
+returns and Alias captures him before he can escape, then Droki is
+severely injured as he returns to normal size from being tied up.
+
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
 * Current: Arc 4: The City of Blades
