@@ -100,7 +100,9 @@ Groggle didn't speak much during either their audience with Gartokkar or Thember
 
 On the way to the Whorlstone tunnels, Groggle head whispering in the caves of the West Cleft District. When he examined a crack in the wall, he nearly had his eye stabbed out by a derro with a knife, who then shouted at him in undercommon.
 
-When Droki escaped through the crack in the wall and Ebadius failed to eat the shrinking mushroom, Groggle grabbed mushroom after mushroom and ate them to see what would happen. Once he shrunk, he ran through the crack in the wall and met Ebadius on the other end. Groggle was then carried by Ebadius into a thicket of fungi when attacked by a swarm of insects, downing Ebadius and causing Groggle to crash to the ground.
+When Droki escaped through the crack in the wall and Ebadius failed to eat the shrinking mushroom, Groggle grabbed mushroom after mushroom and ate them to see what would happen. Once he shrunk, he ran through the crack in the wall and met Ebadius on the other end. Groggle was then carried by Ebadius into a thicket of fungi when attacked by a swarm of insects, downing Ebadius and causing Groggle to crash to the ground. Groggle ran back out of the thicket for help and found Alias, who escorted him back to Ebadius to stabalize him. They then regrouped with the party and went to make camp.
+
+Groggle awoke to the sound of Droki screaming after the accident. Groggle used his last spell of *healing word* to heal Droki, then returned to sleep, with Alias telling him to go back to sleep.
 
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either Dad or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
