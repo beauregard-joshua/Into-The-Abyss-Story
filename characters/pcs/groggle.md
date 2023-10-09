@@ -104,6 +104,10 @@ When Droki escaped through the crack in the wall and Ebadius failed to eat the s
 
 Groggle awoke to the sound of Droki screaming after the accident. Groggle used his last spell of *healing word* to heal Droki, then returned to sleep, with Alias telling him to go back to sleep.
 
+Groggle, sick of being in the underdark for as long as they had, had no interest in the acoustics of the cacauphonous plateau.
+
+When the party entered the room with the Gray Ghosts, Groggle stayed midway between everyone to have the best vantage point. When he became concerned that Ebadius' actions would lead to further conflict, Groggle cast *suggestion* twice on Ebadius to get him to comply with diplomacy. To further escort the party out, Groggle cast *minor illusion* to create the sound of people screaming "fire", getting everyone to leave the conflict. When Ebadius was broken from his *suggestion*, Groggle fessed up to being the one that cast the spell.
+
 ## Relationships
 Groggle is widely accepted amongst his party members, although he does not connect strongly with many of them, actually being fearful of many of them. There are few others that he confides in or trusts, such as Sarith and Shuushar, who seem to him to be the most level headed members of the party. He does divulge a bit of information with Ebadius at times, possibly because they arrived together at Velkenvelve. While he has not particularly bonded with either Dad or Ront, Groggle has done a decent job keeping them calm and focused, commanding at least a bit of respect.
 

@@ -54,6 +54,16 @@ Ebadius is rescued by Groggle and the party returns to rest. Droki
 returns and Alias captures him before he can escape, then Droki is
 severely injured as he returns to normal size from being tied up.
 
+### [Session 28: Let's Try Diplomacy](session28-2022-06-06.md)
+Alias scouts ahead of the party while leading Droki behind them. The party
+arrives on a den of thieves and attempts to negotiate with them while a
+brawl ensues.
+
+### [Session 29: Viles and Smiles](session29-2023-09-26.md)
+After failing to approach the situation diplomatically, Groggle casts *suggestion*
+on Ebadius in an attempt to break out of combat. The party leaves the room and
+continues on Droki's path to find a way out.
+
 ## Arc Links
 * Previous: [Arc 3: Dangers of the Darklake](../arc03/info.md)
 * Current: Arc 4: The City of Blades
