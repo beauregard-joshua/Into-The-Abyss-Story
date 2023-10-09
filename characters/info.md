@@ -45,7 +45,13 @@ encounter location for clarity.
 | [Bloppblippodd](sloobludop/bloppblippodd.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | Deceased |
 
 ### Gracklstugh
-**TODO**
+| Character | Session Introduced | Session Last Seen | Last Known Activity |
+| --- | --- | --- | --- |
+| Werz | [Session 19](../sessions/arc04/session19-2021-05-19.md) | [Session 21](../sessions/arc04/session21-2021-07-14.md) | Gathering information around the city |
+| Errde Blackskull | [Session 21](../sessions/arc04/session21-2021-07-14.md) | | |
+| Gartokkar Xundorn | [Session 21](../sessions/arc04/session21-2021-07-14.md) | | |
+| Themberchaud | | | |
+| [Droki](gracklstugh/droki.md) | [Session 25](../sessions/arc04/session25-2022-03-02.md) | Present | Leading the party through the Whorlstone Tunnels |
 
 ## Navigation
 * [Return to top](../README.md)
