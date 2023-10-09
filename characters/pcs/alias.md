@@ -111,6 +111,12 @@ Alias then joined the others into Themberchaud's cavern once he called for them.
 
 On watch, Alias heard Droki singing in the tunnels and moved to intercept him. Alias tied him up and held him down until he stopped struggling. When the fungus that had shrink Droki wore off, Droki broke several bones and cut himself open from Alias' ropes. Alias told everyone to go back to sleep and took care of things herself.
 
+While traveling with Droki, Alias, along with Dad, summitted the large cacauphonous plateau, but found nothing.
+
+When the party encountered the Gray Dwarves in the Whorlstone Tunnels, Alias attempted to parlay with Lorthio through their language barrier. She was struck with a flask of acid, but continued to try diplomacy. Once Ebadius arrived, his mistranslations in combination with the *suggestion* spell led to Alias making several bad calls regarding how to handle Lorthio. Alias continued to try diplomacy, but eventually resulted in shooting Lorthio and breaking a vial of alchemist's vile. She eventually disarmed him and then left with the party.
+
+Alias struck Ebadius with a rock to break the *suggestion* spell he was under. When Ebadius cast *invisibility* and went to leave, Alias clapped his hands with chalk and threw it into the air in an attempt to catch him, but was unsuccessful.
+
 ## Relationships
 Alias attempted to have a romantic relationship with Eldeth and had been courting her for much of their journey. Through this connection, Eldeth appears to listen to mish of what Alias has to say, also considering that Alias takes charge in the party. Eldeth expressed her desire to remain friends with Alias, and while she was disappointed, Alias remains friends with Eldeth to this day.
 
