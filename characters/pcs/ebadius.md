@@ -108,6 +108,10 @@ When Droki ate a mushroom and attempted to run away, Ebadius cast *hold person*,
 
 Ebadius woke up in the party's camp and saw Droki injured in front of Alias. After stating his joy at seeing Droki injured, Ebadius went back to sleep.
 
+When the party encountered the Gray Dwarves in the Whorlstone Tunnels, Ebadius first moved to speak with the group of dwarves in the back of the room, then moved to assist Alias with Lorthio. Ebadius made a threat to Lorthio in undercommon, which prompted Groggle to cast *suggestion* twice; first to bow his head with his palms open, then to consider everyone as friendly and helpful. Under the effect of *suggestion* and through Groggle's *minor illusion*, Ebadius led the party out of the room and down the corridor.
+
+When Ebadius was struck with a rock and removed from *suggestion*, he started yelling at the party to determine who messed with his head. When Groggle fessed up, Ebadius cast *invisbility* on himself and left the party.
+
 ## Relationships
 Ebadius has mixed relationships with most members of his party, stemming from his ability to take successive action as well as his ability to get the party into danger. He and Alias have a farily decent relationship, as the two of them do most of the planning. Ebadius also shares a decent relationship with Sarith, even considering the fear of how Sarith might endanger the party. While he does not have a particularly strong relationship with Groggle, these three appear to be the only characters in which Ebadius accepts counsel.
 
