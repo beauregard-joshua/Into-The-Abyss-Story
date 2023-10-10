@@ -35,11 +35,31 @@ Sarith opened up to a few members of the party during their first watch together
 
 When the party encountered a group of goblins in the tunnels, Sarith tried to steer the party to avoid them. When conflict began, Sarith attacked in an attempt to silence them.
 
-When Jimjar was found dead, Sarith expressed extreme distrust of everyone in the party. Dad attempted to intimidate Sarith to get a confession out of him, which only made Sarith angrier and nearly started a brawl. When the party went back to sleep Sarith stayed awake. When told by Groggle that he did not need to stay awake, he stated that there was no one there that he trusted.
+When Jimjar was found dead, Sarith expressed extreme distrust of everyone in the party. Dad attempted to intimidate Sarith to get a confession out of him, which only made Sarith angrier and nearly started a brawl. When the party went back to sleep Sarith stayed awake. When told by Groggle that he did not need to stay awake, he stated that there was no one there that he trusted, so he would stay awake the entire time.
+
+On the next night on watch, Alias was on watch with Sarith. Sarith evaded all of Alias' remarks due to his lack of trust in her. The rest of the watch remained silent.
+
+When the party camped for one night and were able to hear chatter in another chamber, Sarith stayed behind with Dad while the others investigated. Dad attempted to speak with Sarith, but he remained evasive. This started an altercation between Dad and Sarith, which needed to be broken up by Eldeth, and others assisted on return. After this, Groggle tried to health Sarith's fungal growth, which caused it to burn on his face and he screamed. Sarith was next on watch with Alias and [Shuushar](shuushar.md), but remained quiet.
+
+Sarith awoke screaming and writhing, waking up the party. After being bound and held for quite some time he eventually passed out. After waking up, Ebadius explains the situation to him, and Sarith asked to remain bound since he is not trustworthy. His hands were unbound only to assist making bread from fungus for the evening, and went hungry for the night with Ebadius, Groggle, and Eldeth. Sarith remained bound during his watch with Alias and Eldeth, but was less resistant this time with conversation. He thanked the two for not assuming the worst in him.
+
+Sarith remained bound for quite some time. Sarith was unable to assist the battle against the grell. After camping another night the party began to trust Sarith again and untied him.
+
+Sarith assisted Alias, Ebadius, and Shuushar with scouting ahead when they encountered a band of kuo-toa. When Shuushar was abducted by them, Sarith sent Ebadius back to grab the others in the party while he remained on watch and kept close. He moved in to attack the kuo-toa when the archpriest of the Sea Mother [Ploopploopeen](../sloobludop/ploopploopeen.md) arrived and aided in the fight.
+
+When the party reached Sloobludop, Sarith went to his room and remained there all day to rest. He was not seen by anyone until the following day.
+
+Sarith borrowed some money from Groggle to buy himself a few supplies.
+
+Sarith went along with the plan to infiltrate the [cult of the Deep Father](../../lore/organizations/deepfather.md). When Demogorgon arose from the darklake, Sarith was driven into a temporary madness, but was broken free from it with Shuushar's aid. Sarith assisted [Hemeth](hemeth.md) in escaping from the altar, and the two of them were the first to escape from Sloobludop during the attack. Sarith rang the bell that he had purchased to get the attention of the fleeing party to gather in the tunnels. He backed the suggestion of moving away from Sloobludop to reach Gracklstugh, although reminded the party of Neverlight Grove, even without [Stool's](stool.md) help.
 
 ### [Dangers of the Darklake](../../sessions/arc03/info.md)
 
+As the party splits up to gather materials to travel the darklake, Sarith travels with Dad and Ront to search for food when they encounter the Velkenvelve search party. Dad and Sarith together kill the drow on patrol and escape down a corridor, losing Ront in the process. They made their way back to camp when the following drow followed another corridor following a suspicious creature. He then traveled back to Sloobludop to join up with the party searching the salvage.
 
+Together with Alias, Sarith distracted the searching drow party by having them investigate the kuo-toa that remained within the wrecked town.
+
+When the boat was attacked by an aquatic troll, Sarith took considerable damage and was severely injured. He also fumbled during the fight and damaged the ship.
 
 ### [The City of Blades](../../sessions/arc04/info.md)
 
