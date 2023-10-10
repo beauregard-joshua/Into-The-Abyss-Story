@@ -19,11 +19,11 @@ Sarith at some point contracted an unknown fungal infection that has spread acro
 ## Story
 ### [The Prison at Velkenvelve](../../sessions/arc01/info.md)
 
-Sarith was one of the first arrivals to Velkenvelve prison, along with [Ebadius](../pcs/ebadius.md) and [Groggle](../pcs/groggle.md). He explained to the two of them the basics of drow prison camps, what to expect, and otherwise kept to himself. After the arrival of others and the party was split into performing menial tasks, Sarith was organized with Ebadius and [Groggle](../pcs/groggle.md) and tasked with stacking rocks, and is later taken away to wash clothing. Sarith was complicit with these instructions for the fact that, as he explained, fighting against the drow was likely a lost cause.
+Sarith was one of the first arrivals to Velkenvelve prison, along with [Ebadius](../pcs/ebadius.md) and [Groggle](../pcs/groggle.md). He explained to the two of them the basics of drow prison camps, what to expect, and otherwise kept to himself. After the arrival of others and the party was split into performing menial tasks, Sarith was organized with Ebadius and Groggle and tasked with stacking rocks, and is later taken away to wash clothing. Sarith was complicit with these instructions for the fact that, as he explained, fighting against the drow was likely a lost cause.
 
 When the first revolt at Velkenvelve began, Sarith seized the opportunity to have [Alias](../pcs/alias.md) and Groggle jump to the webbing below. He eventually surrendered to the drow and was taken back to the cell along with Groggle.
 
-Sarith started the second revolt at Velkenvelve by throwing a rock at a nearby guard while screeching. This caused Dad to scream "anarchy" and motivate Ront and Eldeth into rioting as well. During the combat Sarith is restrained by the guards while the others continued to fight, eventually causing the party to lose track of him. Sarith eventually caught up to the party right before one of the drow guards arrived to deliver supplies and returning to the prison.
+Sarith started the second revolt at Velkenvelve by throwing a rock at a nearby guard while screeching. This caused [Dad](../pcs/dad.md) to scream "anarchy" and motivate [Ront](ront.md) and Eldeth into rioting as well. During the combat Sarith is restrained by the guards while the others continued to fight, eventually causing the party to lose track of him. Sarith eventually caught up to the party right before one of the drow guards arrived to deliver supplies and returning to the prison.
 
 In the vote for where to travel next, Sarith voted for Neverlight Grove, citing its peace and likely means to the surface.
 
