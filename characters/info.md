@@ -17,17 +17,17 @@ encounter location for clarity.
 ## Party Characters
 | Character | Session Introduced | Session Last Seen | Status |
 | --- | --- | --- | --- |
-| [Sarith Kzekarit](party/sarith.md) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | Present | Alive |
+| [Sarith Kzekarit](party/sarith.md) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | [Session 25](../sessions/arc04/session25-2022-03-02.md) | Hidden in Gracklstugh |
 | [Buppido](party/buppido.md) | [Session 1](../sessions/arc01/session01-2020-05-24.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | Missing |
 | [Eldeth Feldrun](party/eldeth.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | Present | Alive |
 | [Jimjar](party/jimjar.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 6](../sessions/arc02/session06-2020-08-16.md)| Deceased |
-| [Ront](party/ront.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | Present | Alive |
-| [Shuushar the Awakened](party/shuushar.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | Present | Alive |
+| [Ront](party/ront.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 25](../sessions/arc04/session25-2022-03-02.md) | Missing |
+| [Shuushar the Awakened](party/shuushar.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 25](../sessions/arc04/session25-2022-03-02.md) | Hidden in Gracklstugh |
 | [Stool](party/stool.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | Missing |
 | [Derendil](party/derendil.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 3](../sessions/arc01/session03-2020-06-28.md) | Deceased |
 | [Topsy](party/topsy.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 3](../sessions/arc01/session03-2020-06-28.md) | Missing |
 | [Turvy](party/turvy.md) | [Session 2](../sessions/arc01/session02-2020-06-14.md) | [Session 3](../sessions/arc01/session03-2020-06-28.md) | Missing |
-| [Hemeth](party/hemeth.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | [Session 19](../sessions/arc04/session19-2021-05-19.md) | Alive |
+| [Hemeth](party/hemeth.md) | [Session 10](../sessions/arc02/session10-2020-11-08.md) | [Session 19](../sessions/arc04/session19-2021-05-19.md) | Presumed Alive |
 
 ## NPCs
 ### Velkenvelve
@@ -47,7 +47,7 @@ encounter location for clarity.
 ### Gracklstugh
 | Character | Session Introduced | Session Last Seen | Last Known Activity |
 | --- | --- | --- | --- |
-| Werz | [Session 19](../sessions/arc04/session19-2021-05-19.md) | [Session 21](../sessions/arc04/session21-2021-07-14.md) | Gathering information around the city |
+| Werz Saltborn | [Session 19](../sessions/arc04/session19-2021-05-19.md) | [Session 21](../sessions/arc04/session21-2021-07-14.md) | Gathering information around the city |
 | Errde Blackskull | [Session 21](../sessions/arc04/session21-2021-07-14.md) | | |
 | Gartokkar Xundorn | [Session 21](../sessions/arc04/session21-2021-07-14.md) | | |
 | Themberchaud | | | |
