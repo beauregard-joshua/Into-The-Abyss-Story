@@ -51,7 +51,7 @@ When the party reached Sloobludop, Sarith went to his room and remained there al
 
 Sarith borrowed some money from Groggle to buy himself a few supplies.
 
-Sarith went along with the plan to infiltrate the [cult of the Deep Father](../../lore/organizations/deepfather.md). When Demogorgon arose from the darklake, Sarith was driven into a temporary madness, but was broken free from it with Shuushar's aid. Sarith assisted [Hemeth](hemeth.md) in escaping from the altar, and the two of them were the first to escape from Sloobludop during the attack. Sarith rang the bell that he had purchased to get the attention of the fleeing party to gather in the tunnels. He backed the suggestion of moving away from Sloobludop to reach Gracklstugh, although reminded the party of Neverlight Grove, even without [Stool's](stool.md) help.
+Sarith went along with the plan to infiltrate the [cult of the Deep Father](../../lore/organizations/deepfather.md). When [Demogorgon](../../lore/demon_lords/demogorgon.md) arose from the darklake, Sarith was driven into a temporary madness, but was broken free from it with Shuushar's aid. Sarith assisted [Hemeth](hemeth.md) in escaping from the altar, and the two of them were the first to escape from Sloobludop during the attack. Sarith rang the bell that he had purchased to get the attention of the fleeing party to gather in the tunnels. He backed the suggestion of moving away from Sloobludop to reach Gracklstugh, although reminded the party of Neverlight Grove, even without [Stool's](stool.md) help.
 
 ### [Dangers of the Darklake](../../sessions/arc03/info.md)
 
@@ -75,5 +75,21 @@ Sarith explained the complicated situation in regards to docking in Gracklstugh 
 
 ### [The City of Blades](../../sessions/arc04/info.md)
 
-## Trivia
+When the party made it to the inn in Gracklstugh, Sarith took a room with Shuushar and quickly fell asleep, similar to his arrival in Sloobludop. He slept through the entirety of the commotion regarding the rampaging giant. Alias went to his room to tell him what had happened and, appearing unphased, returned to sleep on the floor while Shuushar slept in the single bed.
 
+The party lost track of Sarith while they brokered their deals with the [Stoneguard](../../lore/organizations/stoneguard.md) and the [Keepers of the Flame](../../lore/organizations/keepersofflame.md). While most of the party was gathering supplies and researching next steps, Alias and Groggle spend a large portion of time looking for him, but are unsuccessful. He was eventually spotted by Dad, Alias, and Groggle being dragged away to Overlake Hold. With a combined effort from Alias and Ebadius, the two are able to break him out of prison in an attempt to free themselves of the Stoneguard under the protection of the Keepers of the Flame. Sarith, smelling strongly of alcohol, was barely able to speak while the party explained their situation. As Shuushar arrived, Ebadius cast *invisibility* on Sarith to hide him and instructed Shuushar to keep him hidden.
+
+## Relationships
+
+Sarith has had mixed relationships all along the journey, not due to decision making but instead due to his personality switches. Much of the party puts stock in his ideas and combat abilities, but often keep him at a distance the moment something in his personality switches. It should be noted that even with his extreme swings in behavior most of the party has continued to support him. This is possibly due to his normally rational demeanor or the fact that he is vital to the partys survival.
+
+Sarith has had moments to connect with quite a few party members. He has shown to have a very strong relationship with Alias, Ebadius, and Groggle individually. Groggle has expressed a strong interest in healing Sarith's infection, even to Sarith's refusal for treatment. While both Alias and Ebadius had their doubts about Sarith when Jimjar was found murdered, the two of them each individually had moments with him that led them to trust him in the end. Alias often finds herself scouting with Sarith, while Ebadius enjoys learning more about the underdark from him.
+
+Dad and Sarith once shared a strained relationship, starting from the murder of Jimjar. Dad immedietely did not trust Sarith and threatened him on several occassions, causing Sarith to retaliate. This caused a rift in the party several times and pushed Sarith to even refusing to spend watch orders with Dad. Their relationship changed, however, after Demogorgon's attack on Sloobludop, when the two of them, along with Ront, survived in the tunnels together. From that point forward, Sarith and Dad held a strong relationship.
+
+The only strong negative relationships that Sarith has are with Eldeth, due to her flagrant racism, and formerly with Hemeth, who was prepared to have him killed when he was temporarily voted as captain.
+
+## Trivia
+* Sarith has been both one of the most helpful party members as well as one of the most dangerous. Without his aid the party would have likely been unable to find or prepare food in the underdark or navigate some of the more complex tunnels. On the other hand, due to his personality switches he has harmed several party members and threatened their lives on multiple occassions.
+* Sarith was originally one of the lead suspects for the murder of Jimjar, but most of the party came to his side once Dad threatened him.
+* Alias and Ebadius both have had very deep conversations with Sarith, enough that their PCs made a note of the fact that they didn't expect to encounter someone so rational or down-to-earth in the underdark.

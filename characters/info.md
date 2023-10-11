@@ -47,7 +47,7 @@ encounter location for clarity.
 ### Gracklstugh
 | Character | Session Introduced | Session Last Seen | Last Known Activity |
 | --- | --- | --- | --- |
-| Werz | [Session 19](../sessions/arc04/session19-2021-05-19.md) | [Session 21](../sessions/arc04/session21-2021-07-14.md) | Gathering information around the city |
+| Werz Saltborn | [Session 19](../sessions/arc04/session19-2021-05-19.md) | [Session 21](../sessions/arc04/session21-2021-07-14.md) | Gathering information around the city |
 | Errde Blackskull | [Session 21](../sessions/arc04/session21-2021-07-14.md) | | |
 | Gartokkar Xundorn | [Session 21](../sessions/arc04/session21-2021-07-14.md) | | |
 | Themberchaud | | | |
