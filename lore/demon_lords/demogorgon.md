@@ -1,6 +1,6 @@
 # Demogorgon
 
-[Home](../../README.md) > [Lore](../info.md) > [Demon Lords](info.md) Demogorgon
+[Home](../../README.md) > [Lore](../info.md) > [Demon Lords](info.md) > Demogorgon
 
 ![Demogorgon](Demogorgon.jpeg)
 
