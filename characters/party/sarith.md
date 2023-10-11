@@ -61,6 +61,18 @@ Together with Alias, Sarith distracted the searching drow party by having them i
 
 When the boat was attacked by an aquatic troll, Sarith took considerable damage and was severely injured. He also fumbled during the fight and damaged the ship.
 
+Sarith traveled into the tunnels of the underdark after docking the boat to search for salvage for repair along with Dad and Groggle. After repairing the boat he stayed behind with Ebadius while others went into the tunnels to look for food. Sarith held conversation with Ebadius, but acted strangely and spoke out of character from himself. Ebadius kept this information to himself and said nothing to Sarith about it. Later that night Ebadius saw Sarith behaving strangely again, seemingly speaking to himself and twitching.
+
+As the party attacked the duregar traders, Sarith continuously asked what the party was doing and why this was the right move. He said nothing as they sailed away.
+
+After docking for the second time, Sarith searches the tunnels for food with Alias, Dad, and Ebadius. After Dad headed back with food, Sarith heard noises coming from down the corridor. He returned to the boat with what food he had found and sent Dad and Groggle back to assist, claiming that their balance of skills would be adequate. As the party emerged victorious, Sarith suggested that they rest while the rest of them stood watch before heading out.
+
+Sarith stayed behind when the party discovered the fungal island on the darklake. When the party returned in a hurry, Sarith began acting strangely again; he grabbed Groggle by his collar and attempted to throw him into the water while the others were prepping to leave. We was restrained by Ebadius and did little to try to resist until he passed out. When we awoke and had the situation explained to him, Sarith was defeated from the situation, and suggested that the party simply leave him behind as to not jeopardize their survival. Groggle stepped up and told him that they wouldn't leave him behind. He expresses gratitude for having friends like them, but assures them that they are making a mistake.
+
+Searching more tunnels for food, Sarith, bound, traveled with Ebadius when they encountered a group of drow. Sarith convinced Ebadius to cut his bindings and he approached them to parlay safely. He learned that they were traders, bought soap from them, then returned to Ebadius to be bound once again. Ebadius chose not to bind Sarith again and the two returned to the boat.
+
+Sarith explained the complicated situation in regards to docking in Gracklstugh and the issue that they may encounter. He was unsure whether to dock directly in the city or to approach on foot.
+
 ### [The City of Blades](../../sessions/arc04/info.md)
 
 ## Trivia

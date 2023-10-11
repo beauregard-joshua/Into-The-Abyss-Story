@@ -25,7 +25,7 @@ The next day, Ploopploopeen lead [Dad](../pcs/dad.md), [Ebadius](../pcs/ebadius.
 When Demogorgon rose from the water, Ploopploopeen remained silent, watching the chaos unfold. He was last seen standing at the altar as the party escaped and Demogorgon attacked.
 
 ## Possible Death and Legacy
-While his death was not witnessed, due to the destruction of Sloobludop it is suspected that Ploopploopeen was killed amidst the chaos. When the party returned to Sloobludop to salvage parts of the wreckage to make a boat, his body was not recovered. The party did discover a select group of kuo-toa continuing to worhship the Deep Father, so it is assumed that the onlt remaining kuo-toa within the town are members of the cult.
+While his death was not witnessed, due to the destruction of Sloobludop it is suspected that Ploopploopeen was killed amidst the chaos. When the party returned to Sloobludop to salvage parts of the wreckage to make a boat, his body was not recovered. The party did discover a select group of kuo-toa continuing to worhship the Deep Father, so it is assumed that the only remaining kuo-toa within the town are members of the cult.
 
 Shuushar remained the only party member to discuss Ploopploopeen, seemingly because of their close connection.
 
